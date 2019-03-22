@@ -1,0 +1,2375 @@
+[
+  {
+    "formatted_address": "13540 Aix-en-Provence, France",
+    "geometry": {
+      "location": {
+        "lat": 43.5809238,
+        "lng": 5.4233369
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.58230932989272,
+          "lng": 5.424678879892721
+        },
+        "southwest": {
+          "lat": 43.57960967010727,
+          "lng": 5.421979220107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8f6290dae8bb0870a68c4ce2a41e6a45a85b7334",
+    "name": "Carterie Librairie Mag Presse Loto",
+    "place_id": "ChIJx3AgfZuMyRIR_T7MSlbyZk4",
+    "plus_code": {
+      "compound_code": "HCJF+98 Aix-en-Provence, France",
+      "global_code": "8FM7HCJF+98"
+    },
+    "rating": 4,
+    "reference": "ChIJx3AgfZuMyRIR_T7MSlbyZk4",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "25 Rue du Rendez-Vous, 75012 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8455887,
+        "lng": 2.4033349
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84697932989273,
+          "lng": 2.404723329892722
+        },
+        "southwest": {
+          "lat": 48.84427967010728,
+          "lng": 2.402023670107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "33b67f38b18e05b9a14e9f6f5dfc925c0c73fb12",
+    "name": "Librairie Papeterie Presse Du Rendez Vous",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJ33_8JHty5kcRLpvRFMRwIsI",
+    "plus_code": {
+      "compound_code": "RCW3+68 Paris, France",
+      "global_code": "8FW4RCW3+68"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ33_8JHty5kcRLpvRFMRwIsI",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 6
+  },
+  {
+    "formatted_address": "3 Boulevard Pierre 1er, 33110 Le Bouscat, France",
+    "geometry": {
+      "location": {
+        "lat": 44.8541298,
+        "lng": -0.5934901
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.85545317989271,
+          "lng": -0.5920671701072778
+        },
+        "southwest": {
+          "lat": 44.85275352010727,
+          "lng": -0.5947668298927222
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "701521b3c7673e30ae8d9bd668a76ccff9a3405b",
+    "name": "Librairie presse tabac",
+    "place_id": "ChIJt_AW3AUoVQ0Rnttg6e2z8f0",
+    "plus_code": {
+      "compound_code": "VC34+MJ Le Bouscat, France",
+      "global_code": "8CPXVC34+MJ"
+    },
+    "rating": 3,
+    "reference": "ChIJt_AW3AUoVQ0Rnttg6e2z8f0",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "1 Rue Gambetta, 17200 Royan, France",
+    "geometry": {
+      "location": {
+        "lat": 45.6240276,
+        "lng": -1.02954
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.62530677989272,
+          "lng": -1.028121220107278
+        },
+        "southwest": {
+          "lat": 45.62260712010728,
+          "lng": -1.030820879892722
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "66869f5121997235db0c6060376436d56df01999",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3968,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114148034388687590477/photos\"\u003eEric Hurbourque\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA8Zksw8FTHaX39hF_TaEpCYZhFqemMfYTrc9KH5KXVSLh-_DdTTPRA7skW9G7SrmFu90cWqrCoxcKOmav-SRK62ZSPfRAf-1GV-XU1a87Uqxq_4hmkPYRyNRCYYQxzd1GEhCIR8Jdf9DqDFrFIo0UJSr1GhTBe1tBcfFH-IsHMvptbaafY43pTQ",
+        "width": 2976
+      }
+    ],
+    "place_id": "ChIJiZsjt0R2AUgRzp1YkU72RbM",
+    "plus_code": {
+      "compound_code": "JXFC+J5 Royan, France",
+      "global_code": "8CQWJXFC+J5"
+    },
+    "rating": 3.9,
+    "reference": "ChIJiZsjt0R2AUgRzp1YkU72RbM",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 143
+  },
+  {
+    "formatted_address": "76 Rue de Tolbiac, 75013 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.827197,
+        "lng": 2.366701
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.82847452989272,
+          "lng": 2.368068479892723
+        },
+        "southwest": {
+          "lat": 48.82577487010727,
+          "lng": 2.365368820107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "320f504a03cae37d88cc2e06438f3c51474abc26",
+    "name": "Librairie Papeterie presse Manalit",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1079,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/116564364507407121346/photos\"\u003eA Google User\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAQYe3ro6UalPWFngD1UHl8_OFebFSoLiYT7S9efDJg2TCYEAxDxf6_7gjTICeWB9qpW7BRH4ne7EY2yoBCQel3UcYISYqcQMA8FhvPIWgaiPSvMpMdQbK6U1FaKCXy5Q_EhBfp-zDuRfW_H3wI6vMvyryGhTozXIyb4zD6eRcycMeqRY7Inu-xQ",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJE6HQsCdy5kcR5XfNOTeA8uk",
+    "plus_code": {
+      "compound_code": "R9G8+VM Paris, France",
+      "global_code": "8FW4R9G8+VM"
+    },
+    "rating": 4.6,
+    "reference": "ChIJE6HQsCdy5kcR5XfNOTeA8uk",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 36
+  },
+  {
+    "formatted_address": "2 Avenue du Général de Gaulle, 78000 Versailles, France",
+    "geometry": {
+      "location": {
+        "lat": 48.801938,
+        "lng": 2.12908
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.80325497989272,
+          "lng": 2.130592629892722
+        },
+        "southwest": {
+          "lat": 48.80055532010727,
+          "lng": 2.127892970107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e8cf52b452e6ed188b6f9819b3754eb1f47f6f42",
+    "name": "Librairie Presse des Manèges",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/103909203974979938434/photos\"\u003eLibrairie Presse des Manèges .\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAssiTLTYyB6q6i9QY_Yo-Fjq80JLBOTEpFWSQ12IKdyenINNNZkxNDFbMlcLT8Qu7z6LHEoseq7jLE3Q4OGC7g3eZ0TgRbDIl0lovIIZ6XOhsk2nM09AMzXlKUo6aox0qEhC6ACwE8CJ_hVNfaRxNEClkGhRGI-UnDQPebehPrIN8-s_Rdkp-Wg",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJe9L1r7d95kcRmtxgerbSz_Q",
+    "plus_code": {
+      "compound_code": "R42H+QJ Versailles, France",
+      "global_code": "8FW4R42H+QJ"
+    },
+    "rating": 2.6,
+    "reference": "ChIJe9L1r7d95kcRmtxgerbSz_Q",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 5
+  },
+  {
+    "formatted_address": "28-30 Avenue Gambetta, 17100 Saintes, France",
+    "geometry": {
+      "location": {
+        "lat": 45.746835,
+        "lng": -0.626768
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.74820162989272,
+          "lng": -0.6254163201072778
+        },
+        "southwest": {
+          "lat": 45.74550197010728,
+          "lng": -0.6281159798927223
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2a7ca000d12a66bbd770d319a665e02391aaa9db",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJTfAr9a0CAUgRMxgadA4WtKY",
+    "plus_code": {
+      "compound_code": "P9WF+P7 Saintes, France",
+      "global_code": "8CQXP9WF+P7"
+    },
+    "rating": 4.3,
+    "reference": "ChIJTfAr9a0CAUgRMxgadA4WtKY",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 10
+  },
+  {
+    "formatted_address": "Centre Cial Cora, Avenue de l'Europe, 91300 Massy, France",
+    "geometry": {
+      "location": {
+        "lat": 48.724799,
+        "lng": 2.2773333
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.72629737989272,
+          "lng": 2.278987779892722
+        },
+        "southwest": {
+          "lat": 48.72359772010728,
+          "lng": 2.276288120107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9e48af4aac26073fbebe60fe8e8e065e61c0ab83",
+    "name": "Horizon 3000 Tabac Presse Librairie",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1070,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/104215636188393868675/photos\"\u003eHorizon 3000 Tabac Presse Librairie\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAaZFymPIUsMkRR1Vz6Lfi4AgnQpUgYVGCW2QUO20pdPj7WVg4YYELHQcFkPtGae6vGRkcJ8zTNsvUMn8dZss8YnHMfBuU7Sl17RjXDaIK68oMGJgZYi6jNJ4ly096IQYzEhBavzLxk_gLYjgfWogxzHmSGhRadQ9Ls5jbXsVDJ2xDZcAy_oN04A",
+        "width": 1427
+      }
+    ],
+    "place_id": "ChIJ1ViNMZB35kcRJrieVzCoEjA",
+    "plus_code": {
+      "compound_code": "P7FG+WW Massy, France",
+      "global_code": "8FW4P7FG+WW"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ1ViNMZB35kcRJrieVzCoEjA",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 17
+  },
+  {
+    "formatted_address": "7 Place Bonnyaud, 23000 Guéret, France",
+    "geometry": {
+      "location": {
+        "lat": 46.16824829999999,
+        "lng": 1.8705887
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.16967577989271,
+          "lng": 1.871931979892722
+        },
+        "southwest": {
+          "lat": 46.16697612010727,
+          "lng": 1.869232320107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "041719abf5ee22d7a19a87009a9c676023f6c62e",
+    "name": "Pressliv",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/117552941615946127845/photos\"\u003eSeverine Baillet\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAMdWkdd0kaJZd6TuYx-Axw4Fp3xptk2wBTh9vsUE0d_SGs7C8iLWV4JS6eBZlwwMvTKrJFIqQdOJX84mda742EsFzFdwIJVTLqwbq55HackDebHdLIlpoOLbCK34Shy4yEhAh586j8-kpHRi5rfGeydpEGhTwyNEv3rnLy4GcdX64EbDa5Sy8Ew",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJcfrMDrN_-UcRD4ShiZwJxUQ",
+    "plus_code": {
+      "compound_code": "5V9C+76 Guéret, France",
+      "global_code": "8FR35V9C+76"
+    },
+    "rating": 3.6,
+    "reference": "ChIJcfrMDrN_-UcRD4ShiZwJxUQ",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 51
+  },
+  {
+    "formatted_address": "Rue de la Chaussée, 18190 Châteauneuf-sur-Cher, France",
+    "geometry": {
+      "location": {
+        "lat": 46.8573605,
+        "lng": 2.3177302
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.85870887989272,
+          "lng": 2.319080579892722
+        },
+        "southwest": {
+          "lat": 46.85600922010727,
+          "lng": 2.316380920107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f76b0dfb73b9d4f94361444bd5ab1aa111cffcfd",
+    "name": "Maison de la Presse",
+    "place_id": "ChIJ0yKqnhOL-kcRncsnPhAKvF8",
+    "plus_code": {
+      "compound_code": "V849+W3 Châteauneuf-sur-Cher, France",
+      "global_code": "8FR4V849+W3"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ0yKqnhOL-kcRncsnPhAKvF8",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 9
+  },
+  {
+    "formatted_address": "60 Rue Michel Bléré, 60260 Lamorlaye, France",
+    "geometry": {
+      "location": {
+        "lat": 49.1549118,
+        "lng": 2.4428949
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.15627507989272,
+          "lng": 2.444133679892722
+        },
+        "southwest": {
+          "lat": 49.15357542010727,
+          "lng": 2.441434020107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c204f496f321c00d8dd2a82655e406b1109a8b4e",
+    "name": "Lamorlaye Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJAVcN0bVH5kcR4PKyVj7UKzU",
+    "plus_code": {
+      "compound_code": "5C3V+X5 Lamorlaye, France",
+      "global_code": "8FX45C3V+X5"
+    },
+    "rating": 4.2,
+    "reference": "ChIJAVcN0bVH5kcR4PKyVj7UKzU",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 38
+  },
+  {
+    "formatted_address": "27 Grand Rue, 67500 Haguenau, France",
+    "geometry": {
+      "location": {
+        "lat": 48.812583,
+        "lng": 7.786489
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.81389287989273,
+          "lng": 7.787889729892722
+        },
+        "southwest": {
+          "lat": 48.81119322010728,
+          "lng": 7.785190070107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b063711e51ef4b9e363d1217f5350274bfbe68df",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2665,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/109161531283224784955/photos\"\u003eMaison de la Presse\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA_BgOjDHWJ1Wh9NLXuf4VTUCPxQiYPPiKd-HrJZGe7tw5imF2kzm8b0D_E5B-C3aWHWnwWxN-LTx4Rrk0IPSVlF_N8mDsEeuM55_bipC2HMaVB3sIsNDfN8GdZsw_4ATdEhBJHgW-X-HRSrOegyVmPjktGhSvb6JX5LJP3p4wgywLnNF6D4T5-Q",
+        "width": 4368
+      }
+    ],
+    "place_id": "ChIJqSbtFNrqlkcRfc9nmGvmIvg",
+    "plus_code": {
+      "compound_code": "RQ7P+2H Haguenau, France",
+      "global_code": "8FW9RQ7P+2H"
+    },
+    "rating": 4.2,
+    "reference": "ChIJqSbtFNrqlkcRfc9nmGvmIvg",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 373
+  },
+  {
+    "formatted_address": "8 Avenue Louis Conte, 46500 Gramat, France",
+    "geometry": {
+      "location": {
+        "lat": 44.7800742,
+        "lng": 1.7250271
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.78140927989271,
+          "lng": 1.726369229892722
+        },
+        "southwest": {
+          "lat": 44.77870962010726,
+          "lng": 1.723669570107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "3b1d88a93f18af99ff37023c54df6b28b41b6891",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJfcxgjJfbrBIRVDTMZ9q5-XY",
+    "plus_code": {
+      "compound_code": "QPJG+22 Gramat, France",
+      "global_code": "8FP3QPJG+22"
+    },
+    "rating": 4.4,
+    "reference": "ChIJfcxgjJfbrBIRVDTMZ9q5-XY",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 16
+  },
+  {
+    "formatted_address": "Place de l'Écluse, 44000 Nantes, France",
+    "geometry": {
+      "location": {
+        "lat": 47.215984,
+        "lng": -1.5562257
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 47.21738152989272,
+          "lng": -1.554888420107278
+        },
+        "southwest": {
+          "lat": 47.21468187010728,
+          "lng": -1.557588079892722
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "29207dd5aeade0caee67074eb1a11fa91758c817",
+    "name": "AGORA presse et caetera",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1530,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/102736336170639339848/photos\"\u003eAGORA presse et caetera\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA4f9TUvSKN7o7g8kxLGxCxEYaEI6JwgRXtu9rar1UzsGTnM9QU_GeA2fTNKZ7UU3KBTDu_bj0RqmBBHRqTCe3de9E7tqgRsdPchL0uoQlCaLBV5NxPU4aaBa62A3qYylXEhDlZZvVUGpt-M8soxM67ktWGhSG6W0jt_EgRftdiS5ouTrJIf90Fw",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJrf3CjKbuBUgRCUUh9buUP5w",
+    "plus_code": {
+      "compound_code": "6C8V+9G Nantes, France",
+      "global_code": "8CVW6C8V+9G"
+    },
+    "rating": 3.5,
+    "reference": "ChIJrf3CjKbuBUgRCUUh9buUP5w",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 31
+  },
+  {
+    "formatted_address": "3 Rue Edmond Charpentier, 42000 Saint-Étienne, France",
+    "geometry": {
+      "location": {
+        "lat": 45.45061159999999,
+        "lng": 4.3834344
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.45200182989272,
+          "lng": 4.384856629892722
+        },
+        "southwest": {
+          "lat": 45.44930217010728,
+          "lng": 4.382156970107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "adafcd2d7ea3d1c5c8afc0ca9fc566afb8e42b1b",
+    "name": "Mag Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJ8_lOfhqs9UcR9zR6DVRXyA4",
+    "plus_code": {
+      "compound_code": "F92M+69 Saint-Étienne, France",
+      "global_code": "8FQ6F92M+69"
+    },
+    "rating": 3.4,
+    "reference": "ChIJ8_lOfhqs9UcR9zR6DVRXyA4",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 7
+  },
+  {
+    "formatted_address": "27 Rue de la République, 49350 Gennes, France",
+    "geometry": {
+      "location": {
+        "lat": 47.3396261,
+        "lng": -0.2326955
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 47.34099057989272,
+          "lng": -0.2313811701072778
+        },
+        "southwest": {
+          "lat": 47.33829092010728,
+          "lng": -0.2340808298927222
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "dc67d9515f4a97bed4de833b1015f7af9eeef413",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJqZLDPDDkB0gRG7YT-EMg9IU",
+    "plus_code": {
+      "compound_code": "8QQ8+VW Gennes, France",
+      "global_code": "8CVX8QQ8+VW"
+    },
+    "rating": 4,
+    "reference": "ChIJqZLDPDDkB0gRG7YT-EMg9IU",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "86 Avenue de la Libération, 33490 Saint-Pierre-d'Aurillac, France",
+    "geometry": {
+      "location": {
+        "lat": 44.57177950000001,
+        "lng": -0.1918986
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.57310887989271,
+          "lng": -0.1905473701072778
+        },
+        "southwest": {
+          "lat": 44.57040922010727,
+          "lng": -0.1932470298927222
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "064f077a7b4d684e734f83052e8fe2c0783ec9f1",
+    "name": "TABAC PRESSE LIBRAIRIE LOTO PMU AU 86",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 424,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101338399136154501864/photos\"\u003eTABAC PRESSE AU 86\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAk0yYCjZy5mx31qkLuGszRxvUXEtzNhaAsZZ5KY6lpwK0K-l8orsdKae_zjHfUai65j81qs6nEywtRL8B1GmmENnDQeZkNGC-9jIpo990YyA2Vr5Eg_j9wA3Ps0zEq1MMEhD_JOJTgxAFdivw800nrBXkGhSAbvfpyjX2N_P1eEikmW64dnsWLA",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJyaOxfEluVQ0R8284t345PnE",
+    "plus_code": {
+      "compound_code": "HRC5+P6 Saint-Pierre-d'Aurillac, France",
+      "global_code": "8CPXHRC5+P6"
+    },
+    "rating": 4.6,
+    "reference": "ChIJyaOxfEluVQ0R8284t345PnE",
+    "types": [
+      "book_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 5
+  },
+  {
+    "formatted_address": "50 Route de Paris, 33910 Saint-Denis-de-Pile, France",
+    "geometry": {
+      "location": {
+        "lat": 44.9922008,
+        "lng": -0.205744
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.99350732989272,
+          "lng": -0.2042989201072778
+        },
+        "southwest": {
+          "lat": 44.99080767010728,
+          "lng": -0.2069985798927222
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b8722b0c36b1aacf68a59ce383f2d3006dbcb364",
+    "name": "Le Calumet Tabac Librairie presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJv4O1J8hMVQ0Ryf5qVkVizlQ",
+    "plus_code": {
+      "compound_code": "XQRV+VP Saint-Denis-de-Pile, France",
+      "global_code": "8CPXXQRV+VP"
+    },
+    "rating": 3.9,
+    "reference": "ChIJv4O1J8hMVQ0Ryf5qVkVizlQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 16
+  },
+  {
+    "formatted_address": "12 Rue Sainte-Catherine, 82200 Moissac, France",
+    "geometry": {
+      "location": {
+        "lat": 44.1037939,
+        "lng": 1.0842395
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.10507847989272,
+          "lng": 1.085654779892722
+        },
+        "southwest": {
+          "lat": 44.10237882010727,
+          "lng": 1.082955120107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1dbeb0c0af0253309a3f845c88b086b4e8499b8d",
+    "name": "Chaumerliac Presse SARL",
+    "place_id": "ChIJ89hDg6PiyxIRyvEkUQsw6Ds",
+    "plus_code": {
+      "compound_code": "433M+GM Moissac, France",
+      "global_code": "8FP3433M+GM"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ89hDg6PiyxIRyvEkUQsw6Ds",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 10
+  },
+  {
+    "formatted_address": "6 Place du Général Pierre, 86140 Lencloître, France",
+    "geometry": {
+      "location": {
+        "lat": 46.8136194,
+        "lng": 0.327391
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.81500337989272,
+          "lng": 0.3286799798927222
+        },
+        "southwest": {
+          "lat": 46.81230372010728,
+          "lng": 0.3259803201072778
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "848ed22b4b65714a709ffeb9660e3bd66d4ed672",
+    "name": "SNC Grelyat-Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJv4K26Bqg_UcRyrlkbxoU3W0",
+    "plus_code": {
+      "compound_code": "R87G+CX Lencloître, France",
+      "global_code": "8FR2R87G+CX"
+    },
+    "rating": 4.1,
+    "reference": "ChIJv4K26Bqg_UcRyrlkbxoU3W0",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 10
+  },
+  {
+    "formatted_address": "52 Avenue du Point du Jour, 69005 Lyon, France",
+    "geometry": {
+      "location": {
+        "lat": 45.7566181,
+        "lng": 4.7987753
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.75790557989272,
+          "lng": 4.800135579892721
+        },
+        "southwest": {
+          "lat": 45.75520592010727,
+          "lng": 4.797435920107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ff8fca8b104397742ee029cd716cc336673d8a7d",
+    "name": "Maison de la Presse à Lyon",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110555485353709673586/photos\"\u003echristiane DUBRAY\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRZAAAAwRSwSxBgA4oGFL7kINNmFXWlJLAckGumWHJtjnBARhsmzk_Q-Vu7NTRQpvvuCKFn_a0YYclQ5NVQqZG58I9zqB0xvaQXqYozBRRTHzRf3YOPQr4C2lIG03qlN5QHv7x8EhA965MbGAT9fNpnkqEgSKCkGhR_FeyA6GmSrSN25CE4Lpk3RJ65rA",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJkaawZJrr9EcRNLtjgyog0f0",
+    "plus_code": {
+      "compound_code": "QQ4X+JG Lyon, France",
+      "global_code": "8FQ6QQ4X+JG"
+    },
+    "rating": 3.7,
+    "reference": "ChIJkaawZJrr9EcRNLtjgyog0f0",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 38
+  },
+  {
+    "formatted_address": "14, Place du Maréchal Foch, 03500 Saint-Pourçain-sur-Sioule, France",
+    "geometry": {
+      "location": {
+        "lat": 46.3075875,
+        "lng": 3.28929
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.30881752989271,
+          "lng": 3.290731729892722
+        },
+        "southwest": {
+          "lat": 46.30611787010727,
+          "lng": 3.288032070107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8ff0b73aff4b58e036b882468366215083a70c93",
+    "name": "MAISON DE LA PRESSE AU BEFFROI LIBRAIRIE PAPETERIE TABAC",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101703144515282471143/photos\"\u003eZoran Bouvier\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAFmG2qop_oevP7Z0FAJM2FBPN1GG3CXu_IhXZqQDqG0P4alyHDXZ2Y4reWWm_IxauwoOxz-olsU_GnmhqAQfWnngbpWrQP3dG92j2gf_5RIHbTKTmkQ6tD7T9sCiDLMvoEhAGJHbp4vBlXHgo8_ECELbgGhSf118JmYNs5XsJeIlRUvknYLMF4g",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJ7-eIYn0o8UcRAIiZYmo1tIQ",
+    "plus_code": {
+      "compound_code": "875Q+2P Saint-Pourçain-sur-Sioule, France",
+      "global_code": "8FR5875Q+2P"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ7-eIYn0o8UcRAIiZYmo1tIQ",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 9
+  },
+  {
+    "formatted_address": "106 Rue de Bicètre, 94240 L'Haÿ-les-Roses, France",
+    "geometry": {
+      "location": {
+        "lat": 48.7765076,
+        "lng": 2.3542562
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.77789307989272,
+          "lng": 2.355505229892722
+        },
+        "southwest": {
+          "lat": 48.77519342010727,
+          "lng": 2.352805570107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "506c94b00c575d74a8e0d0cdd9273510d8b3774f",
+    "name": "Librairie Presse Tabac Lallier",
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101232479762881016758/photos\"\u003eLydie Louis\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAcRYRkHin-u20BNXqPpmgOdpCI6GmTe1QmtzBVSKQVmRROG0DKcQpGVt4OdzyZ1Hgyqg0du8knCnhLKfOaVSWppzV-r1R1ssUFoPWOGQM4QDUJG2xjwzW9b1DHWXeFPnsEhA6YPiwBAIf7AMFP60E1aoWGhQ9xiVJvBofMC77Mu5dDGwxjbVeEg",
+        "width": 2160
+      }
+    ],
+    "place_id": "ChIJ9XvQ4Kx25kcRrtIdzqT48sI",
+    "plus_code": {
+      "compound_code": "Q9G3+JP L'Haÿ-les-Roses, France",
+      "global_code": "8FW4Q9G3+JP"
+    },
+    "rating": 3.3,
+    "reference": "ChIJ9XvQ4Kx25kcRrtIdzqT48sI",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 22
+  },
+  {
+    "formatted_address": "61 Rue Houdan, 92330 Sceaux, France",
+    "geometry": {
+      "location": {
+        "lat": 48.77837299999999,
+        "lng": 2.291886
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.77971967989271,
+          "lng": 2.293230129892722
+        },
+        "southwest": {
+          "lat": 48.77702002010727,
+          "lng": 2.290530470107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "49e83a9b2587751898b69b7741d97d813e34bdf9",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/111962467970253319588/photos\"\u003eFrederic Mulot\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAgvV1oeM6gvHewiApGz1xmacUjvqUJWP3AgdLlHyIC8kKZEJ1lYddaNmjge6Cocph1nLvAHCp-St0uZ7Vc4pJ31n7NkMyP955qhL1sOBK3wlXHNbhVyijeFVegVjguWB1EhArp3moC0ApN7EoGH3C3tDTGhTV_jBCVP-v9ly2BJFVvjqDx1sgog",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ4yQyE7Vw5kcRSFZPdTul_L4",
+    "plus_code": {
+      "compound_code": "Q7HR+8Q Sceaux, France",
+      "global_code": "8FW4Q7HR+8Q"
+    },
+    "rating": 2.6,
+    "reference": "ChIJ4yQyE7Vw5kcRSFZPdTul_L4",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 24
+  },
+  {
+    "formatted_address": "5 Place Maurice Ravel, 58000 Nevers, France",
+    "geometry": {
+      "location": {
+        "lat": 46.9916795,
+        "lng": 3.1613462
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.99296267989273,
+          "lng": 3.162781229892722
+        },
+        "southwest": {
+          "lat": 46.99026302010729,
+          "lng": 3.160081570107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e0d1302b91579ec1bc4d126dbedf39b7c8a2ed3d",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/102363713305582978691/photos\"\u003eMaison de la Presse\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA25ipXGdPMKGCquDHT_iNao9R6Sis4voWLJuhSHEaweN1TtoYU2M1ovUP1-blCNR8mQ7We43XWZ-ENJFSEFv89sEVrJ5Z1F-qwdqFdSUl3cAdR6tKEP3JgQLw73U981AlEhBDUaDj_vd_eGiRqa4ZAAGBGhTIcrXnMkgF9dMP8_xu_yc51qJkRw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ4Ytui2ZP8EcRHCkTlfjNs50",
+    "plus_code": {
+      "compound_code": "X5R6+MG Nevers, France",
+      "global_code": "8FR5X5R6+MG"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ4Ytui2ZP8EcRHCkTlfjNs50",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 42
+  },
+  {
+    "formatted_address": "2 Rue des 2 Ponts, 71600 Paray-le-Monial, France",
+    "geometry": {
+      "location": {
+        "lat": 46.4507054,
+        "lng": 4.1193777
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.45204677989273,
+          "lng": 4.120772379892721
+        },
+        "southwest": {
+          "lat": 46.44934712010728,
+          "lng": 4.118072720107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "5a673aba3d78e41ed7b3ef16df60f91bdd0d70d5",
+    "name": "Hall de Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/107761423485318626206/photos\"\u003eJose Nunes\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAqaUb8noeeuSGM-3xozVXHPiSu3pTt3hM4K9dJDTxZzy49s6KkcfmAKnfxZXpVvyKJpIy5ZKBdYNxftfsGlW_DMJtU4eQIZxiyUHQjy14-B5UMFfVIE2fVlMuVo9GX7irEhBLzR25Jk0j4AMgcxkLzEX7GhS_RZzXNs7Do941mZyG06GN7A6SKw",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJRVvYMq3C80cR4J5kMtG8inM",
+    "plus_code": {
+      "compound_code": "F429+7Q Paray-le-Monial, France",
+      "global_code": "8FR6F429+7Q"
+    },
+    "rating": 4.6,
+    "reference": "ChIJRVvYMq3C80cR4J5kMtG8inM",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 7
+  },
+  {
+    "formatted_address": "1 Boulevard de la Manlière, 63500 Issoire, France",
+    "geometry": {
+      "location": {
+        "lat": 45.542478,
+        "lng": 3.247414
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.54383077989272,
+          "lng": 3.248768829892722
+        },
+        "southwest": {
+          "lat": 45.54113112010728,
+          "lng": 3.246069170107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "7a3505c5d427d7b0468b0ee63d03bcf5aea4cd87",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJxe5FGQlW9kcRl65tQUDpRk4",
+    "plus_code": {
+      "compound_code": "G6RW+XX Issoire, France",
+      "global_code": "8FQ5G6RW+XX"
+    },
+    "rating": 3.7,
+    "reference": "ChIJxe5FGQlW9kcRl65tQUDpRk4",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 31
+  },
+  {
+    "formatted_address": "2 Rue de L Hôtel de ville, 43230 Paulhaguet, France",
+    "geometry": {
+      "location": {
+        "lat": 45.2070658,
+        "lng": 3.5152143
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.20840557989272,
+          "lng": 3.516517279892722
+        },
+        "southwest": {
+          "lat": 45.20570592010728,
+          "lng": 3.513817620107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "158961744c3af629968af0860ccc3961041e20ea",
+    "name": "Maison de la presse",
+    "place_id": "ChIJraO9yGEU9kcRInce-cYPthk",
+    "plus_code": {
+      "compound_code": "6G48+R3 Paulhaguet, France",
+      "global_code": "8FQ56G48+R3"
+    },
+    "rating": 0,
+    "reference": "ChIJraO9yGEU9kcRInce-cYPthk",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "14 Avenue des Mouettes, 85270 Saint-Hilaire-de-Riez, France",
+    "geometry": {
+      "location": {
+        "lat": 46.7510229,
+        "lng": -2.0171876
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.75232337989272,
+          "lng": -2.015810820107278
+        },
+        "southwest": {
+          "lat": 46.74962372010728,
+          "lng": -2.018510479892722
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "4fdd618e3d3ec6ef4ae759ca26ffd83ccc1877f7",
+    "name": "Librairie Presse Tabac",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 693,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101119724766093202555/photos\"\u003eMichel RAGOT\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAKjGj9h1oufT_INCgAku9IxN2sEgyRY9tgMh57396FlXjd1-K7OC_9f7s81m71bLjzL9fwBzqpITcFfv1JXXr5heZwfvNQ713doSSlAyuM-AqzFHJVUeuUScCTmiJGZMmEhCbpbNxPhJ49jOtSLGAAz7LGhSKbunY6OR-1SmEO1jcI8Vq5ftIYQ",
+        "width": 1103
+      }
+    ],
+    "place_id": "ChIJD9jJNpb-BEgR6FtwcJV8Aeg",
+    "plus_code": {
+      "compound_code": "QX2M+C4 Saint-Hilaire-de-Riez, France",
+      "global_code": "8CRVQX2M+C4"
+    },
+    "rating": 3.3,
+    "reference": "ChIJD9jJNpb-BEgR6FtwcJV8Aeg",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 7
+  },
+  {
+    "formatted_address": "72 Place de Provence, 86000 Poitiers, France",
+    "geometry": {
+      "location": {
+        "lat": 46.5890388,
+        "lng": 0.3581516
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.59038862989273,
+          "lng": 0.3595014298927222
+        },
+        "southwest": {
+          "lat": 46.58768897010728,
+          "lng": 0.3568017701072777
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "5fb4a58e73c51ab2974b6c54c4eb58fa115db696",
+    "name": "Mag presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/107390678355808562412/photos\"\u003eLydie BENOIST\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAhl5KqEh8Xo5K3uuVLgWCSeVIY_ZywQDXJ2CBazHFA44MAAQhH9Wxx4gXJw2F0FANr4hPgwUUGJSSS89SiYSn0NgoF4yg3JE6skM22nifZhS0bLkG4k84peypnHAMDDFUEhApBx1u69fD_VRdXK542jbFGhSvP3nbdCxddzRODYaroqgQbXfR_w",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJz-dNGYG-_UcRugE6POc-Fkk",
+    "plus_code": {
+      "compound_code": "H9Q5+J7 Poitiers, France",
+      "global_code": "8FR2H9Q5+J7"
+    },
+    "rating": 4.3,
+    "reference": "ChIJz-dNGYG-_UcRugE6POc-Fkk",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 42
+  },
+  {
+    "formatted_address": "19 Boulevard Louis Jean Malvy, 46200 Souillac, France",
+    "geometry": {
+      "location": {
+        "lat": 44.8958068,
+        "lng": 1.4786788
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.89716532989273,
+          "lng": 1.480057979892722
+        },
+        "southwest": {
+          "lat": 44.89446567010729,
+          "lng": 1.477358320107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "089a44fb1d30b2c024ddf021fa8b6eafdbce68da",
+    "name": "Maison de la Presse",
+    "place_id": "ChIJ_UZZ6fS2rBIRLVgnvqqVDyY",
+    "plus_code": {
+      "compound_code": "VFWH+8F Souillac, France",
+      "global_code": "8FP3VFWH+8F"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ_UZZ6fS2rBIRLVgnvqqVDyY",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 12
+  },
+  {
+    "formatted_address": "22 Avenue de France, 74000 Annecy, France",
+    "geometry": {
+      "location": {
+        "lat": 45.908995,
+        "lng": 6.139513
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.91029057989272,
+          "lng": 6.140744779892723
+        },
+        "southwest": {
+          "lat": 45.90759092010727,
+          "lng": 6.13804512010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "06657a795974117504f7d6e1e1d1b55ba0608f13",
+    "name": "Tabac Presse Le France Annecy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 671,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101491642008175494985/photos\"\u003eTabac Presse Le France\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA25HaBJxGqdCH88WbzNi2imqcBuwMI2Y7XNxFlc9r54HopmIg6DQkffdqZ6wPfQqKPov-kZfZMHNN4MIUXZvkcZCMM7btq17B4CG5QUzwxyFIDHxh8TkrLLB6mocqYXdKEhAt1iljtzsEsR5tJco3d0ZaGhQOJNaaIHuoZMCYJcNhOY1r2UigfQ",
+        "width": 671
+      }
+    ],
+    "place_id": "ChIJx80TFeuPi0cRMk36eVQUJ-A",
+    "plus_code": {
+      "compound_code": "W45Q+HR Annecy, France",
+      "global_code": "8FQ8W45Q+HR"
+    },
+    "rating": 4,
+    "reference": "ChIJx80TFeuPi0cRMk36eVQUJ-A",
+    "types": [
+      "cafe",
+      "book_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 53
+  },
+  {
+    "formatted_address": "15 bis Place de l'Union Européenne, 91300 Massy, France",
+    "geometry": {
+      "location": {
+        "lat": 48.7270543,
+        "lng": 2.2568589
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.72836097989272,
+          "lng": 2.258287529892722
+        },
+        "southwest": {
+          "lat": 48.72566132010728,
+          "lng": 2.255587870107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6c3480520633fce6ae71f5f89788da0eca5a93d4",
+    "name": "Maison de la Presse TABAC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/116160141245628117216/photos\"\u003eMaison de la Presse Tabac Massy Vilmorin\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAPPd9Z2CbNdDGXy3v-qTmOTKkPcTe3MObDgJaIA0Jms2B7GCQoykZPDpMsPx_3VD_kM_O4skZtuQ0Bw2ZgTPrQiT5s-4stwUkNN1e6CrWQMYwN0drchSjordB4wMrd1LjEhBXRGeEuqUXsA_Zgyxwat3-GhTwcVtkczsl5u-nL8mJqEeS1CUIpw",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJNe9dXiV45kcRUsmXcJOc9vk",
+    "plus_code": {
+      "compound_code": "P7G4+RP Massy, France",
+      "global_code": "8FW4P7G4+RP"
+    },
+    "rating": 3.9,
+    "reference": "ChIJNe9dXiV45kcRUsmXcJOc9vk",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 67
+  },
+  {
+    "formatted_address": "Place Nicolas Pomel, 63500 Issoire, France",
+    "geometry": {
+      "location": {
+        "lat": 45.5433146,
+        "lng": 3.249718
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.54466457989273,
+          "lng": 3.251125579892721
+        },
+        "southwest": {
+          "lat": 45.54196492010728,
+          "lng": 3.248425920107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "fee365a20e04722482be016973a98077f452ac2b",
+    "name": "Tabac Presse Librairie Pmu Marcot",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJQx6QJg9W9kcRDW-Gi6jRyog",
+    "plus_code": {
+      "compound_code": "G6VX+8V Issoire, France",
+      "global_code": "8FQ5G6VX+8V"
+    },
+    "rating": 4.7,
+    "reference": "ChIJQx6QJg9W9kcRDW-Gi6jRyog",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 6
+  },
+  {
+    "formatted_address": "17 Boulevard Richard Wallace, 92800 Puteaux, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8796428,
+        "lng": 2.2401037
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88102432989272,
+          "lng": 2.241488679892722
+        },
+        "southwest": {
+          "lat": 48.87832467010728,
+          "lng": 2.238789020107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "d23a4a333df85fa2562410a8045355fa2c225ad4",
+    "name": "Librairie Du Theatre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/106374591451619292322/photos\"\u003eGuillaume Liziard\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAO69r9I-DwH3nur_OZuPnYmMmibgXLJMQkXn3nUrUXmhVH1bit2R7TvAwjD7gTAS-5fnHC9nm66SZLlc5RRLvAlt3XzIuLbTP1yyjo0RDsk7mi3TzYDYyTOMASUK_Jza1EhCWun_QQhGHm7nUMmKqP9vCGhQ0VVKF7Nf4DzxRuKjtwLuR2JLX_A",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJq6g6thhl5kcR14esVEYKW34",
+    "plus_code": {
+      "compound_code": "V6HR+V2 Puteaux, France",
+      "global_code": "8FW4V6HR+V2"
+    },
+    "rating": 3.6,
+    "reference": "ChIJq6g6thhl5kcR14esVEYKW34",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 34
+  },
+  {
+    "formatted_address": "Centre commercial de la Petite Mauldre, 78650 Beynes, France",
+    "geometry": {
+      "location": {
+        "lat": 48.851645,
+        "lng": 1.8786296
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85304112989272,
+          "lng": 1.879874879892722
+        },
+        "southwest": {
+          "lat": 48.85034147010727,
+          "lng": 1.877175220107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1b911cf17ccc935d3f686ac9a580189c318bf954",
+    "name": "Librairie Presse de la Petite Mauldre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJgzNCW4ma5kcRlI2tMHjys1I",
+    "plus_code": {
+      "compound_code": "VV2H+MF Beynes, France",
+      "global_code": "8FW3VV2H+MF"
+    },
+    "rating": 4.4,
+    "reference": "ChIJgzNCW4ma5kcRlI2tMHjys1I",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 15
+  },
+  {
+    "formatted_address": "18 Rue Olivier de Serres, 75015 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8364251,
+        "lng": 2.2975041
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.83776412989272,
+          "lng": 2.298873029892722
+        },
+        "southwest": {
+          "lat": 48.83506447010728,
+          "lng": 2.296173370107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "371d83a2e9c1ae031ce23004084c345933fffc5d",
+    "name": "Crea'Livres \" Point Presse\"",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJq2woqWpw5kcRu1M9phq5qq4",
+    "plus_code": {
+      "compound_code": "R7PX+H2 Paris, France",
+      "global_code": "8FW4R7PX+H2"
+    },
+    "rating": 4.7,
+    "reference": "ChIJq2woqWpw5kcRu1M9phq5qq4",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 3
+  },
+  {
+    "formatted_address": "283 Cours Lafayette, 69006 Lyon, France",
+    "geometry": {
+      "location": {
+        "lat": 45.7638284,
+        "lng": 4.8673763
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.76513352989273,
+          "lng": 4.868726329892722
+        },
+        "southwest": {
+          "lat": 45.76243387010728,
+          "lng": 4.866026670107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "985bdf5d54c15cdabd5a2c303904b132ec06029e",
+    "name": "Guiale",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2047,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/116019123577421391265/photos\"\u003eGuiale\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAm5qxnotE_HBAkHnPBCtHYr_8jnpryTLQKvcAPm4InnUKDep1TMjidSFLcdd6lHICPkqb0njqDJloG9qGPreK_Y8_1m4_XbEYJCtCR4gBL45m9gSVh7iMdH2poQug3wz3EhD8pweWLy3Il66DzyZOJ9qgGhTApyo4jcjSt_J1GQGRxtc5iMJ2eQ",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJJx7-y4Dq9EcRaArihxt22d8",
+    "plus_code": {
+      "compound_code": "QV78+GX Lyon, France",
+      "global_code": "8FQ6QV78+GX"
+    },
+    "rating": 3.1,
+    "reference": "ChIJJx7-y4Dq9EcRaArihxt22d8",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 8
+  },
+  {
+    "formatted_address": "6 Avenue François Mitterand, 66300 Thuir, France",
+    "geometry": {
+      "location": {
+        "lat": 42.6324706,
+        "lng": 2.7576526
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 42.63385977989272,
+          "lng": 2.759019529892722
+        },
+        "southwest": {
+          "lat": 42.63116012010728,
+          "lng": 2.756319870107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "33c03da129e4cbefa26b5ce99c34efb96bd6b855",
+    "name": "Librairie Presse Papier",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 903,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/102252332281706833612/photos\"\u003efrédéric ALCARAZ\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAe4ZEPp0LdYJc1PCtcp9uxP51T1o_cdEbgZTg3Vs0Wj8Ty6roxIOrtWQNodOYTiW21F6R1axPJLIM257WNRkKIrpHTRdRfxP92BUPenu91biWOTlburn5vysas9_ch7oSEhCTv-vM4Dq--G0ImJIiwAxpGhT7tNLdjMQYfYpKLMkVj6hEStqMcg",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJ_____-AMsBIRe4L12SQYEwo",
+    "plus_code": {
+      "compound_code": "JQJ5+X3 Thuir, France",
+      "global_code": "8FJ4JQJ5+X3"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ_____-AMsBIRe4L12SQYEwo",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 15
+  },
+  {
+    "formatted_address": "23 Rue Pasteur, 91170 Viry-Châtillon, France",
+    "geometry": {
+      "location": {
+        "lat": 48.6856676,
+        "lng": 2.3789178
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.68704412989273,
+          "lng": 2.380338079892722
+        },
+        "southwest": {
+          "lat": 48.68434447010728,
+          "lng": 2.377638420107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1f019d524c5e04bd07aaf8843e10494c754797da",
+    "name": "Librairie Pasteur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJJ_7YPmbf5UcRjXqsMhppows",
+    "plus_code": {
+      "compound_code": "M9PH+7H Viry-Châtillon, France",
+      "global_code": "8FW4M9PH+7H"
+    },
+    "rating": 4.5,
+    "reference": "ChIJJ_7YPmbf5UcRjXqsMhppows",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 24
+  },
+  {
+    "formatted_address": "2 Rue Anatole France, 31190 Auterive, France",
+    "geometry": {
+      "location": {
+        "lat": 43.3515375,
+        "lng": 1.477699
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.35292162989272,
+          "lng": 1.479043179892722
+        },
+        "southwest": {
+          "lat": 43.35022197010728,
+          "lng": 1.476343520107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8748050e4ae8262d43a3fdebf42370845bf9fec6",
+    "name": "Librairie Presse St Paul",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJq3uXeAPDrhIR3nW5xj8Znzw",
+    "plus_code": {
+      "compound_code": "9F2H+J3 Auterive, France",
+      "global_code": "8FM39F2H+J3"
+    },
+    "rating": 4.1,
+    "reference": "ChIJq3uXeAPDrhIR3nW5xj8Znzw",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 8
+  },
+  {
+    "formatted_address": "105 Rue de France, 06000 Nice, France",
+    "geometry": {
+      "location": {
+        "lat": 43.694754,
+        "lng": 7.254559
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.69609997989272,
+          "lng": 7.255911479892723
+        },
+        "southwest": {
+          "lat": 43.69340032010728,
+          "lng": 7.253211820107279
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "970fb82dbba80bab982ca138a4d9290d1250f6c0",
+    "name": "Librairie de la Presse, Mp's books, Carterie",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1540,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/108778643442897942761/photos\"\u003eLibrairie de la Presse S.A.R.L.\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAXsGH6m3MEpNKDVm4mIV0Dtxu15ZvBlpuiCDITndiDTwFMVqgxbQkR5SXrhNq1zCj2rH05YnjYaZuH5TdfNTteZJIJwgtxMUaYEE7U4sk0wrsFNXEpfIo5fpnPh3yKtxBEhC2wb5epGW9HYeJ6q7ZLEqXGhTyi0BRlRhCJ2gpXmQI2Q0-s_h15w",
+        "width": 2044
+      }
+    ],
+    "place_id": "ChIJ_frAUQ3QzRIRcL2P30NIQ04",
+    "plus_code": {
+      "compound_code": "M7V3+WR Nice, France",
+      "global_code": "8FM9M7V3+WR"
+    },
+    "rating": 5,
+    "reference": "ChIJ_frAUQ3QzRIRcL2P30NIQ04",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "Rue Eugène Sue, 75018 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8909121,
+        "lng": 2.3457976
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.89223162989272,
+          "lng": 2.347166579892722
+        },
+        "southwest": {
+          "lat": 48.88953197010728,
+          "lng": 2.344466920107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "cd595a9968f52f88db8fdc1bc4fc9f12465acf7c",
+    "name": "Librairie Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJnwQX3V1u5kcRCuGUOCuaLC8",
+    "plus_code": {
+      "compound_code": "V8RW+98 Paris, France",
+      "global_code": "8FW4V8RW+98"
+    },
+    "rating": 2.3,
+    "reference": "ChIJnwQX3V1u5kcRCuGUOCuaLC8",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 31
+  },
+  {
+    "formatted_address": "467 Rue de la Roqueturière, 34090 Montpellier, France",
+    "geometry": {
+      "location": {
+        "lat": 43.6300988,
+        "lng": 3.8852192
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.63151677989272,
+          "lng": 3.886787779892721
+        },
+        "southwest": {
+          "lat": 43.62881712010727,
+          "lng": 3.884088120107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ba5c89ad4f49f3cb96e1b1d5326d6039e1cb9fb2",
+    "name": "Librairie Presse de la Roqueturiere",
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/103413082826387218932/photos\"\u003eLibrairie Presse de la Roqueturiere\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA3AJIfBvdImDLc0luIARlpldLJHo3sRDAO3sZrq7EKFtsPqjXrlRPlVqIVdj1zecqtV-4lU4-vQ3PU_XGtdGAwTc7CjMafZ6mAttzGov5ipW_HS8lj8BTO_59cbRVoF7nEhCNVs7hwDZww91JPWHfwT9rGhQarp6kxxH7AXQH5oVDCttzQmHXZg",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJlWlN9j-vthIRgaEqZ7K0hU4",
+    "plus_code": {
+      "compound_code": "JVJP+23 Montpellier, France",
+      "global_code": "8FM5JVJP+23"
+    },
+    "rating": 4.5,
+    "reference": "ChIJlWlN9j-vthIRgaEqZ7K0hU4",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 4
+  },
+  {
+    "formatted_address": "50-52 Rue du Cherche-Midi, 75006 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.849127,
+        "lng": 2.325543
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85046482989273,
+          "lng": 2.326907729892723
+        },
+        "southwest": {
+          "lat": 48.84776517010729,
+          "lng": 2.324208070107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "796983953fb0045312f338d63dafa306457ac925",
+    "name": "CHERCHE MIDI PARIS 6 - Papeterie, Cartouches d'encre/Toners, Tabac, Presse, Librairie",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 648,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/109208635744044047883/photos\"\u003eCHERCHE MIDI PARIS 6 - Papeterie, Cartouches d&#39;encre/Toners, Tabac, Presse, Librairie\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAvOxGdYLz3Xe_yEXV0SWfXPZvvYyUiKwgvm2M9Z1Gsb_bpT4iF6X2f8IekMzSpu3XplQh6q9teZLtMkcSxjok-Lf5dFqbu3RhzGLTd9wMApyEMN4Cny5TxGoOPjB0tmXPEhAnTvQ6_u4RrhCu31ErfJ9iGhQ8J0xQ0drGzM-BKCc5Jp3DzwtDyg",
+        "width": 1435
+      }
+    ],
+    "place_id": "ChIJeUuMytNx5kcREGlx9diYK5Q",
+    "plus_code": {
+      "compound_code": "R8XG+M6 Paris, France",
+      "global_code": "8FW4R8XG+M6"
+    },
+    "rating": 3.7,
+    "reference": "ChIJeUuMytNx5kcREGlx9diYK5Q",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 17
+  },
+  {
+    "formatted_address": "10230 Mailly-le-Camp, France",
+    "geometry": {
+      "location": {
+        "lat": 48.6679018,
+        "lng": 4.2073497
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.66926617989271,
+          "lng": 4.208661029892722
+        },
+        "southwest": {
+          "lat": 48.66656652010727,
+          "lng": 4.205961370107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9302850db2d41477c8846c4f709a631468f618b4",
+    "name": "Librairie Presse Cadeaux",
+    "place_id": "ChIJsbd4Tu9U6UcRjcN_wta5XKk",
+    "plus_code": {
+      "compound_code": "M694+5W Mailly-le-Camp, France",
+      "global_code": "8FW6M694+5W"
+    },
+    "rating": 0,
+    "reference": "ChIJsbd4Tu9U6UcRjcN_wta5XKk",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "4 Rue Saint-François, 29000 Quimper, France",
+    "geometry": {
+      "location": {
+        "lat": 47.9948328,
+        "lng": -4.1045203
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 47.99618692989272,
+          "lng": -4.103107020107279
+        },
+        "southwest": {
+          "lat": 47.99348727010728,
+          "lng": -4.105806679892723
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "93c80c13f571e05895d75b87c29d349d6eb4ed7b",
+    "name": "Librairie Presse carterie LE PERTICOZ",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 404,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101240145820321955521/photos\"\u003eA Google User\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAzecHxLUlokRqkNIXIfMf-tDxEbn3t46OVmLnyWPyjLKuTBnyp0PHVbVjgueyZ3xeMhYUW1xwZIERBSfeZd1OA0xx9XMiJJSaIiFTe4RAHhxCTNs8Mo2zh0Hn_64paZxAEhCUzZF72QDD7gmwsk-MTC8hGhSmyKNhwEEAYUwdgZTMvkeXmhRIQw",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJmXu5eJHVEEgRa1B8BwHDjio",
+    "plus_code": {
+      "compound_code": "XVVW+W5 Quimper, France",
+      "global_code": "8CVQXVVW+W5"
+    },
+    "rating": 4,
+    "reference": "ChIJmXu5eJHVEEgRa1B8BwHDjio",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 8
+  },
+  {
+    "formatted_address": "22 Boulevard Saint-Roch, 06300 Nice, France",
+    "geometry": {
+      "location": {
+        "lat": 43.7101648,
+        "lng": 7.292981399999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.71151477989272,
+          "lng": 7.294274729892722
+        },
+        "southwest": {
+          "lat": 43.70881512010728,
+          "lng": 7.291575070107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "302b07abc4b37cbf35ddcbb7f67012da6433d4a2",
+    "name": "Librairie Presse du Boulevard",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3096,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/103037984720554587045/photos\"\u003eClément Humbert\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA79q62eIhbXh2-Zh7GA7KRsUse82YViNmU398rnvSMVV8uvyVGJZe-adSbLabj__s7vVfZ3UCdyB1fbb3MiLMuN4gQ9YIYp3pvdtJkvDwMz08yEjFrhYYRqoqB3_ouupVEhArF7xldWtz-qGQ9heVkQk3GhTkftVi4gB_Uy1w6l3vP1d5YbAesQ",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJV0uQrczazRIRX2UODhtIZmg",
+    "plus_code": {
+      "compound_code": "P76V+35 Nice, France",
+      "global_code": "8FM9P76V+35"
+    },
+    "rating": 3.8,
+    "reference": "ChIJV0uQrczazRIRX2UODhtIZmg",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 21
+  },
+  {
+    "formatted_address": "57 Avenue Fernand Pillot, 33133 Galgon, France",
+    "geometry": {
+      "location": {
+        "lat": 44.990179,
+        "lng": -0.271332
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.99153162989272,
+          "lng": -0.2699684201072777
+        },
+        "southwest": {
+          "lat": 44.98883197010728,
+          "lng": -0.2726680798927222
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "23ea380a89ab8b09fe79563a155ee555a9c089eb",
+    "name": "TABAC PRESSE LOTO LIBRAIRIE CIGARETTE ELECTRONIQUE GALGON",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/105146995860635919121/photos\"\u003earnaud POUILLOUX\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAP3Im2ZKkuftDoUnCumMVQn7ka-S98khCAacne2330KN0Fp1kb8-PPoPmHU7oeSKqSLeXvVJXdsz_OeLsLMV7TWaAeuN2170NZR6nFahY_QclBDuSY3-imyDCkLzyeEmMEhBAzjVrhd9dyiZVvvzWxdXWGhTnG6YsUNtUBTaKuqqDCT7XcbbX3w",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJh4WMfcVKVQ0Rty0MlXns77w",
+    "plus_code": {
+      "compound_code": "XPRH+3F Galgon, France",
+      "global_code": "8CPXXPRH+3F"
+    },
+    "rating": 4.3,
+    "reference": "ChIJh4WMfcVKVQ0Rty0MlXns77w",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 126
+  },
+  {
+    "formatted_address": "52 Rue de l'Arbre Sec, 75001 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8609185,
+        "lng": 2.3426596
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86227377989272,
+          "lng": 2.343924129892722
+        },
+        "southwest": {
+          "lat": 48.85957412010728,
+          "lng": 2.341224470107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0838d0250b47067d5d7cc346271b3c7b7ab98449",
+    "name": "La Galcante, boutique du musée de la presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3240,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114932681224110946304/photos\"\u003eGiacomo Luca\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAABvKfXONhvYtgUbkweCZ9DYeSIOYDdRR32JIhHLqp7jxkyByR_KgOR5KS3c6cZxkjSJAjPM-sUsODeK6DwyH5qBfarPxTtsr69NPn87eTB6BBEEV_mwE6_5L7btf4n14HEhCeT44fYhQN6EH6leZbF8mvGhSRdLyU2whTmcrR3xn8dArZMDhTKw",
+        "width": 4320
+      }
+    ],
+    "place_id": "ChIJVyoAhSFu5kcRi2M2PFgnpo0",
+    "plus_code": {
+      "compound_code": "V86V+93 Paris, France",
+      "global_code": "8FW4V86V+93"
+    },
+    "rating": 4.8,
+    "reference": "ChIJVyoAhSFu5kcRi2M2PFgnpo0",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 43
+  },
+  {
+    "formatted_address": "69 Rue de Gruyères, 42370 Renaison, France",
+    "geometry": {
+      "location": {
+        "lat": 46.0512933,
+        "lng": 3.9247612
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.05266707989271,
+          "lng": 3.926083629892723
+        },
+        "southwest": {
+          "lat": 46.04996742010727,
+          "lng": 3.923383970107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a994165a5a33ba14cee75b760488c7ddf23cdc5c",
+    "name": "Maison de la Presse BALLANSAT",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114290662465673920828/photos\"\u003eBallansat Renaison\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAY1_FjZWCmMeApqQgfS_2wJBt-7-OTrWt2-cUHEjhM8F22uAoZU4Fbona1TfEO9o44e9lIJ5cRGLoqJReIvMtjbA-tp4SNUK9ElgLgMBQrkRtroe1FKc0rOGoTjZ3bKTCEhB_GhCUD3aKur9cG3dh6XxUGhRaqpg6K_2Nh5ofx7w4i3GsN_jLfw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJjdyoVTcC9EcR6XXTw9eULLc",
+    "plus_code": {
+      "compound_code": "3W2F+GW Renaison, France",
+      "global_code": "8FR53W2F+GW"
+    },
+    "rating": 4.7,
+    "reference": "ChIJjdyoVTcC9EcR6XXTw9eULLc",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 124
+  },
+  {
+    "formatted_address": "31 Rue Monge, 75005 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8462123,
+        "lng": 2.3519231
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84755217989272,
+          "lng": 2.353205029892722
+        },
+        "southwest": {
+          "lat": 48.84485252010727,
+          "lng": 2.350505370107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9fe8ba3efb704e2f86c55ecfd3c4715c002584cc",
+    "name": "Librairie Presse Papeterie Monge",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJO9fpgeVx5kcR0vgq1JYj4oQ",
+    "plus_code": {
+      "compound_code": "R9W2+FQ Paris, France",
+      "global_code": "8FW4R9W2+FQ"
+    },
+    "rating": 0,
+    "reference": "ChIJO9fpgeVx5kcR0vgq1JYj4oQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "69470 Cours-la-Ville, France",
+    "geometry": {
+      "location": {
+        "lat": 46.0999749,
+        "lng": 4.3206997
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.10132767989272,
+          "lng": 4.322077329892722
+        },
+        "southwest": {
+          "lat": 46.09862802010727,
+          "lng": 4.319377670107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f896de6fe6d1e80792ace5d74fa5eb97df7a1488",
+    "name": "Magpresse Tabac Librairie Presse",
+    "place_id": "ChIJX_C289l19EcR4xcZHRjcnyY",
+    "plus_code": {
+      "compound_code": "38XC+X7 Cours-la-Ville, France",
+      "global_code": "8FR638XC+X7"
+    },
+    "rating": 0,
+    "reference": "ChIJX_C289l19EcR4xcZHRjcnyY",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "1 Avenue Aristide Briand, 92160 Antony, France",
+    "geometry": {
+      "location": {
+        "lat": 48.7537116,
+        "lng": 2.3049966
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.75505182989272,
+          "lng": 2.306401779892723
+        },
+        "southwest": {
+          "lat": 48.75235217010727,
+          "lng": 2.303702120107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "921ad3508e6d87ceba4d363c57223db3dc0e8f60",
+    "name": "Antony M'Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/117486196705915317706/photos\"\u003eNicolas Roudier\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAeMsjjYDsz1IMGjQxdvWI9PlROOfXiadsB15EHP5n5sHiK8rOy51JIl9Zx2gXzzv_HK8cO7uHQsvj36015VMMI08Am4aUaNUb9B3Mp--rrg9cC9lgHfo3kw9hGkUG0xk1EhCKozjkGUKIltLxFK3SsFQZGhSRtwFfFmyMJU4esbQsd3fL3ZZpcQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJd8IYqxl35kcRLn0Qj6s97Zs",
+    "plus_code": {
+      "compound_code": "Q833+FX Antony, France",
+      "global_code": "8FW4Q833+FX"
+    },
+    "rating": 4.3,
+    "reference": "ChIJd8IYqxl35kcRLn0Qj6s97Zs",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 41
+  },
+  {
+    "formatted_address": "75 Cours du, Cours Dr Long, 69003 Lyon, France",
+    "geometry": {
+      "location": {
+        "lat": 45.75022449999999,
+        "lng": 4.8863903
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.75153707989271,
+          "lng": 4.887762829892721
+        },
+        "southwest": {
+          "lat": 45.74883742010727,
+          "lng": 4.885063170107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0b7cb3b85601abc3521573af3f197dd8ae3149e7",
+    "name": "Librairie de la Presse de Montchat",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3952,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101942864210719778066/photos\"\u003eClaire MTX\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAP9__EkS13WGbkjkVwSuiUDm-K_WxNkXBihKFYgf4Xa-QtUmg2GgsrasmhauF75u5-qaRFMftJGVfkri2ZksfKocNzrlI5gFZ48nguTwDwuGYH-woS9D6g6mosio_b4y2EhDFlAggUIBagFW68bLL-4FPGhTZ3ojE4lhjpykQkwd0tcz-HY9yiw",
+        "width": 5504
+      }
+    ],
+    "place_id": "ChIJSf0V08XB9EcRDjHVb2i0BI8",
+    "plus_code": {
+      "compound_code": "QV2P+3H Lyon, France",
+      "global_code": "8FQ6QV2P+3H"
+    },
+    "rating": 4.4,
+    "reference": "ChIJSf0V08XB9EcRDjHVb2i0BI8",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 9
+  },
+  {
+    "formatted_address": "8 Rue Victor Hugo, 79000 Niort, France",
+    "geometry": {
+      "location": {
+        "lat": 46.32543099999999,
+        "lng": -0.462773
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.32674842989272,
+          "lng": -0.4614504701072779
+        },
+        "southwest": {
+          "lat": 46.32404877010728,
+          "lng": -0.4641501298927224
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "4394de541926d51592b9fbd7b9ffeb0c095dfe4d",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJy_vCdC0wB0gRGerjjDJHnq8",
+    "plus_code": {
+      "compound_code": "8GGP+5V Niort, France",
+      "global_code": "8CRX8GGP+5V"
+    },
+    "rating": 3.8,
+    "reference": "ChIJy_vCdC0wB0gRGerjjDJHnq8",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 9
+  },
+  {
+    "formatted_address": "93 Rue du Dr Paccard, 74400 Chamonix-Mont-Blanc, France",
+    "geometry": {
+      "location": {
+        "lat": 45.9221733,
+        "lng": 6.868769800000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.92359242989272,
+          "lng": 6.870015379892722
+        },
+        "southwest": {
+          "lat": 45.92089277010727,
+          "lng": 6.867315720107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "32512ff51958eecd5e076f769baef3afb3fc65a4",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114772943578614292160/photos\"\u003eRémy Leroux\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAFYIqkyZz8R9WGiZNKy0PNJWjPM7lOTPLJfmWAMJfeUmkoShh-E3T0PujPRynDH7bkdTnX5fUTuE293svRu1sEr2Mn5zqx0_YlpzNhLmef2ioo-s88ebZFUS7vN06DLIqEhBOyRGWm5fuv-9xKNn5VR0UGhScrDCUm8A6WSXoe2CDhKNn6JaYPQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ_8BkpXZOiUcR9RBtNdaJvvU",
+    "plus_code": {
+      "compound_code": "WVC9+VG Chamonix-Mont-Blanc, France",
+      "global_code": "8FQ8WVC9+VG"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ_8BkpXZOiUcR9RBtNdaJvvU",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 128
+  },
+  {
+    "formatted_address": "118 Boulevard du Général de Gaulle, 59100 Roubaix, France",
+    "geometry": {
+      "location": {
+        "lat": 50.6813626,
+        "lng": 3.167395
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.68270027989271,
+          "lng": 3.168801429892723
+        },
+        "southwest": {
+          "lat": 50.68000062010727,
+          "lng": 3.166101770107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "357a154b437db82b915f6043cf82e5fb0ab104c9",
+    "name": "la Presse du parc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/118163277705245287125/photos\"\u003ejulien Thagarien\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAKmrnSQWxYjMEJRoakDRR5wZQCW6AXwJxkoukup_nOquHmDW2F-h_M2uiQuLR25IEjUbnWyaaEEtS-nQsdjwTQwvem7oDxzGGDlf4ne_yiGeHEcKxDrJLOxwmJ34EL-XUEhCIdO0OrTS_jCBIGsBOB9emGhQGiMBaB4kNyulWimLm71PxT6moCw",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJi4ViHPcow0cR_iHdQ1baIMs",
+    "plus_code": {
+      "compound_code": "M5J8+GX Roubaix, France",
+      "global_code": "9F25M5J8+GX"
+    },
+    "rating": 4.5,
+    "reference": "ChIJi4ViHPcow0cR_iHdQ1baIMs",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 66
+  },
+  {
+    "formatted_address": "5 Boulevard Saint-Louis, 43000 Le Puy-en-Velay, France",
+    "geometry": {
+      "location": {
+        "lat": 45.042031,
+        "lng": 3.881902
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.04342222989272,
+          "lng": 3.883264679892722
+        },
+        "southwest": {
+          "lat": 45.04072257010728,
+          "lng": 3.880565020107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "27eabb710fea4acfad3a611d1c3944a297a4a175",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 589,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/116578871529773927575/photos\"\u003eA Google User\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAkU_851bMJiTGpCezABSOle5ys7U1JmvF9NBhHLwC5VHvBYiMrNf0nnZ4nk_7OVzR-7UTP5nVNjmYoKI1R4u0gRWWt8g1M4FP2hVWjz8K-vbUM8I7emrios9P5UvN5zNLEhA4O_EXtmdd2fPfpXz7BGDBGhTUtGUS1NljTuenabvqJjkRcRRXhg",
+        "width": 588
+      }
+    ],
+    "place_id": "ChIJw0f3zlT69UcRwb2mT0tqryI",
+    "plus_code": {
+      "compound_code": "2VRJ+RQ Le Puy-en-Velay, France",
+      "global_code": "8FQ52VRJ+RQ"
+    },
+    "rating": 3.9,
+    "reference": "ChIJw0f3zlT69UcRwb2mT0tqryI",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 13
+  },
+  {
+    "formatted_address": "24 Quai Jeanne d'Arc, 37500 Chinon, France",
+    "geometry": {
+      "location": {
+        "lat": 47.1659906,
+        "lng": 0.2388591
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 47.16730872989272,
+          "lng": 0.2401939798927223
+        },
+        "southwest": {
+          "lat": 47.16460907010728,
+          "lng": 0.2374943201072778
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "59c9fe181d3cbec4072e84a90226a94b2300cc70",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110724092710836278283/photos\"\u003eJ &amp; H Logis-Saint-Mexme\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA6jIkIGj8d44obSsef_zQlYT5Rh1LSkf3GRCezG2UYOETF8eXntkFAbDs-VdzMfJK_vA8dK7KLG2AODJxFK8WcVYwIJ0R80PmWm99sA0kPBdlMl0xH9JJWq6n-gnlMInVEhD4W_9nSr6o8-AoSREE8HmGGhSuf4Mvy2AuyJHj9C4-PWS8U_9C-A",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJuUKvkShC_UcRfDzhVPt3JhI",
+    "plus_code": {
+      "compound_code": "568Q+9G Chinon, France",
+      "global_code": "8FV2568Q+9G"
+    },
+    "rating": 4.3,
+    "reference": "ChIJuUKvkShC_UcRfDzhVPt3JhI",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 28
+  }
+]

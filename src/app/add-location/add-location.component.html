@@ -1,0 +1,111 @@
+<br />
+<br />
+<br />
+<br />
+<br />
+<div class="card">
+  <div class="box">
+    <div class="img">
+      <img
+        src="https://scontent.cdninstagram.com/vp/498d9578760a15f473632014278b76aa/5C9DDE15/t51.2885-19/38893863_1790329174416306_1281691805326245888_n.jpg?_nc_ht=instagram.fdtm2-1.fna.fbcdn.net"
+      />
+    </div>
+    <h2 style="text-align: center">
+      Ajouter votre marchand de presse !
+
+      <br />
+
+      <a href="https://newspayper.fr/"><span> Newspayper.Fr</span></a>
+    </h2>
+
+    <form [formGroup]="locationForm" (ngSubmit)="onSaveLocation()">
+      <div class="form-group">
+        <label for="name">Nom :</label>
+        <input
+          type="text"
+          id="nom"
+          class="form-control"
+          formControlName="nom"
+        />
+      </div>
+      <div class="form-group">
+        <label for="adresse">Adresse : </label>
+        <input
+          ngx-google-places-autocomplete
+          [options]="options"
+          #placesRef="ngx-places"
+          class="form-control"
+          placeholder="Rechercher ..."
+          formControlName="adresse"
+          (onAddressChange)="handleAddressChange($event)"
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="site"
+          >Site web <label class="grayout">(optionnel)</label>
+        </label>
+        <input
+          type="text"
+          id="site"
+          class="form-control"
+          formControlName="site"
+        />
+      </div>
+      <div class="form-group">
+        <label for="img"
+          >Image Url <label class="grayout">(optionnel)</label></label
+        >
+        <input
+          type="text"
+          id="img"
+          class="form-control"
+          formControlName="img"
+        />
+      </div>
+      <br />
+      <button
+        class="btn btn-primary  btn-lg btn-block"
+        [disabled]="locationForm.invalid"
+        [swal]="['Marchand de presse ajouté!', '', 'success']"
+        type="submit"
+        (click)="onSaveLocation()"
+      >
+        Enregistrer
+      </button>
+    </form>
+    <br />
+    <br />
+
+    <div style="text-align: center;">
+      <span>
+        <ul>
+          <li>
+            <a href="https://www.facebook.com/newspayper.fr/"
+              ><i class="fa fa-facebook" aria-hidden="true"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://twitter.com/newspayper_fr"
+              ><i class="fa fa-twitter" aria-hidden="true"></i
+            ></a>
+          </li>
+
+          <li>
+            <a
+              href="https://www.linkedin.com/company/newspayper.fr/?originalSubdomain=fr"
+              ><i class="fa fa-linkedin" aria-hidden="true"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/newspayper.fr/"
+              ><i class="fa fa-instagram" aria-hidden="true"></i
+            ></a>
+          </li>
+        </ul>
+      </span>
+    </div>
+  </div>
+</div>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC934Va4L8ucwQXOsqNXJSM09HbUNBezas&libraries=places"></script>

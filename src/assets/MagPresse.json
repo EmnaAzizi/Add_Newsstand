@@ -1,0 +1,1976 @@
+[
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "134 Avenue de la Plaine de France, 95500 Gonesse, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9782198",
+        "lng": "2.4978975"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9770395",
+          "lng": "2.4962613"
+        },
+        "northeast": {
+          "lat": "48.9797391",
+          "lng": "2.4989609"
+        }
+      }
+    },
+    "rating": "4.4",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJZfIJbxwV5kcRI--xYarm1aQ",
+    "id": "01b9fce575b183b3beb5c245913f6d28284f848e",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAF07wJWhOEoY6ZuF9CNZbABVeHJb8IK-azYRfQEfFyDc--1VGQdZwqXh3CmB0KfLjbWeA7quEsakk3kei9qasArGHM-T-NYex4WMBdKD06E_5A3Hosek1f5lBkAyixHblEhDKovWrZ_WVVjExmz8LrY8tGhQynUElQPxVjH_b-j-W_FSb_vUtVQ",
+      "width": "2160",
+      "height": "3840",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/111767282021120992046/photos\">Pierre Slamich</a>"
+    },
+    "user_ratings_total": "14",
+    "place_id": "ChIJZfIJbxwV5kcRI--xYarm1aQ",
+    "plus_code": {
+      "global_code": "8FW4XFHX+75",
+      "compound_code": "XFHX+75 Gonesse, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "25 Boulevard Lafayette, 63000 Clermont-Ferrand, France",
+    "geometry": {
+      "location": {
+        "lat": "45.7735586",
+        "lng": "3.0914039"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "45.7721665",
+          "lng": "3.0900476"
+        },
+        "northeast": {
+          "lat": "45.7748661",
+          "lng": "3.0927473"
+        }
+      }
+    },
+    "rating": "3.8",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJA74z9-4b90cRlc-exJo2Ud0",
+    "id": "1669cbce597113a3ea6799d84f0c039f94b0476a",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "12",
+    "place_id": "ChIJA74z9-4b90cRlc-exJo2Ud0",
+    "plus_code": {
+      "global_code": "8FQ5Q3FR+CH",
+      "compound_code": "Q3FR+CH Clermont-Ferrand, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "56 Rue Jacques Hillairet, 75012 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8437075",
+        "lng": "2.3900401"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8423790",
+          "lng": "2.3885816"
+        },
+        "northeast": {
+          "lat": "48.8450786",
+          "lng": "2.3912813"
+        }
+      }
+    },
+    "rating": "4.6",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJDYLOFW1y5kcRTBMqbclBUfQ",
+    "id": "4675b7f3d33b6563da2f6ba623f6d8078430348c",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "5",
+    "place_id": "ChIJDYLOFW1y5kcRTBMqbclBUfQ",
+    "plus_code": {
+      "global_code": "8FW4R9VR+F2",
+      "compound_code": "R9VR+F2 Paris, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "173 Rue du Chemin Vert, 62200 Boulogne-sur-Mer, France",
+    "geometry": {
+      "location": {
+        "lat": "50.7369967",
+        "lng": "1.6129081"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "50.7355588",
+          "lng": "1.6116216"
+        },
+        "northeast": {
+          "lat": "50.7382585",
+          "lng": "1.6143212"
+        }
+      }
+    },
+    "rating": "4.6",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJtaFiCTos3EcRHr2m9782OiA",
+    "id": "2c30c11602ad684fba67a0a44d545d94a2eef939",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAfm6_BBEtEZHVpV5zStXYPttZOGA-fRJYme63RejyY-9D8DJ3Oy26xNRBFRO-IQJbh2B6BL3iSv9ow-XvOFTodwH3pST9VebmyWhe6QFOJQpFKKBQ30I3qL6dpPStF5C-EhDC-YB_ehulJdLoo5Jb2qMLGhTB8t9x3GFUiEv2nZukUw-CgAtF9w",
+      "width": "1536",
+      "height": "2560",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/106910701942404521272/photos\">A Google User</a>"
+    },
+    "user_ratings_total": "12",
+    "place_id": "ChIJtaFiCTos3EcRHr2m9782OiA",
+    "plus_code": {
+      "global_code": "9F23PJP7+Q5",
+      "compound_code": "PJP7+Q5 Boulogne-sur-Mer, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "3 Rue Nationale, 74500 Saint-Gingolph, France",
+    "geometry": {
+      "location": {
+        "lat": "46.3914740",
+        "lng": "6.8009060"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "46.3900486",
+          "lng": "6.7995351"
+        },
+        "northeast": {
+          "lat": "46.3927482",
+          "lng": "6.8022347"
+        }
+      }
+    },
+    "rating": "5.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJaYpfntidjkcRXY4MCPtQ2eE",
+    "id": "1052b2a585581fd7e6f0a7f32a4e818535ea8232",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "1",
+    "place_id": "ChIJaYpfntidjkcRXY4MCPtQ2eE",
+    "plus_code": {
+      "global_code": "8FR89RR2+H9",
+      "compound_code": "9RR2+H9 Saint-Gingolph, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "2 Rue des Grillons, 74960 Meythet, France",
+    "geometry": {
+      "location": {
+        "lat": "45.9142250",
+        "lng": "6.0904454"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "45.9128101",
+          "lng": "6.0890434"
+        },
+        "northeast": {
+          "lat": "45.9155097",
+          "lng": "6.0917430"
+        }
+      }
+    },
+    "rating": "4.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJZ9Od7xeFi0cRimkGHhy-Jow",
+    "id": "ded0c36e52dcb1c0e7495c2a5125be5bfd9a5a75",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAA09sltj6vTRe0_RLGnwAU9HUBzR1Sp4fDclzehuj8-7PNcdPggy8ZWZulk4dncea567J7YgFO5RqAdM3NwHjRpAoUcOcUK-O5St6iFQVFbtucaGhP7lS6EHr4mdvJuDIuEhBn8eQboN2D3Ap2MGFBNrIHGhRiyNzKO4A7xXxzH82-4zgwTnIB1w",
+      "width": "3264",
+      "height": "2448",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/107045902598891074090/photos\">Mag Presse</a>"
+    },
+    "user_ratings_total": "35",
+    "place_id": "ChIJZ9Od7xeFi0cRimkGHhy-Jow",
+    "plus_code": {
+      "global_code": "8FQ8W37R+M5",
+      "compound_code": "W37R+M5 Annecy, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "93290 Tremblay-en-France, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9594063",
+        "lng": "2.5724615"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9580971",
+          "lng": "2.5710805"
+        },
+        "northeast": {
+          "lat": "48.9607968",
+          "lng": "2.5737802"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJM8lUcZEW5kcROs6Ff0Owfi8",
+    "id": "5c09c5ccb0e5596ca98be264a17ed06b621f9ba5",
+    "user_ratings_total": "0",
+    "place_id": "ChIJM8lUcZEW5kcROs6Ff0Owfi8",
+    "plus_code": {
+      "global_code": "8FW4XH5C+QX",
+      "compound_code": "XH5C+QX Tremblay-en-France, France"
+    }
+  },
+  {
+    "name": "Mag Presse City",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "1, Cours des Alliés, Esplanade Général de Gaulle, 35000 Rennes, France",
+    "geometry": {
+      "location": {
+        "lat": "48.1053710",
+        "lng": "-1.6770173"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.1039153",
+          "lng": "-1.6786223"
+        },
+        "northeast": {
+          "lat": "48.1066149",
+          "lng": "-1.6759227"
+        }
+      }
+    },
+    "rating": "4.1",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJqSLhqsvfDkgRpxS5Ki8O6mo",
+    "id": "a002ba9e25211939a235db33b171dd65137ed215",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "7",
+    "place_id": "ChIJqSLhqsvfDkgRpxS5Ki8O6mo",
+    "plus_code": {
+      "global_code": "8CWW484F+45",
+      "compound_code": "484F+45 Rennes, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "RESIDENCE LE ROI SOLEIL, 88 Route de Saint-Jean, 06600 Antibes, France",
+    "geometry": {
+      "location": {
+        "lat": "43.5836782",
+        "lng": "7.1085417"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "43.5823034",
+          "lng": "7.1071790"
+        },
+        "northeast": {
+          "lat": "43.5850030",
+          "lng": "7.1098786"
+        }
+      }
+    },
+    "rating": "4.2",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ6ZjAD0TVzRIRULx5d53zCVA",
+    "id": "12988504fddb44b37f45707b14a620865c2c3f3e",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAA6v2fgq25X2cAnDw5St1jYWxFKQdaOZlZ1yy_rKRdOgBZWi5mMVB7ZiP58Y3D71ekUnmnHViwAeopAvSXfysscn0xTv-O0dyJuj7wc7uYohpszyDQs3ighjadF-_lwUs5EhAd1yuwpJO5zLopDBzwn4NWGhQY3nCe-BzJlOokq3_NcIOzwc-2KA",
+      "width": "3024",
+      "height": "4032",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/109704150266711013970/photos\">Cátia Ormonde</a>"
+    },
+    "user_ratings_total": "42",
+    "place_id": "ChIJ6ZjAD0TVzRIRULx5d53zCVA",
+    "plus_code": {
+      "global_code": "8FM9H4M5+FC",
+      "compound_code": "H4M5+FC Antibes, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "Place du Chapeau de Gendarme, 49000 Angers, France",
+    "geometry": {
+      "location": {
+        "lat": "47.4517882",
+        "lng": "-0.5558171"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "47.4500965",
+          "lng": "-0.5570760"
+        },
+        "northeast": {
+          "lat": "47.4527962",
+          "lng": "-0.5543763"
+        }
+      }
+    },
+    "rating": "3.7",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJz1LADaF4CEgRZgCJMVy00Uo",
+    "id": "54135f22f3d02ceae34ef1c51f398962eaaae830",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAAQbn3vgibY3-vtSgNIakvAqUn1DmeJCF5cboXcwE9MVVUCAyLraozf87uKQZSzOZ8lqHNIIBItUN3Bi2o8fppxyWSfF99FSte7Jc-ZtX5ARpAicnaWfsgIVKW9oGvluiEhCEYaTOT7L1SV2WbCKoV_S9GhRsT-onwlPfp_nzbzNfkCrHgpzm_w",
+      "width": "640",
+      "height": "480",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/107621789685804385840/photos\">Tabac Mag Presse</a>"
+    },
+    "user_ratings_total": "23",
+    "place_id": "ChIJz1LADaF4CEgRZgCJMVy00Uo",
+    "plus_code": {
+      "global_code": "8CVXFC2V+PM",
+      "compound_code": "FC2V+PM Angers, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "24 Avenue de Paris, 95600 Eaubonne, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9924219",
+        "lng": "2.2840868"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9911470",
+          "lng": "2.2827955"
+        },
+        "northeast": {
+          "lat": "48.9938467",
+          "lng": "2.2854952"
+        }
+      }
+    },
+    "rating": "4.4",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ1ZcuI9ln5kcRiDM_dHTcPDE",
+    "id": "477af4fc3a53a720bfe9f8d6878ca356510038d0",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "23",
+    "place_id": "ChIJ1ZcuI9ln5kcRiDM_dHTcPDE",
+    "plus_code": {
+      "global_code": "8FW4X7RM+XJ",
+      "compound_code": "X7RM+XJ Eaubonne, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "210 Route de Rozon, 74160 Collonges-sous-Salève, France",
+    "geometry": {
+      "location": {
+        "lat": "46.1437375",
+        "lng": "6.1395382"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "46.1424389",
+          "lng": "6.1381267"
+        },
+        "northeast": {
+          "lat": "46.1451385",
+          "lng": "6.1408263"
+        }
+      }
+    },
+    "rating": "2.4",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJdXEtykd6jEcR6MVqwk3e2mk",
+    "id": "05b09e64db3a9ff9319b2887d7c1eafa1d2918d1",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "12",
+    "place_id": "ChIJdXEtykd6jEcR6MVqwk3e2mk",
+    "plus_code": {
+      "global_code": "8FR844VQ+FR",
+      "compound_code": "44VQ+FR Collonges-sous-Salève, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "3 Place de l'Église, 92260 Fontenay-aux-Roses, France",
+    "geometry": {
+      "location": {
+        "lat": "48.7907285",
+        "lng": "2.2899413"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.7893839",
+          "lng": "2.2885444"
+        },
+        "northeast": {
+          "lat": "48.7920836",
+          "lng": "2.2912441"
+        }
+      }
+    },
+    "rating": "2.9",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJuacUQLlw5kcR22UHGC-aAtQ",
+    "id": "d8aeff881b90eef27a143eb66e20f4f5a3fa5a5c",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "17",
+    "place_id": "ChIJuacUQLlw5kcR22UHGC-aAtQ",
+    "plus_code": {
+      "global_code": "8FW4Q7RQ+7X",
+      "compound_code": "Q7RQ+7X Fontenay-aux-Roses, France"
+    }
+  },
+  {
+    "name": "Mag presse",
+    "type": ["book_store", "store", "point_of_interest", "establishment"],
+    "formatted_address": "72 Place de Provence, 86000 Poitiers, France",
+    "geometry": {
+      "location": {
+        "lat": "46.5890388",
+        "lng": "0.3581516"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "46.5876890",
+          "lng": "0.3568018"
+        },
+        "northeast": {
+          "lat": "46.5903886",
+          "lng": "0.3595014"
+        }
+      }
+    },
+    "rating": "4.3",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJz-dNGYG-_UcRugE6POc-Fkk",
+    "id": "5fb4a58e73c51ab2974b6c54c4eb58fa115db696",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAALMtI0AGmtcao80vhliPGs14kRo39jUFn7q5k1oCSIAKVDMQDzVZnYn_3ieySc5cYlvQ5B_vlg2jRWpB74wkLVoeLS_LYbqXBYd8i3zFoFJXQj4vdOxjkxxCrcBGdGAQFEhDWNRJB69dkdirfQq3S-_sJGhQFgefyuITOWH6nluy1qkJRCK87JA",
+      "width": "2048",
+      "height": "1536",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/107390678355808562412/photos\">Lydie BENOIST</a>"
+    },
+    "user_ratings_total": "42",
+    "place_id": "ChIJz-dNGYG-_UcRugE6POc-Fkk",
+    "plus_code": {
+      "global_code": "8FR2H9Q5+J7",
+      "compound_code": "H9Q5+J7 Poitiers, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "52 Rue des Volontaires, 75015 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8395044",
+        "lng": "2.3093672"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8381767",
+          "lng": "2.3080591"
+        },
+        "northeast": {
+          "lat": "48.8408764",
+          "lng": "2.3107587"
+        }
+      }
+    },
+    "rating": "4.7",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJVWcXfjdw5kcRDAE6tmFpoGE",
+    "id": "a201ac8b9def256227a2c52e43f70f5a9bb696ed",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAWPcWpaW_9ZGN9utmNShbQi_2M4dG0uuVuLxz_2Eu9gJyHsyAlGUOZgPfkwriOV_NulkkyaJ2v6L8dwQcp04XlHybr7vwOJPU1m38kYsnhyoEGY4yTFU-Fi6mBZJhrtJjEhBB6wy58ogY7siF1m_7PrrdGhR4vvYaSD7D-AUOvXoqKAFvMG_mHQ",
+      "width": "2976",
+      "height": "3968",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/110007265855432841660/photos\">Laskowski Cédrick</a>"
+    },
+    "user_ratings_total": "3",
+    "place_id": "ChIJVWcXfjdw5kcRDAE6tmFpoGE",
+    "plus_code": {
+      "global_code": "8FW4R8Q5+RP",
+      "compound_code": "R8Q5+RP Paris, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "94 Rue Garibaldi, 69006 Lyon, France",
+    "geometry": {
+      "location": {
+        "lat": "45.7677457",
+        "lng": "4.8505819"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "45.7664004",
+          "lng": "4.8492830"
+        },
+        "northeast": {
+          "lat": "45.7691001",
+          "lng": "4.8519826"
+        }
+      }
+    },
+    "rating": "4.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJHaVvp4rq9EcRUFxMMnWHvTs",
+    "id": "8860fcba4f6097b687db09d7072328416cd0452f",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "8",
+    "place_id": "ChIJHaVvp4rq9EcRUFxMMnWHvTs",
+    "plus_code": {
+      "global_code": "8FQ6QV92+36",
+      "compound_code": "QV92+36 Lyon, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "13 Rue de Tournai, 59390 Lannoy, France",
+    "geometry": {
+      "location": {
+        "lat": "50.6670878",
+        "lng": "3.2118229"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "50.6656884",
+          "lng": "3.2104072"
+        },
+        "northeast": {
+          "lat": "50.6683880",
+          "lng": "3.2131068"
+        }
+      }
+    },
+    "rating": "2.2",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ22wgHdAnw0cRv0_di9WZS2I",
+    "id": "687521434b9dbd0230f48c323da694302fee7f8c",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "16",
+    "place_id": "ChIJ22wgHdAnw0cRv0_di9WZS2I",
+    "plus_code": {
+      "global_code": "9F25M686+RP",
+      "compound_code": "M686+RP Lannoy, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "68 Rue du Faubourg Boutonnet, 34090 Montpellier, France",
+    "geometry": {
+      "location": {
+        "lat": "43.6204410",
+        "lng": "3.8730170"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "43.6190873",
+          "lng": "3.8716499"
+        },
+        "northeast": {
+          "lat": "43.6217869",
+          "lng": "3.8743496"
+        }
+      }
+    },
+    "rating": "4.1",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ4y1YKBuvthIR7aIlcC2Dzuw",
+    "id": "f6f74c3d4a23a8e6cd413f01fc4a7214fa6a6546",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAGG5dWIyLP6T5er329JTEqSE4j79hvQoq8KMMoT51jdwyC797a-18D4FTOy8gogeE0bSvoEqELXrzHx9AIIAvbrVpaJCULSp830XPw8nF1tOnch5k1ze5jkwjU8U7tRmPEhAtyEztJMLiTw5y5_q5BDZgGhTQ0u9aOe7E6_-tbVunNsRkp5JCEg",
+      "width": "5312",
+      "height": "2988",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/102883659430216848005/photos\">regisbarada</a>"
+    },
+    "user_ratings_total": "14",
+    "place_id": "ChIJ4y1YKBuvthIR7aIlcC2Dzuw",
+    "plus_code": {
+      "global_code": "8FM5JVCF+56",
+      "compound_code": "JVCF+56 Montpellier, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "41 Rue de Sartrouville, 95870 Bezons, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9345846",
+        "lng": "2.2032738"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9332638",
+          "lng": "2.2019816"
+        },
+        "northeast": {
+          "lat": "48.9359634",
+          "lng": "2.2046812"
+        }
+      }
+    },
+    "rating": "3.3",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ4Xr3XwNk5kcRSgELOzNllf8",
+    "id": "23b9fb9ba211fff5b291326674a7f8a505201d39",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "4",
+    "place_id": "ChIJ4Xr3XwNk5kcRSgELOzNllf8",
+    "plus_code": {
+      "global_code": "8FW4W6M3+R8",
+      "compound_code": "W6M3+R8 Bezons, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "16 Rue Jean Mermoz, 76700 Harfleur, France",
+    "geometry": {
+      "location": {
+        "lat": "49.5101460",
+        "lng": "0.1883560"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "49.5087887",
+          "lng": "0.1870454"
+        },
+        "northeast": {
+          "lat": "49.5114883",
+          "lng": "0.1897450"
+        }
+      }
+    },
+    "rating": "4.1",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ1dhA_xYw4EcRZilNca73Yyg",
+    "id": "b947dde7f80c762ef8e31d9d7dc1ff20150675b3",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "20",
+    "place_id": "ChIJ1dhA_xYw4EcRZilNca73Yyg",
+    "plus_code": {
+      "global_code": "8FX2G56Q+38",
+      "compound_code": "G56Q+38 Harfleur, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "56 Rue Jacques Hillairet, 75012 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8437075",
+        "lng": "2.3900401"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8423790",
+          "lng": "2.3885816"
+        },
+        "northeast": {
+          "lat": "48.8450786",
+          "lng": "2.3912813"
+        }
+      }
+    },
+    "rating": "4.6",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJDYLOFW1y5kcRTBMqbclBUfQ",
+    "id": "4675b7f3d33b6563da2f6ba623f6d8078430348c",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "5",
+    "place_id": "ChIJDYLOFW1y5kcRTBMqbclBUfQ",
+    "plus_code": {
+      "global_code": "8FW4R9VR+F2",
+      "compound_code": "R9VR+F2 Paris, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "52 Rue des Volontaires, 75015 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8395044",
+        "lng": "2.3093672"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8381767",
+          "lng": "2.3080591"
+        },
+        "northeast": {
+          "lat": "48.8408764",
+          "lng": "2.3107587"
+        }
+      }
+    },
+    "rating": "4.7",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJVWcXfjdw5kcRDAE6tmFpoGE",
+    "id": "a201ac8b9def256227a2c52e43f70f5a9bb696ed",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAWANNDe-9vJMazOYbsajFoCIqVxcEtyifN9w8nzqsPIgD62BtcTX_54cvnFgar2NhV4nSpp2gsG-d7vr3w_wlMejNc2u3x73DNFAVKw04DqfnQy-FLsIggMj-QC7-mD__EhA7oS7O9vYqdP4o3dXtyVGGGhQF6fwMYZmoh9tHfjOonxnjhCheEA",
+      "width": "2976",
+      "height": "3968",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/110007265855432841660/photos\">Laskowski Cédrick</a>"
+    },
+    "user_ratings_total": "3",
+    "place_id": "ChIJVWcXfjdw5kcRDAE6tmFpoGE",
+    "plus_code": {
+      "global_code": "8FW4R8Q5+RP",
+      "compound_code": "R8Q5+RP Paris, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "2 Avenue Reille, 75014 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8263447",
+        "lng": "2.3413988"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8249798",
+          "lng": "2.3401303"
+        },
+        "northeast": {
+          "lat": "48.8276795",
+          "lng": "2.3428300"
+        }
+      }
+    },
+    "rating": "4.5",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJEZJZUr1x5kcRIfh3eYk6L7c",
+    "id": "2fc383d415f1f18c4b875fd5834013445371c6dc",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAASuZUq4wZM7ftnhZlVkOAK7L69MrMJoyp0QA4LlszkUKmJ2Fu6y_XocyHx3AeT_Npbgg86abIjqLNkB87PhPoyZ0lrrW-1HiUYkDlPJm5KYJHLJ_AT_oQFc53aPLFl3sEEhDnuyhVDmyQhwY2ObAAHhhdGhQY4AXeGA3fceCQvJ6HuXK1r1Cqmw",
+      "width": "4032",
+      "height": "3024",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/109129800267571846016/photos\">Charles Strube</a>"
+    },
+    "user_ratings_total": "2",
+    "place_id": "ChIJEZJZUr1x5kcRIfh3eYk6L7c",
+    "plus_code": {
+      "global_code": "8FW4R8GR+GH",
+      "compound_code": "R8GR+GH Paris, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "43 Rue des Petits Champs, 75001 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8668805",
+        "lng": "2.3359424"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8655764",
+          "lng": "2.3346183"
+        },
+        "northeast": {
+          "lat": "48.8682760",
+          "lng": "2.3373180"
+        }
+      }
+    },
+    "rating": "2.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJGwPqzjpu5kcRli29eyoaI7M",
+    "id": "429792c2f525e86671867c94bccbeae123f08b3c",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "1",
+    "place_id": "ChIJGwPqzjpu5kcRli29eyoaI7M",
+    "plus_code": {
+      "global_code": "8FW4V88P+Q9",
+      "compound_code": "V88P+Q9 Paris, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "119 Avenue Félix Faure, 75015 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8382509",
+        "lng": "2.2815546"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8369617",
+          "lng": "2.2801307"
+        },
+        "northeast": {
+          "lat": "48.8396614",
+          "lng": "2.2828303"
+        }
+      }
+    },
+    "rating": "5.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ_1ZHogxw5kcRPVR03qCTB1I",
+    "id": "b745ee399922d52e1bad5d07c858ed47566e03f9",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "1",
+    "place_id": "ChIJ_1ZHogxw5kcRPVR03qCTB1I",
+    "plus_code": {
+      "global_code": "8FW4R7QJ+8J",
+      "compound_code": "R7QJ+8J Paris, France"
+    }
+  },
+  {
+    "name": "Mag presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "4/6 Allée Raymond Nègre, 94340 Joinville-le-Pont, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8197197",
+        "lng": "2.4751281"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8183861",
+          "lng": "2.4739145"
+        },
+        "northeast": {
+          "lat": "48.8210858",
+          "lng": "2.4766141"
+        }
+      }
+    },
+    "rating": "3.4",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJZaq2ayIN5kcRA8Ix1Ukt9lo",
+    "id": "14f854c88c47ca0adb5fb7166a7157c304531503",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAHsdf9HOwi1DpznovoL8TsOqmjTt7K5nzavmC7QfQr53zptBjDbE3t832_vr_bKvvhxfKVaQGWbtBQ9UtaFVSlHYGsvmqnEBC-Pe8EBGyMRmuJ88h0kyfysOpxGg5H328EhAwU7HoOPHpQaX9n-zQdohAGhSbb8zdCP_ct68Ja1har5qd2P5M6g",
+      "width": "3295",
+      "height": "4446",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/105717605305942438806/photos\">Gil Martins</a>"
+    },
+    "user_ratings_total": "14",
+    "place_id": "ChIJZaq2ayIN5kcRA8Ix1Ukt9lo",
+    "plus_code": {
+      "global_code": "8FW4RF9G+V3",
+      "compound_code": "RF9G+V3 Joinville-le-Pont, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "24 Avenue de Paris, 95600 Eaubonne, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9924219",
+        "lng": "2.2840868"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9911470",
+          "lng": "2.2827955"
+        },
+        "northeast": {
+          "lat": "48.9938467",
+          "lng": "2.2854952"
+        }
+      }
+    },
+    "rating": "4.4",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ1ZcuI9ln5kcRiDM_dHTcPDE",
+    "id": "477af4fc3a53a720bfe9f8d6878ca356510038d0",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "23",
+    "place_id": "ChIJ1ZcuI9ln5kcRiDM_dHTcPDE",
+    "plus_code": {
+      "global_code": "8FW4X7RM+XJ",
+      "compound_code": "X7RM+XJ Eaubonne, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "134 Avenue de la Plaine de France, 95500 Gonesse, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9782198",
+        "lng": "2.4978975"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9770395",
+          "lng": "2.4962613"
+        },
+        "northeast": {
+          "lat": "48.9797391",
+          "lng": "2.4989609"
+        }
+      }
+    },
+    "rating": "4.4",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJZfIJbxwV5kcRI--xYarm1aQ",
+    "id": "01b9fce575b183b3beb5c245913f6d28284f848e",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAl0imjstKXUJuqMbCjAJ4_c8use5-j5HA4oDGnv2-BWw8A_dgoXK31CqBdDphTdoxV2l4ifCihNTsPimvxm5kg4zS2Wt_fm1PX5UqG8md6lrJd9SLOFFzr1m7NCgTe97dEhAsRNR_nJG8w1f5ljaC6CBgGhTVqkKYSO2kdngE4yi0wbUq7zsMQQ",
+      "width": "2160",
+      "height": "3840",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/111767282021120992046/photos\">Pierre Slamich</a>"
+    },
+    "user_ratings_total": "14",
+    "place_id": "ChIJZfIJbxwV5kcRI--xYarm1aQ",
+    "plus_code": {
+      "global_code": "8FW4XFHX+75",
+      "compound_code": "XFHX+75 Gonesse, France"
+    }
+  },
+  {
+    "name": "Mag PRESSE",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "CENTRE COMMERCIAL LA CLEF ST PIERRE 9 RUE D'ATHENES, 78990 Élancourt, France",
+    "geometry": {
+      "location": {
+        "lat": "48.7926870",
+        "lng": "1.9720720"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.7913372",
+          "lng": "1.9707222"
+        },
+        "northeast": {
+          "lat": "48.7940368",
+          "lng": "1.9734218"
+        }
+      }
+    },
+    "rating": "2.5",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJj7wcIXCE5kcRGxwUaFaiIIA",
+    "id": "4be9ecb64ee5c9d27454f36907552f4a7113c0c6",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAA6XBjt1Y5E6JwzsSlg3U7XqwXRarq2VQwf_9MTjqF4rgy0lIn6ak5qnRgsOAMK7HhG2xwtSy75yAcV-6zIQ7AoTR5ZQCBW3TT7_q0Vk3iunvYypHcI9jp-XOHWp2DqvJjEhAFHrnaEWlwypeFytzUAw1lGhQR0-8uaCf8yV_Oi-JMPhcbZeWxZg",
+      "width": "2988",
+      "height": "3984",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/108208425261171957705/photos\">A Google User</a>"
+    },
+    "user_ratings_total": "24",
+    "place_id": "ChIJj7wcIXCE5kcRGxwUaFaiIIA",
+    "plus_code": {
+      "global_code": "8FW3QXVC+3R",
+      "compound_code": "QXVC+3R Élancourt, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "2 Avenue Reille, 75014 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8263447",
+        "lng": "2.3413988"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8249798",
+          "lng": "2.3401303"
+        },
+        "northeast": {
+          "lat": "48.8276795",
+          "lng": "2.3428300"
+        }
+      }
+    },
+    "rating": "4.5",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJEZJZUr1x5kcRIfh3eYk6L7c",
+    "id": "2fc383d415f1f18c4b875fd5834013445371c6dc",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAVgmo3mIPg3o8YNTdWUinrBC_8CLbJvqdVvKM1sBf_RAu0ty8bchgRXnZJeY5XA05bi_ptqKkBnv6N0L14ZnL3bezx3Wec6VV7JoVyxZ-QslsP1GPiT76SNeuC7GULZkTEhCS64HkhGikfZ_c4fOE9EdJGhRv4GZi_aSzxSEXIOoZJIqpy3WUPg",
+      "width": "4032",
+      "height": "3024",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/109129800267571846016/photos\">Charles Strube</a>"
+    },
+    "user_ratings_total": "2",
+    "place_id": "ChIJEZJZUr1x5kcRIfh3eYk6L7c",
+    "plus_code": {
+      "global_code": "8FW4R8GR+GH",
+      "compound_code": "R8GR+GH Paris, France"
+    }
+  },
+  {
+    "name": "Mag presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "4/6 Allée Raymond Nègre, 94340 Joinville-le-Pont, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8197197",
+        "lng": "2.4751281"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8183861",
+          "lng": "2.4739145"
+        },
+        "northeast": {
+          "lat": "48.8210858",
+          "lng": "2.4766141"
+        }
+      }
+    },
+    "rating": "3.4",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJZaq2ayIN5kcRA8Ix1Ukt9lo",
+    "id": "14f854c88c47ca0adb5fb7166a7157c304531503",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAZMhQbr_fFnJDTzZnVFsJUBC1KCB54FmX2W2vMLDxqK4rFtSDdnlT0tli6nIhQeH0-JtJjjZOgHek778288Hd9Oh51lNHDbdX8RvVgZqa1x3w3mz7nk3l2SeYr-hMye3sEhDf17aka5Y82C-7wXKXNSW9GhSFQ-sEz9bQIHZM9jDXxHXVLzRtag",
+      "width": "3295",
+      "height": "4446",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/105717605305942438806/photos\">Gil Martins</a>"
+    },
+    "user_ratings_total": "14",
+    "place_id": "ChIJZaq2ayIN5kcRA8Ix1Ukt9lo",
+    "plus_code": {
+      "global_code": "8FW4RF9G+V3",
+      "compound_code": "RF9G+V3 Joinville-le-Pont, France"
+    }
+  },
+  {
+    "name": "Magpresse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "1 Avenue Joseph Froment, 92250 La Garenne-Colombes, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9127630",
+        "lng": "2.2574230"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9114178",
+          "lng": "2.2560669"
+        },
+        "northeast": {
+          "lat": "48.9141174",
+          "lng": "2.2587666"
+        }
+      }
+    },
+    "rating": "4.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJmxA83b1l5kcRYBkqOYOLPY4",
+    "id": "8ca0e8e2114e011c1d08c6d5095df92d4a46dd66",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "1",
+    "place_id": "ChIJmxA83b1l5kcRYBkqOYOLPY4",
+    "plus_code": {
+      "global_code": "8FW4W774+4X",
+      "compound_code": "W774+4X La Garenne-Colombes, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "3 Place de l'Ermitage, 77000 Melun, France",
+    "geometry": {
+      "location": {
+        "lat": "48.5266821",
+        "lng": "2.6542265"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.5252910",
+          "lng": "2.6528493"
+        },
+        "northeast": {
+          "lat": "48.5279907",
+          "lng": "2.6555489"
+        }
+      }
+    },
+    "rating": "2.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJMbCkToDw5UcR1ZAukmgl2T0",
+    "id": "d4aed7aacd7a43add8ed8b58db52817783414ed2",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "7",
+    "place_id": "ChIJMbCkToDw5UcR1ZAukmgl2T0",
+    "plus_code": {
+      "global_code": "8FW4GMG3+MM",
+      "compound_code": "GMG3+MM Melun, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "24 Avenue de Paris, 95600 Eaubonne, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9924219",
+        "lng": "2.2840868"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9911470",
+          "lng": "2.2827955"
+        },
+        "northeast": {
+          "lat": "48.9938467",
+          "lng": "2.2854952"
+        }
+      }
+    },
+    "rating": "4.4",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ1ZcuI9ln5kcRiDM_dHTcPDE",
+    "id": "477af4fc3a53a720bfe9f8d6878ca356510038d0",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "23",
+    "place_id": "ChIJ1ZcuI9ln5kcRiDM_dHTcPDE",
+    "plus_code": {
+      "global_code": "8FW4X7RM+XJ",
+      "compound_code": "X7RM+XJ Eaubonne, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "52 Rue des Volontaires, 75015 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8395044",
+        "lng": "2.3093672"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8381767",
+          "lng": "2.3080591"
+        },
+        "northeast": {
+          "lat": "48.8408764",
+          "lng": "2.3107587"
+        }
+      }
+    },
+    "rating": "4.7",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJVWcXfjdw5kcRDAE6tmFpoGE",
+    "id": "a201ac8b9def256227a2c52e43f70f5a9bb696ed",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAMFDJVje678MI8jI80IqoH3fpzYfbpnsIj4Gxi00M9jfxzVWIUYgm-HE33h0-4mN1erIxE6VTDstgvrmp_CGxRMxLCqDcesOlpTRP53-D0WfhlKs_PvYFreXrKAueCtMqEhByfTMpzTvzzd_hSSEz7vE_GhQFJM1UpzhSwqU-86yNljqNpRvGEw",
+      "width": "2976",
+      "height": "3968",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/110007265855432841660/photos\">Laskowski Cédrick</a>"
+    },
+    "user_ratings_total": "3",
+    "place_id": "ChIJVWcXfjdw5kcRDAE6tmFpoGE",
+    "plus_code": {
+      "global_code": "8FW4R8Q5+RP",
+      "compound_code": "R8Q5+RP Paris, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "ZAC LA PETITE BRETAGNE PLACE DE L. DE TASSIGNY, 94550 Chevilly-Larue, France",
+    "geometry": {
+      "location": {
+        "lat": "48.7464450",
+        "lng": "2.3574240"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.7450339",
+          "lng": "2.3561294"
+        },
+        "northeast": {
+          "lat": "48.7477335",
+          "lng": "2.3588291"
+        }
+      }
+    },
+    "rating": "2.5",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJy0JB6gZ05kcRy6JD3IN1hos",
+    "id": "9e226af6edac7b25cead1a28f417497da0908740",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "15",
+    "place_id": "ChIJy0JB6gZ05kcRy6JD3IN1hos",
+    "plus_code": {
+      "global_code": "8FW4P9W4+HX",
+      "compound_code": "P9W4+HX Rungis, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "93290 Tremblay-en-France, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9594063",
+        "lng": "2.5724615"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9580971",
+          "lng": "2.5710805"
+        },
+        "northeast": {
+          "lat": "48.9607968",
+          "lng": "2.5737802"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJM8lUcZEW5kcROs6Ff0Owfi8",
+    "id": "5c09c5ccb0e5596ca98be264a17ed06b621f9ba5",
+    "user_ratings_total": "0",
+    "place_id": "ChIJM8lUcZEW5kcROs6Ff0Owfi8",
+    "plus_code": {
+      "global_code": "8FW4XH5C+QX",
+      "compound_code": "XH5C+QX Tremblay-en-France, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "41 Rue de Sartrouville, 95870 Bezons, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9345846",
+        "lng": "2.2032738"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9332638",
+          "lng": "2.2019816"
+        },
+        "northeast": {
+          "lat": "48.9359634",
+          "lng": "2.2046812"
+        }
+      }
+    },
+    "rating": "3.3",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ4Xr3XwNk5kcRSgELOzNllf8",
+    "id": "23b9fb9ba211fff5b291326674a7f8a505201d39",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "4",
+    "place_id": "ChIJ4Xr3XwNk5kcRSgELOzNllf8",
+    "plus_code": {
+      "global_code": "8FW4W6M3+R8",
+      "compound_code": "W6M3+R8 Bezons, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "43 Rue des Petits Champs, 75001 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8668805",
+        "lng": "2.3359424"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8655764",
+          "lng": "2.3346183"
+        },
+        "northeast": {
+          "lat": "48.8682760",
+          "lng": "2.3373180"
+        }
+      }
+    },
+    "rating": "2.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJGwPqzjpu5kcRli29eyoaI7M",
+    "id": "429792c2f525e86671867c94bccbeae123f08b3c",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "1",
+    "place_id": "ChIJGwPqzjpu5kcRli29eyoaI7M",
+    "plus_code": {
+      "global_code": "8FW4V88P+Q9",
+      "compound_code": "V88P+Q9 Paris, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "33 Rue René Pouteau, 77000 Melun, France",
+    "geometry": {
+      "location": {
+        "lat": "48.5390600",
+        "lng": "2.6613500"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.5377161",
+          "lng": "2.6599954"
+        },
+        "northeast": {
+          "lat": "48.5404157",
+          "lng": "2.6626951"
+        }
+      }
+    },
+    "rating": "2.7",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJxyEt2WT65UcRGDUSgAfk2fI",
+    "id": "fd3c250c49993989f2b165c01e87f4d9851f80b7",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "6",
+    "place_id": "ChIJxyEt2WT65UcRGDUSgAfk2fI",
+    "plus_code": {
+      "global_code": "8FW4GMQ6+JG",
+      "compound_code": "GMQ6+JG Melun, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "116 Boulevard Maréchal de Lattre de Tassigny, 92150 Suresnes, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8666162",
+        "lng": "2.2163579"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8652899",
+          "lng": "2.2149621"
+        },
+        "northeast": {
+          "lat": "48.8679895",
+          "lng": "2.2176618"
+        }
+      }
+    },
+    "rating": "3.9",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJmy_8MM9k5kcR-rD3Wz74H3M",
+    "id": "e92ccb886b9bc2f9a000c66f08eb90e0f89b5ccb",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAR7qtVY-s-uEcb1N9dDVz0fJJ8nAzBiNfRob1TgwD22ccmMMcxXvpmM9oXKSk86GFEUOeGLPIN6fx6uD58j5xOtHVrUQlIhGk7meueVd3Lekc5_L_vtra6vPEPlk_tIsEEhCW1BD2oK5S5_wHAvlyoivqGhQkSzAMQA58zYFumwSPQKocQLNNiA",
+      "width": "3024",
+      "height": "4032",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/116118010608132735301/photos\">A Google User</a>"
+    },
+    "user_ratings_total": "15",
+    "place_id": "ChIJmy_8MM9k5kcR-rD3Wz74H3M",
+    "plus_code": {
+      "global_code": "8FW4V688+JG",
+      "compound_code": "V688+JG Suresnes, France"
+    }
+  },
+  {
+    "name": "Mag Presse Tabac",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "3 B Avenue Charles de Gaulle, 91220 Brétigny-sur-Orge, France",
+    "geometry": {
+      "location": {
+        "lat": "48.6051828",
+        "lng": "2.3141947"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.6037838",
+          "lng": "2.3128381"
+        },
+        "northeast": {
+          "lat": "48.6064835",
+          "lng": "2.3155377"
+        }
+      }
+    },
+    "rating": "4.1",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ-U9vN8Xb5UcRsW_Rovqk57U",
+    "id": "e281d91a4a4ebbb9573f5073017794a9c8b92e84",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAALlJzZ-3OopIcOf-ljvJY7XgjLbFqbhjxrTCsPpiqr6iSDrMuKqJ1Hy9SSqbs25U0oEKnWnT5pJ-Ivh1D4YKtyXgOA16B9RwKVWfNdxOg7zDbVt4L50jvzAFAlBBj75EJEhAGSlb6JvYTdmyFFHGYhUsRGhRVtoYGvPg3wTHe-1eZLdnyTuoM7g",
+      "width": "4032",
+      "height": "2268",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/107863031061436126403/photos\">Morade Haddouchi</a>"
+    },
+    "user_ratings_total": "17",
+    "place_id": "ChIJ-U9vN8Xb5UcRsW_Rovqk57U",
+    "plus_code": {
+      "global_code": "8FW4J847+3M",
+      "compound_code": "J847+3M Brétigny-sur-Orge, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "26 Rue Jacques Daguerre, 92500 Rueil-Malmaison, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8886602",
+        "lng": "2.1689115"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8872973",
+          "lng": "2.1676414"
+        },
+        "northeast": {
+          "lat": "48.8899969",
+          "lng": "2.1703411"
+        }
+      }
+    },
+    "rating": "4.2",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJQ60Ha21j5kcRTPo_1RLXXoQ",
+    "id": "87366cf6b4965ec7786cb4cec8d2c10f6b7509d7",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAA655AM_dEEYV3YJNQKLMEHB5M1WVf98qpqQm8Lcfylu1mznp2EjvJfMc-_9gCDpVIXp1rrlpxDex5kUfWfp-yWyialiP66ETSMo8gM0Cjx2jljNe4Jycju0HizHFtuqOMEhBOAzGx0GIRMga-CodQwybWGhRQgC9Fz0u0tPnBq5nZIjF5uLYWRg",
+      "width": "1280",
+      "height": "1280",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/108653045855621433788/photos\">Mag Presse</a>"
+    },
+    "user_ratings_total": "13",
+    "place_id": "ChIJQ60Ha21j5kcRTPo_1RLXXoQ",
+    "plus_code": {
+      "global_code": "8FW4V5Q9+FH",
+      "compound_code": "V5Q9+FH Rueil-Malmaison, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "CENTRE COMMERCIAL DE, Rue de Villeroy, 91070 Bondoufle, France",
+    "geometry": {
+      "location": {
+        "lat": "48.6135079",
+        "lng": "2.3763029"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.6122072",
+          "lng": "2.3747808"
+        },
+        "northeast": {
+          "lat": "48.6149069",
+          "lng": "2.3774804"
+        }
+      }
+    },
+    "rating": "4.5",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJixkQ3ibc5UcRIv37UkDSPg0",
+    "id": "068b0783e4495b8f1691093c09008879f0556908",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "17",
+    "place_id": "ChIJixkQ3ibc5UcRIv37UkDSPg0",
+    "plus_code": {
+      "global_code": "8FW4J97G+CG",
+      "compound_code": "J97G+CG Bondoufle, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "97 Rue de Verdun, 92150 Suresnes, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8754443",
+        "lng": "2.2313668"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8740668",
+          "lng": "2.2300856"
+        },
+        "northeast": {
+          "lat": "48.8767665",
+          "lng": "2.2327852"
+        }
+      }
+    },
+    "rating": "4.6",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ8dARBd9k5kcR_gzdbwG-FiE",
+    "id": "1e455e2dafd8c008249eeab31d1eb8399afd571b",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "5",
+    "place_id": "ChIJ8dARBd9k5kcR_gzdbwG-FiE",
+    "plus_code": {
+      "global_code": "8FW4V6GJ+5G",
+      "compound_code": "V6GJ+5G Suresnes, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "40 Avenue Jacques Anquetil, 95190 Goussainville, France",
+    "geometry": {
+      "location": {
+        "lat": "49.0209990",
+        "lng": "2.4565795"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "49.0197260",
+          "lng": "2.4550727"
+        },
+        "northeast": {
+          "lat": "49.0224257",
+          "lng": "2.4577723"
+        }
+      }
+    },
+    "rating": "3.7",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJsQjomhtA5kcRBLULWwRZgJw",
+    "id": "f4c6380ee4a647787aac34605d8a27680ee459e7",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "33",
+    "place_id": "ChIJsQjomhtA5kcRBLULWwRZgJw",
+    "plus_code": {
+      "global_code": "8FX42FC4+9J",
+      "compound_code": "2FC4+9J Goussainville, France"
+    }
+  },
+  {
+    "name": "Mag Presse",
+    "type": ["book_store", "store", "point_of_interest", "establishment"],
+    "formatted_address": "N3, 77410 Claye-Souilly, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9466374",
+        "lng": "2.6622522"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9452506",
+          "lng": "2.6613562"
+        },
+        "northeast": {
+          "lat": "48.9479503",
+          "lng": "2.6640559"
+        }
+      }
+    },
+    "rating": "3.4",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJO2Iwb-kZ5kcRu7eDJAgF6Ss",
+    "id": "27afe7ecad1f659def81d21bee86a500000207a7",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "23",
+    "place_id": "ChIJO2Iwb-kZ5kcRu7eDJAgF6Ss",
+    "plus_code": {
+      "global_code": "8FW4WMW6+MW",
+      "compound_code": "WMW6+MW Claye-Souilly, France"
+    }
+  },
+  {
+    "formatted_address": "52 Rue des Volontaires, 75015 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8395044,
+        "lng": 2.3093672
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84087637989271,
+          "lng": 2.310758729892723
+        },
+        "southwest": {
+          "lat": 48.83817672010727,
+          "lng": 2.308059070107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a201ac8b9def256227a2c52e43f70f5a9bb696ed",
+    "name": "Mag Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3968,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110007265855432841660/photos\"\u003eLaskowski Cédrick\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAgnTDEEB06eGimv4Srr3bo4n82sLbLroqVwxzXfYOn-deP9lkCFWD_rHsw_OYHXfdFJzfo-Xu3V6Y4L0FdtIasAf3G3ZjRVRZkICLEITEVlYBab7DeSDK_izpm5VBWKIFEhAmeBvmXiyQ_qg6vPPQkB6XGhTC7jj8QTn4Ogim6CBHtrJOWvt0jg",
+        "width": 2976
+      }
+    ],
+    "place_id": "ChIJVWcXfjdw5kcRDAE6tmFpoGE",
+    "plus_code": {
+      "compound_code": "R8Q5+RP Paris, France",
+      "global_code": "8FW4R8Q5+RP"
+    },
+    "rating": 4.7,
+    "reference": "ChIJVWcXfjdw5kcRDAE6tmFpoGE",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 3
+  },
+  {
+    "formatted_address": "56 Rue Jacques Hillairet, 75012 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8437075,
+        "lng": 2.3900401
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84507862989272,
+          "lng": 2.391281279892722
+        },
+        "southwest": {
+          "lat": 48.84237897010728,
+          "lng": 2.388581620107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "4675b7f3d33b6563da2f6ba623f6d8078430348c",
+    "name": "Mag Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJDYLOFW1y5kcRTBMqbclBUfQ",
+    "plus_code": {
+      "compound_code": "R9VR+F2 Paris, France",
+      "global_code": "8FW4R9VR+F2"
+    },
+    "rating": 4.6,
+    "reference": "ChIJDYLOFW1y5kcRTBMqbclBUfQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 5
+  },
+  {
+    "formatted_address": "2 Avenue Reille, 75014 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.82634470000001,
+        "lng": 2.3413988
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.82767947989272,
+          "lng": 2.342829979892723
+        },
+        "southwest": {
+          "lat": 48.82497982010728,
+          "lng": 2.340130320107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2fc383d415f1f18c4b875fd5834013445371c6dc",
+    "name": "Mag Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/109129800267571846016/photos\"\u003eCharles Strube\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAoIeSuuNCVP4IvDDGvNqPIsogy4PFDKqkBPWjoQZyoIGk5E6b-05ayE9jdfJwpYV3CXS2Ou-tzAa-XkBAom3DxjFmIxRyTZj7gvV96ZWln-rj8JqxCXqHQDA1xfn3WUi-EhBAlVSxg2tgsrrJ_8CLz5k_GhQ31cO--ufFcUpSnA3xYqtDREM3fw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJEZJZUr1x5kcRIfh3eYk6L7c",
+    "plus_code": {
+      "compound_code": "R8GR+GH Paris, France",
+      "global_code": "8FW4R8GR+GH"
+    },
+    "rating": 4.5,
+    "reference": "ChIJEZJZUr1x5kcRIfh3eYk6L7c",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "43 Rue des Petits Champs, 75001 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8668805,
+        "lng": 2.3359424
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86827602989272,
+          "lng": 2.337317979892723
+        },
+        "southwest": {
+          "lat": 48.86557637010728,
+          "lng": 2.334618320107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "429792c2f525e86671867c94bccbeae123f08b3c",
+    "name": "Mag Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJGwPqzjpu5kcRli29eyoaI7M",
+    "plus_code": {
+      "compound_code": "V88P+Q9 Paris, France",
+      "global_code": "8FW4V88P+Q9"
+    },
+    "rating": 2,
+    "reference": "ChIJGwPqzjpu5kcRli29eyoaI7M",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "119 Avenue Félix Faure, 75015 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8382509,
+        "lng": 2.2815546
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.83966137989272,
+          "lng": 2.282830329892723
+        },
+        "southwest": {
+          "lat": 48.83696172010728,
+          "lng": 2.280130670107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b745ee399922d52e1bad5d07c858ed47566e03f9",
+    "name": "Mag Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ_1ZHogxw5kcRPVR03qCTB1I",
+    "plus_code": {
+      "compound_code": "R7QJ+8J Paris, France",
+      "global_code": "8FW4R7QJ+8J"
+    },
+    "rating": 5,
+    "reference": "ChIJ_1ZHogxw5kcRPVR03qCTB1I",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "4/6 Allée Raymond Nègre, 94340 Joinville-le-Pont, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8197197,
+        "lng": 2.4751281
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.82108577989273,
+          "lng": 2.476614129892722
+        },
+        "southwest": {
+          "lat": 48.81838612010728,
+          "lng": 2.473914470107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "14f854c88c47ca0adb5fb7166a7157c304531503",
+    "name": "Mag Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4446,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/105717605305942438806/photos\"\u003eGil Martins\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAArm4B_NY1MIdX2gpevXEEVEczNCRu-hPj5KVioR-wl5SvY_UOEH1cGxlH1RtfSf5JQFDtbzpCdxbPP1R2nW66pJYDrLSA1_j0J51fAous7YEniGjoEGWqCT2OZtvbniKXEhBdwjVLIe0nDQXY8hVGfGu3GhQUVc5kWD9ldOY6tGFnHj5eNZSmlQ",
+        "width": 3295
+      }
+    ],
+    "place_id": "ChIJZaq2ayIN5kcRA8Ix1Ukt9lo",
+    "plus_code": {
+      "compound_code": "RF9G+V3 Joinville-le-Pont, France",
+      "global_code": "8FW4RF9G+V3"
+    },
+    "rating": 3.4,
+    "reference": "ChIJZaq2ayIN5kcRA8Ix1Ukt9lo",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 14
+  },
+  {
+    "formatted_address": "24 Avenue de Paris, 95600 Eaubonne, France",
+    "geometry": {
+      "location": {
+        "lat": 48.9924219,
+        "lng": 2.2840868
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.99384667989272,
+          "lng": 2.285495179892723
+        },
+        "southwest": {
+          "lat": 48.99114702010728,
+          "lng": 2.282795520107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "477af4fc3a53a720bfe9f8d6878ca356510038d0",
+    "name": "Mag Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ1ZcuI9ln5kcRiDM_dHTcPDE",
+    "plus_code": {
+      "compound_code": "X7RM+XJ Eaubonne, France",
+      "global_code": "8FW4X7RM+XJ"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ1ZcuI9ln5kcRiDM_dHTcPDE",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 23
+  }
+]

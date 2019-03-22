@@ -1,0 +1,2206 @@
+[
+  {
+    "name": "Relay France",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "Place du Général de Gaulle, 93600 Aulnay-sous-Bois, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9318276",
+        "lng": "2.4942276"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9304315",
+          "lng": "2.4928769"
+        },
+        "northeast": {
+          "lat": "48.9331312",
+          "lng": "2.4955765"
+        }
+      }
+    },
+    "rating": "5.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ38ygVmIT5kcRexlP9LBoLTc",
+    "id": "a1c99337ca07eb5718ccd844913578f025b1743f",
+    "photo": {
+      "photo_reference": "CmRaAAAAdwlPtdB6jNuMsysduby9XIi4yAyFqiNCH8qDPI2rw0P9AoTKwt7wvOQnLq4Sl11FgzvmGcKyfUEa9i6n7B8vyxyNabUNAxwW8ia1KVgH2T79cZYccv86mkUqBrqi_8ZhEhBa9Qo0QtIUJBcTYlZ6RI-RGhR-ckgIlfxQbqggXLOOkT5XnsbUqw",
+      "width": "2925",
+      "height": "2486",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/110463710119211828341/photos\">SNCF Gares &amp; Connexions</a>"
+    },
+    "user_ratings_total": "2",
+    "place_id": "ChIJ38ygVmIT5kcRexlP9LBoLTc",
+    "plus_code": {
+      "global_code": "8FW4WFJV+PM",
+      "compound_code": "WFJV+PM Aulnay-sous-Bois, France"
+    }
+  },
+  {
+    "name": "Relay France",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "43382 Place de la Défense, 92800 Puteaux, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8907210",
+        "lng": "2.2405870"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8893643",
+          "lng": "2.2392559"
+        },
+        "northeast": {
+          "lat": "48.8920640",
+          "lng": "2.2419556"
+        }
+      }
+    },
+    "rating": "4.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ3RP0gQRl5kcR4KlT-KwsfGo",
+    "id": "1e8022be95721cd838d4ed4cbb5e14d1d29535bb",
+    "photo": {
+      "photo_reference": "CmRaAAAAs7n9v68nPEFe_rOtvl7cBG6k5D_qIYzbEDdh4gwUTNXYc8J7dWCOUKLPobJsWtU1ipavbp8b6bfpOEn5Jyug-VrZbMjtwt-SMB9m_5eI4n4P3gcQankTKcLu9gvuZM86EhDW-d7XB-YAHiJZ-Ry0vikeGhRvcQ_tSQk8a6sWD2QENk3ZHV-nig",
+      "width": "3264",
+      "height": "2448",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/100311400326214478917/photos\">Jimmy VDC</a>"
+    },
+    "user_ratings_total": "1",
+    "place_id": "ChIJ3RP0gQRl5kcR4KlT-KwsfGo"
+  },
+  {
+    "name": "Relay France",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "68 Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8816445",
+        "lng": "2.2716130"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8802365",
+          "lng": "2.2702198"
+        },
+        "northeast": {
+          "lat": "48.8829361",
+          "lng": "2.2729195"
+        }
+      }
+    },
+    "rating": "5.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJCRNc62Zl5kcRzh7V_Cqj3Z4",
+    "id": "1730015d32f5b9dc77a030449bdedacf0f5c423f",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "1",
+    "place_id": "ChIJCRNc62Zl5kcRzh7V_Cqj3Z4",
+    "plus_code": {
+      "global_code": "8FW4V7JC+MJ",
+      "compound_code": "V7JC+MJ Neuilly-sur-Seine, France"
+    }
+  },
+  {
+    "name": "Relay",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "2 Rue Ambroise Paré, 75010 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8822652",
+        "lng": "2.3528340"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8808370",
+          "lng": "2.3514847"
+        },
+        "northeast": {
+          "lat": "48.8835367",
+          "lng": "2.3541843"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJeeJhmm5u5kcR26K6NQ0Cf2Q",
+    "id": "acf1aace436fc8a8bd86da242c3ff636dfe88c84",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAA6-SajO2Zew6EeXpGvXrGIGeAgUw7pGhfzesC-0kkwL4HZ1n0TTOGATaa2u02Fc4ge2q_K24cHUJS6ZU77FKQKxN8UBmC9zoSKz5rFunSz2sa5XaJpyWikqhqqmvjVmw7EhCI4C9AWp-2MfY3Fw_2EMr_GhQAujT6JV1G1qAMFNoICqyriLfsTQ",
+      "width": "4032",
+      "height": "3024",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/106147316764498333608/photos\">Thomas Kuo</a>"
+    },
+    "user_ratings_total": "0",
+    "place_id": "ChIJeeJhmm5u5kcR26K6NQ0Cf2Q",
+    "plus_code": {
+      "global_code": "8FW4V9J3+W4",
+      "compound_code": "V9J3+W4 Paris, France"
+    }
+  },
+  {
+    "name": "Relay",
+    "type": ["book_store", "store", "point_of_interest", "establishment"],
+    "formatted_address": "93290 Tremblay-en-France, France",
+    "geometry": {
+      "location": {
+        "lat": "49.0028383",
+        "lng": "2.5686527"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "49.0014885",
+          "lng": "2.5673029"
+        },
+        "northeast": {
+          "lat": "49.0041881",
+          "lng": "2.5700025"
+        }
+      }
+    },
+    "rating": "2.5",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJuRXggAUW5kcRsMmja6-z9r0",
+    "id": "7bda820d1c310f79231931ebaa119576d233a55e",
+    "photo": {
+      "photo_reference": "CmRaAAAABoc4QpsdmW77j-oYXx7U2R0wTlbQQW-5vOO02AhQePJmiqsUoSTsX57jIIqklVu1GQrWgkuotJ0iqiCCT5A5rNuoT1cHdlS-6ULIMueiCLArwAPtTyAVMPxln2k3zbZnEhBp0Ejfnmgo6K8WGEAbphDtGhRAhCDl43CTG-ydrP0z7cZ9H3JP_g",
+      "width": "3264",
+      "height": "2267",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/105717605305942438806/photos\">Gil Martins</a>"
+    },
+    "user_ratings_total": "2",
+    "place_id": "ChIJuRXggAUW5kcRsMmja6-z9r0",
+    "plus_code": {
+      "global_code": "8FX42H39+4F",
+      "compound_code": "2H39+4F Tremblay-en-France, France"
+    }
+  },
+  {
+    "name": "Relay France",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "19 Rue Lamartine, 45400 Fleury-les-Aubrais, France",
+    "geometry": {
+      "location": {
+        "lat": "47.9250600",
+        "lng": "1.9074900"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "47.9235929",
+          "lng": "1.9061197"
+        },
+        "northeast": {
+          "lat": "47.9262925",
+          "lng": "1.9088194"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ7yyqbSL75EcRq2hIpZTZRRQ",
+    "id": "80929a5ec27f91add4578285e3192e1df4811dfe",
+    "user_ratings_total": "0",
+    "place_id": "ChIJ7yyqbSL75EcRq2hIpZTZRRQ"
+  },
+  {
+    "name": "Relay France",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "1 Place Henri Barbusse, 91100 Corbeil-Essonnes, France",
+    "geometry": {
+      "location": {
+        "lat": "48.6137850",
+        "lng": "2.4741780"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.6124252",
+          "lng": "2.4728161"
+        },
+        "northeast": {
+          "lat": "48.6151249",
+          "lng": "2.4755157"
+        }
+      }
+    },
+    "rating": "5.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJyY1Ab9Pg5UcRolqRjv1bwbc",
+    "id": "ce53305efcecc27188e5f41b7798299d372f6ab2",
+    "user_ratings_total": "1",
+    "place_id": "ChIJyY1Ab9Pg5UcRolqRjv1bwbc",
+    "plus_code": {
+      "global_code": "8FW4JF7F+GM",
+      "compound_code": "JF7F+GM Corbeil-Essonnes, France"
+    }
+  },
+  {
+    "name": "Relay France",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "Hôpital de Girac, 16470 Saint-Michel, France",
+    "geometry": {
+      "location": {
+        "lat": "45.6517140",
+        "lng": "0.1500749"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "45.6503642",
+          "lng": "0.1487251"
+        },
+        "northeast": {
+          "lat": "45.6530638",
+          "lng": "0.1514247"
+        }
+      }
+    },
+    "rating": "3.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJMzBsxQYt_kcRaYRIcQ_f24o",
+    "id": "ac9408d3f231a1af903b8fb98ff25f4f0d74ea17",
+    "user_ratings_total": "1",
+    "place_id": "ChIJMzBsxQYt_kcRaYRIcQ_f24o"
+  },
+  {
+    "name": "Relay",
+    "type": ["book_store", "store", "point_of_interest", "establishment"],
+    "formatted_address": "Aéroport Roissy Charles-de-Gaulle, Terminal 2A, 95700 Roissy-en-France, France",
+    "geometry": {
+      "location": {
+        "lat": "49.0135076",
+        "lng": "2.5449996"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "49.0121578",
+          "lng": "2.5436498"
+        },
+        "northeast": {
+          "lat": "49.0148574",
+          "lng": "2.5463494"
+        }
+      }
+    },
+    "rating": "1.9",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJMy7I-R0-5kcRAvb29UVRr3k",
+    "id": "bb58be75e4340428806b015fa31bdcda6f8d4ac5",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAzWCY2fr3Xa-2ujWHCTX2tIyPHyM0pPCwAZgtcK3zuG16v8I6hvj2rxu0wa7hwARfMvqnyaqkW3t6ybYo8OKyFhAN2I1DNvMa61cgo9Uj5UZoKBUrXly4mTT8z6_knpn8EhBfj3e0AIjCZF-rILcJaypfGhT7X6x_MHMHE3Y1xxP2p8C5B68eAw",
+      "width": "4032",
+      "height": "3024",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/113499628798051420593/photos\">Julien FURSAT</a>"
+    },
+    "user_ratings_total": "10",
+    "place_id": "ChIJMy7I-R0-5kcRAvb29UVRr3k",
+    "plus_code": {
+      "global_code": "8FX42G7V+CX",
+      "compound_code": "2G7V+CX Roissy-en-France, France"
+    }
+  },
+  {
+    "name": "Relay France",
+    "type": [
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "formatted_address": "Rue de la Préfecture, 95000 Cergy, France",
+    "geometry": {
+      "location": {
+        "lat": "49.0364511",
+        "lng": "2.0798848"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "49.0347789",
+          "lng": "2.0772909"
+        },
+        "northeast": {
+          "lat": "49.0374785",
+          "lng": "2.0807494"
+        }
+      }
+    },
+    "rating": "3.7",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJvxBbITv15kcRPOv7V_-KbS4",
+    "id": "9b3326fcd6cabbd0e7810b6dd508b8f140d79a94",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAoCRcLVccWNjZzUqoAKw6H5TK3m3RLYLgHxRo_-Qt_-TqBEAa6dJD63zadATWAJyiBWIJJPSIWpM15uTtERlxQu0IHMOHjC3REhFovXqYbEp47LfrlngjvRCxqVBifU8_EhDn5OFPxwOKXbajp8ZepFhTGhT8ABSaWV1fB6Ug6AeTCDzJGft11A",
+      "width": "1944",
+      "height": "2592",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/105733543265355363742/photos\">Samy Abada</a>"
+    },
+    "user_ratings_total": "41",
+    "place_id": "ChIJvxBbITv15kcRPOv7V_-KbS4",
+    "plus_code": {
+      "global_code": "8FX423PH+HX",
+      "compound_code": "23PH+HX Cergy, France"
+    }
+  },
+  {
+    "name": "Relay France",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "Rue de la Station, 92600 Asnières-sur-Seine, France",
+    "geometry": {
+      "location": {
+        "lat": "48.9061067",
+        "lng": "2.2837688"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.9048161",
+          "lng": "2.2824165"
+        },
+        "northeast": {
+          "lat": "48.9075158",
+          "lng": "2.2851161"
+        }
+      }
+    },
+    "rating": "2.7",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJBfVdwnxv5kcRatp1dgibEEQ",
+    "id": "cb165e66f3c86e0aaa07ba8b95198d2e5e478412",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "6",
+    "place_id": "ChIJBfVdwnxv5kcRatp1dgibEEQ",
+    "plus_code": {
+      "global_code": "8FW4W74M+CG",
+      "compound_code": "W74M+CG Asnières-sur-Seine, France"
+    }
+  },
+  {
+    "name": "Relay France",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "3 Boulevard Dr Verlhac, 19100 Brive-la-Gaillarde, France",
+    "geometry": {
+      "location": {
+        "lat": "45.1679715",
+        "lng": "1.5335141"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "45.1665773",
+          "lng": "1.5321746"
+        },
+        "northeast": {
+          "lat": "45.1692769",
+          "lng": "1.5348742"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ5S0MjdCX-EcR-hb72zgumCw",
+    "id": "2f8a1cccd8599d1d973aa6b06378890d9d60d510",
+    "user_ratings_total": "0",
+    "place_id": "ChIJ5S0MjdCX-EcR-hb72zgumCw",
+    "plus_code": {
+      "global_code": "8FQ35G9M+5C",
+      "compound_code": "5G9M+5C Brive-la-Gaillarde, France"
+    }
+  },
+  {
+    "name": "Relay France",
+    "type": ["book_store", "store", "point_of_interest", "establishment"],
+    "formatted_address": "28 Avenue du Général de Gaulle, 93170 Bagnolet, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8653078",
+        "lng": "2.4153621"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8637098",
+          "lng": "2.4138208"
+        },
+        "northeast": {
+          "lat": "48.8664094",
+          "lng": "2.4165204"
+        }
+      }
+    },
+    "rating": "4.5",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ17rv53lt5kcRPwewaYI2wBA",
+    "id": "ea6d050ec5eb94ffb319896bf286cbf3d8453cec",
+    "photo": {
+      "photo_reference": "CmRZAAAAlu_yhiirlxSA9eYriiJXAypaqHTNtLaVCnC0rkbxVB6mlZmD3OeBQBkdwlJccA1bMKvQkSTlL71V3j8bW2rYmzAK0xTSI0sb27O3GbYXAeCcLfF1-CYS0EVgf0FrR1IcEhBfzJxJXVszY0XTKC-aUpYKGhQaVI2wbKPYq4juWifqoboJGDjmXg",
+      "width": "3264",
+      "height": "1836",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/101448099653595284418/photos\">A Google User</a>"
+    },
+    "user_ratings_total": "4",
+    "place_id": "ChIJ17rv53lt5kcRPwewaYI2wBA",
+    "plus_code": {
+      "global_code": "8FW4VC88+44",
+      "compound_code": "VC88+44 Bagnolet, France"
+    }
+  },
+  {
+    "name": "Relay France Snc",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "50 Boulevard Haussmann, 75009 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8735977",
+        "lng": "2.3303050"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8722052",
+          "lng": "2.3291349"
+        },
+        "northeast": {
+          "lat": "48.8749048",
+          "lng": "2.3318345"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJuw-EkjZu5kcRFur9sLs4xOo",
+    "id": "7dfa9c7525c2cf9b7a71695d68c1e27f2d817932",
+    "user_ratings_total": "0",
+    "place_id": "ChIJuw-EkjZu5kcRFur9sLs4xOo",
+    "plus_code": {
+      "global_code": "8FW4V8FJ+C4",
+      "compound_code": "V8FJ+C4 Paris, France"
+    }
+  },
+  {
+    "name": "Relay France Snc",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "Place Gare, 95300 Pontoise, France",
+    "geometry": {
+      "location": {
+        "lat": "49.0473346",
+        "lng": "2.0950461"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "49.0459877",
+          "lng": "2.0936838"
+        },
+        "northeast": {
+          "lat": "49.0486874",
+          "lng": "2.0963834"
+        }
+      }
+    },
+    "rating": "3.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJk5GhZ2z15kcR_wC_ApsvTtg",
+    "id": "5ba111508797841df6e6b009e8de99d30825aba5",
+    "user_ratings_total": "2",
+    "place_id": "ChIJk5GhZ2z15kcR_wC_ApsvTtg",
+    "plus_code": {
+      "global_code": "8FX423WW+W2",
+      "compound_code": "23WW+W2 Pontoise, France"
+    }
+  },
+  {
+    "name": "Relay France",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "Gare de Saint Jean de Luz, 64500 Saint-Jean-de-Luz, France",
+    "geometry": {
+      "location": {
+        "lat": "43.3858024",
+        "lng": "-1.6610410"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "43.3845441",
+          "lng": "-1.6624443"
+        },
+        "northeast": {
+          "lat": "43.3872437",
+          "lng": "-1.6597447"
+        }
+      }
+    },
+    "rating": "5.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJD_D28_ERUQ0RSJmFOX-IgxE",
+    "id": "23415cf22d1489b7073bdfcabe5b1e09bbe8f615",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAuZSftQOCr8VEfAee5c_LfwECtm1lx98wUEF8CaYMMfr68s0ykkJylylp-TyGm45U36A9xiMyzSq3uJHdcxhY4yllB4GiZewjsU6pOGvOaTLgWzBOU1Up4E2npO7opsc9EhAK7-a5gYWlUJTtrPm3plYjGhTnFrPUbcP0NeNj15yjVfIF-OsqNQ",
+      "width": "3761",
+      "height": "2310",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/110463710119211828341/photos\">SNCF Gares &amp; Connexions</a>"
+    },
+    "user_ratings_total": "1",
+    "place_id": "ChIJD_D28_ERUQ0RSJmFOX-IgxE",
+    "plus_code": {
+      "global_code": "8CMW98PQ+8H",
+      "compound_code": "98PQ+8H Saint-Jean-de-Luz, France"
+    }
+  },
+  {
+    "name": "Relay France",
+    "type": ["restaurant", "point_of_interest", "food", "establishment"],
+    "formatted_address": "120 Rue Edouard Vaillant, 94800 Villejuif, France",
+    "geometry": {
+      "location": {
+        "lat": "48.7942254",
+        "lng": "2.3484547"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.7928624",
+          "lng": "2.3471284"
+        },
+        "northeast": {
+          "lat": "48.7955620",
+          "lng": "2.3498280"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "reference": "ChIJLX5i0EJx5kcReuUJY5A59OU",
+    "id": "b1865e2b751aeb2923e91a71fe44a262e370b388",
+    "user_ratings_total": "0",
+    "place_id": "ChIJLX5i0EJx5kcReuUJY5A59OU",
+    "plus_code": {
+      "global_code": "8FW4Q8VX+M9",
+      "compound_code": "Q8VX+M9 Villejuif, France"
+    }
+  },
+  {
+    "name": "RELAY",
+    "type": [
+      "book_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "formatted_address": "2 Espl. de France, 42000 Saint-Étienne, France",
+    "geometry": {
+      "location": {
+        "lat": "45.4435010",
+        "lng": "4.3992520"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "45.4420419",
+          "lng": "4.3979741"
+        },
+        "northeast": {
+          "lat": "45.4447416",
+          "lng": "4.4006738"
+        }
+      }
+    },
+    "rating": "3.8",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJW1gsjf6r9UcRIYiURbOHE3I",
+    "id": "7117136f6dccf918c5680174da7c6e4d3439d028",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAHV5fLaUKXplYTd4M1ThTVPWFYRZVfpxDnpmklrUBDI2UetlRjXplkwa5idSgkhAlk8ZGa3ZcqVISed8VHdiPpsow8z5vlY7XMCqhlrpaVYrh_VVD2UgHeaQWhgL1rm7-EhAA1W0SCiygkw884QLGl8E0GhS5XOAIHk3dX-mPo-hBACanYEG13A",
+      "width": "1000",
+      "height": "841",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/105177919924731789461/photos\">A Google User</a>"
+    },
+    "user_ratings_total": "6",
+    "place_id": "ChIJW1gsjf6r9UcRIYiURbOHE3I",
+    "plus_code": {
+      "global_code": "8FQ6C9VX+CP",
+      "compound_code": "C9VX+CP Saint-Étienne, France"
+    }
+  },
+  {
+    "name": "Relay France",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "Place des Droits de l'Homme, 02000 Laon, France",
+    "geometry": {
+      "location": {
+        "lat": "49.5701363",
+        "lng": "3.6241052"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "49.5687883",
+          "lng": "3.6226879"
+        },
+        "northeast": {
+          "lat": "49.5714880",
+          "lng": "3.6253876"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJCRGB0kZL6EcRbh0mPm0kZ4A",
+    "id": "5f4621da7e622883605205e91e0f39d6caabf1ec",
+    "user_ratings_total": "0",
+    "place_id": "ChIJCRGB0kZL6EcRbh0mPm0kZ4A",
+    "plus_code": {
+      "global_code": "8FX5HJCF+3J",
+      "compound_code": "HJCF+3J Laon, France"
+    }
+  },
+  {
+    "name": "Relay France",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "3 Rue Leroux, 94100 Saint-Maur-des-Fossés, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8060949",
+        "lng": "2.4719763"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8047997",
+          "lng": "2.4706720"
+        },
+        "northeast": {
+          "lat": "48.8074993",
+          "lng": "2.4733717"
+        }
+      }
+    },
+    "rating": "1.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJkcPHU9wM5kcRjshLYvWOJok",
+    "id": "fe2b1627f446d6de0c5f326cba77b8aadbe48fe9",
+    "user_ratings_total": "1",
+    "place_id": "ChIJkcPHU9wM5kcRjshLYvWOJok",
+    "plus_code": {
+      "global_code": "8FW4RF4C+CQ",
+      "compound_code": "RF4C+CQ Saint-Maur-des-Fossés, France"
+    }
+  },
+  {
+    "formatted_address": "Place Louis-Armand, 75012 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8437783,
+        "lng": 2.3754149
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84482952989272,
+          "lng": 2.376382279892722
+        },
+        "southwest": {
+          "lat": 48.84212987010728,
+          "lng": 2.373682620107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "60a6cfd53c859aa08b35282318973f1b1e55dc6c",
+    "name": "RELAY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2137,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110463710119211828341/photos\"\u003eSNCF Gares &amp; Connexions\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAHkEbbff-hR3oUNlDloBBN4urwOTtk6nEh1Zkw6DRobrfiZ0RC3kkWeO6XQl7U9dKvsNlsfC3C11CL-mnxOp94CTpgubHbsajC2eOxoqy0BfLuXEFYGID8xo_Ix6J3sTrEhB5DDFwjvPOJDILOQ75QfTgGhRLBcAa_cRHiChhB73qgS-Thb8I4A",
+        "width": 3238
+      }
+    ],
+    "place_id": "ChIJe6F0Ahty5kcROYDOYCku5TU",
+    "plus_code": {
+      "compound_code": "R9VG+G5 Paris, France",
+      "global_code": "8FW4R9VG+G5"
+    },
+    "rating": 2,
+    "reference": "ChIJe6F0Ahty5kcROYDOYCku5TU",
+    "types": [
+      "convenience_store",
+      "book_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 23
+  },
+  {
+    "formatted_address": "11 Boulevard de Vaugirard, 75015 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8412898,
+        "lng": 2.3200736
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84263962989272,
+          "lng": 2.321423429892722
+        },
+        "southwest": {
+          "lat": 48.83993997010728,
+          "lng": 2.318723770107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "791ad0b764e40d586ec1e659dce07fccf8f58b37",
+    "name": "RELAY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2079,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110463710119211828341/photos\"\u003eSNCF Gares &amp; Connexions\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA4OhIooYy3JuA6BTGyuvWND9jOsdycfkY14vmxlRXxNItKKTS8hlGSEpkhyaVO_sNyNqp_8c41GD1do3duYocBINTTzbWrl5LAMyBG3hxTsEOpJ8CwyiVS9ynz6cfEZ-6EhBE9EWaJ9Icw7NpPJx_muGdGhSP2OTnk2Vk3NCUgVj_KoZvyTJnhg",
+        "width": 3795
+      }
+    ],
+    "place_id": "ChIJc21UrzRw5kcRB2GYvPmS2wM",
+    "plus_code": {
+      "compound_code": "R8RC+G2 Paris, France",
+      "global_code": "8FW4R8RC+G2"
+    },
+    "rating": 2.8,
+    "reference": "ChIJc21UrzRw5kcRB2GYvPmS2wM",
+    "types": [
+      "book_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 18
+  },
+  {
+    "formatted_address": "Place du 11 Novembre 1918, Gare de l'Est, 75010 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8770354,
+        "lng": 2.3592096
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87857367989272,
+          "lng": 2.359988529892722
+        },
+        "southwest": {
+          "lat": 48.87587402010728,
+          "lng": 2.357288870107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f4fccd8828939e1c1dd6e7196e968d9280cfef78",
+    "name": "RELAY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2120,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110463710119211828341/photos\"\u003eSNCF Gares &amp; Connexions\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA7mkZNXBS_bqN1p4PMJgn637Hm1uiLdz1UEHXsbu-K9qWxqKdFei1a5xtO-TO_nL0aKp-ITK85Qay1UssFTwtZA2RSrJtzxVYIShZJ5NV8oWVolGDs7jcWJzj6Hq6IkU1EhDXW-EQ-IsGeI0oFAt8sf-nGhTumvZ9oYSMire3IjD8aNaFGYS4ug",
+        "width": 3166
+      }
+    ],
+    "place_id": "ChIJw_n7w3Ju5kcRd76xXbR3ZCE",
+    "plus_code": {
+      "compound_code": "V9G5+RM Paris, France",
+      "global_code": "8FW4V9G5+RM"
+    },
+    "rating": 3.1,
+    "reference": "ChIJw_n7w3Ju5kcRd76xXbR3ZCE",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 16
+  },
+  {
+    "formatted_address": "55 Quai d'Austerlitz, 75013 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.84186159999999,
+        "lng": 2.3664569
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84332237989272,
+          "lng": 2.368015579892722
+        },
+        "southwest": {
+          "lat": 48.84062272010728,
+          "lng": 2.365315920107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0aa0cbc9c490123c259d1e1367356014a0e9a7f3",
+    "name": "RELAY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJt-LpsgZy5kcRPkLCS-nj5Sw",
+    "plus_code": {
+      "compound_code": "R9R8+PH Paris, France",
+      "global_code": "8FW4R9R8+PH"
+    },
+    "rating": 1.4,
+    "reference": "ChIJt-LpsgZy5kcRPkLCS-nj5Sw",
+    "types": [
+      "book_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 7
+  },
+  {
+    "formatted_address": "2 Rue Ambroise Paré, 75010 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8822652,
+        "lng": 2.352834
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88353667989273,
+          "lng": 2.354184329892721
+        },
+        "southwest": {
+          "lat": 48.88083702010729,
+          "lng": 2.351484670107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "acf1aace436fc8a8bd86da242c3ff636dfe88c84",
+    "name": "Relay France",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/106147316764498333608/photos\"\u003eThomas Kuo\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA0aiumyGRynLCg86xlSptBg40FBwpPFRGbmxH7mE7FxHh4cWYivjXU-2hVRgxJ30jSSZbGX1skbjtXvJgUtvVxzzpOKumCpNy0QBiC5Ho6plbYp08if21KK97N_uR4gMHEhCK1A5DB6VZg1KrIi4zS8KgGhSGsXbsvWAwl2YMNN_AZjIOMenjwQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJeeJhmm5u5kcR26K6NQ0Cf2Q",
+    "plus_code": {
+      "compound_code": "V9J3+W4 Paris, France",
+      "global_code": "8FW4V9J3+W4"
+    },
+    "rating": 0,
+    "reference": "ChIJeeJhmm5u5kcR26K6NQ0Cf2Q",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "48 bis Boulevard de Bercy, 75012 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.839109,
+        "lng": 2.382671
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84024412989272,
+          "lng": 2.383977629892722
+        },
+        "southwest": {
+          "lat": 48.83754447010727,
+          "lng": 2.381277970107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f5c6139d8120c2769ba0d07ebf86193f755c23fe",
+    "name": "RELAY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 841,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101436657059969831848/photos\"\u003eA Google User\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAEtRG3_il1qajhzlhstPO4GkkTa4VKzTNFDmSxZGuhCtFFtEuZXNYeULLNGPZnSqnMW3ZTZEyY2UxOBd4UBH3LhBiEJucsbgQysSAJODueqJkRlVib3QHD-3fFhBVzFYyEhDOrThLDq-mHAtWTCFqPcoXGhTzMhLJtHhmkl2qFYBwqZgIVDyWkQ",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJt3xZHxRy5kcRdr-zDyMfU2c",
+    "plus_code": {
+      "compound_code": "R9QM+J3 Paris, France",
+      "global_code": "8FW4R9QM+J3"
+    },
+    "rating": 4,
+    "reference": "ChIJt3xZHxRy5kcRdr-zDyMfU2c",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 5
+  },
+  {
+    "formatted_address": "18 Rue de Dunkerque, 75010 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8809134,
+        "lng": 2.3542034
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88226322989272,
+          "lng": 2.355553229892722
+        },
+        "southwest": {
+          "lat": 48.87956357010728,
+          "lng": 2.352853570107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "23df2c86929c7c2688fe720f9799a5fda54d0418",
+    "name": "Relay",
+    "opening_hours": {},
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/117243612051785042485/photos\"\u003eOrphée Avallon\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAtbR3iCMrDpNyp26RGkwWi00kteLwfwRvRo5NM9cYjEyToGQ0Jd05Zu8etEafBxJ_LlKAcGz48inccZSoZ35sOCjPPR_wxSX0RbZpnQsk8hCneISQ3nC5B8Oge3xP_iKoEhBzA6WEh8fSdiT3aCzCC_xGGhQWttNSx0byS05SE--_wRA_nMRVRg",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJiZFD0m1u5kcRsIa1eSfF6Ck",
+    "plus_code": {
+      "compound_code": "V9J3+9M Paris, France",
+      "global_code": "8FW4V9J3+9M"
+    },
+    "rating": 3.9,
+    "reference": "ChIJiZFD0m1u5kcRsIa1eSfF6Ck",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 18
+  },
+  {
+    "formatted_address": "Hôpital Pitié-Salpêtrière, 47 Boulevard de l'Hôpital, 75013 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8365831,
+        "lng": 2.3679185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.83808862989273,
+          "lng": 2.369154679892723
+        },
+        "southwest": {
+          "lat": 48.83538897010728,
+          "lng": 2.366455020107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1411d204be498ccbb01900577751ee7b2fd11cfc",
+    "name": "Relay France",
+    "place_id": "ChIJzxaoZh9y5kcRB7QeaKA7ANU",
+    "plus_code": {
+      "compound_code": "R9P9+J5 Paris, France",
+      "global_code": "8FW4R9P9+J5"
+    },
+    "rating": 0,
+    "reference": "ChIJzxaoZh9y5kcRB7QeaKA7ANU",
+    "types": [
+      "book_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Gare Métro Denfert-Rochereau, 75014 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8331598,
+        "lng": 2.3335689
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.83451722989273,
+          "lng": 2.334644429892722
+        },
+        "southwest": {
+          "lat": 48.83181757010728,
+          "lng": 2.331944770107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2d8721718b199356c58401ae95d15efd05fdd53b",
+    "name": "Relay",
+    "place_id": "ChIJyblhfrhx5kcRSsroqR-STWg",
+    "plus_code": {
+      "compound_code": "R8MM+7C Paris, France",
+      "global_code": "8FW4R8MM+7C"
+    },
+    "rating": 0,
+    "reference": "ChIJyblhfrhx5kcRSsroqR-STWg",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Parvis Notre-Dame - Pl. Jean-Paul II, 75005 Saint Michael, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8536368,
+        "lng": 2.3444052
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85498662989272,
+          "lng": 2.345755029892722
+        },
+        "southwest": {
+          "lat": 48.85228697010728,
+          "lng": 2.343055370107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f246ee1072387828500188ec851f61ef45174774",
+    "name": "Relay",
+    "photos": [
+      {
+        "height": 4128,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/109664150228450118316/photos\"\u003eWoog Gyoon Sin\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAh8-m7lqeLAKpVfmOcRBoePAf2HEPdb_6U33MDpj6S-yomv5BlERkDpAKYLgRiKyE6H-4YHCL-HgWAadnTudyiEb6U1jIFAhN8483a-Wx2R3BZsY787LHg2z592--zYKmEhAVQg7Wk6lOTfeblqCGgA6tGhR-4Gy7qv7FloT3stvtiwn_pFqEyA",
+        "width": 2322
+      }
+    ],
+    "place_id": "ChIJRXokduFx5kcR2V51tQGErTE",
+    "plus_code": {
+      "compound_code": "V83V+FQ Paris, France",
+      "global_code": "8FW4V83V+FQ"
+    },
+    "rating": 4.3,
+    "reference": "ChIJRXokduFx5kcR2V51tQGErTE",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 4
+  },
+  {
+    "formatted_address": "Gare Saint-Lazare, 13 Rue d'Amsterdam, 75008 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8763151,
+        "lng": 2.3245388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87744342989272,
+          "lng": 2.325534929892722
+        },
+        "southwest": {
+          "lat": 48.87474377010728,
+          "lng": 2.322835270107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "042165934b62a2913887ed878285b2ed29a012c7",
+    "name": "RELAY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/111041521560358039566/photos\"\u003ecedric le coadou\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAhhS2x1nq1dZ4x4K-ooGug4laWWcmg7vfd615j0uzCczTrJgBluGGIL51zwb5laHSb23wIr89lnL4JW3su8qibD1V78mY0vHOkn9K-57JJtRX1CTac0_qWVAJYQynxH-0EhC6N_Hx0LIgy9cyPMgnvwiuGhQryNkhtJjN78pkkcggsfc1k-JQGQ",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJQ9lYejVu5kcR5dhUbQ9dtJ0",
+    "plus_code": {
+      "compound_code": "V8GF+GR Paris, France",
+      "global_code": "8FW4V8GF+GR"
+    },
+    "rating": 3.6,
+    "reference": "ChIJQ9lYejVu5kcR5dhUbQ9dtJ0",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 33
+  },
+  {
+    "formatted_address": "111 Rue Réaumur, 75002 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8679835,
+        "lng": 2.3427069
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86951127989273,
+          "lng": 2.344149829892722
+        },
+        "southwest": {
+          "lat": 48.86681162010728,
+          "lng": 2.341450170107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8d18753a5db04a9cc66c9f87248533d7d1847a26",
+    "name": "Relay France Snc",
+    "place_id": "ChIJIdXeET1u5kcRGIQR8hZCq0o",
+    "plus_code": {
+      "compound_code": "V89V+53 Paris, France",
+      "global_code": "8FW4V89V+53"
+    },
+    "rating": 0,
+    "reference": "ChIJIdXeET1u5kcRGIQR8hZCq0o",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "7 Boulevard de l'Hôpital, 75013 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.84152,
+        "lng": 2.366059
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84292687989272,
+          "lng": 2.366998479892723
+        },
+        "southwest": {
+          "lat": 48.84022722010727,
+          "lng": 2.364298820107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "824b3baead0ba76a2d9b16fb33a64afa41de0f22",
+    "name": "RELAY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3984,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/116607703249979724702/photos\"\u003eNoé r\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA-jK6j3x0_Lvgh81agDabMImvjgJ2luUf-PKXa4Sl0s-061b8FK53O0d3-cV2jXb39yw8J5KD2j4VcG_1VxWQK5N33SP204p-h5GBdSW9CT6plma4ePn62rpqoMRzX-9EEhBl31LUUVqlXIAKGX0uIueGGhTgBzwhQbGusXicgsvKZVDZkN1QwA",
+        "width": 2988
+      }
+    ],
+    "place_id": "ChIJYYnL9h1y5kcRpu9adSzYsno",
+    "plus_code": {
+      "compound_code": "R9R8+JC Paris, France",
+      "global_code": "8FW4R9R8+JC"
+    },
+    "rating": 5,
+    "reference": "ChIJYYnL9h1y5kcRpu9adSzYsno",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "METRO TROCADERO, 75016 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8635821,
+        "lng": 2.2875434
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86491907989272,
+          "lng": 2.288931729892723
+        },
+        "southwest": {
+          "lat": 48.86221942010727,
+          "lng": 2.286232070107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c5d15876fb29247cb7550f913217b7c839b7b42c",
+    "name": "Relay France Snc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114315763380453729003/photos\"\u003eJean Vincent\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAd7M2NL8uss4GONVo_5UT3scuqnartKPvgz0F_zrLuyG5wc70T-asDa7BFRf718JGLuPNCXrK7rywnNj1gAxd5wLHtWvI6sQKXoACtDjV4r3XyXBSlXp4kA_-wESULIopEhAWDZFTLZnNeEJ-Tk0Lu2qCGhQRqOlZN3RWQNJkFXJydo13Et1jCA",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJ2WLdFPtv5kcRjnxJ3EJGyww",
+    "plus_code": {
+      "compound_code": "V77Q+C2 Paris, France",
+      "global_code": "8FW4V77Q+C2"
+    },
+    "rating": 0,
+    "reference": "ChIJ2WLdFPtv5kcRjnxJ3EJGyww",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "47 Boulevard de l'Hôpital, 75013 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8401867,
+        "lng": 2.3631946
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84157597989272,
+          "lng": 2.364525129892722
+        },
+        "southwest": {
+          "lat": 48.83887632010727,
+          "lng": 2.361825470107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0753e6c68c38bc6eaa71fa0de1cdd7f548378fa9",
+    "name": "Relais H Snc",
+    "place_id": "ChIJA04dYfRx5kcRu_3xERzmf8Y",
+    "plus_code": {
+      "compound_code": "R9R7+37 Paris, France",
+      "global_code": "8FW4R9R7+37"
+    },
+    "rating": 1,
+    "reference": "ChIJA04dYfRx5kcRu_3xERzmf8Y",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "48 Bd Sérurier, 75019 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.87993830000001,
+        "lng": 2.4029848
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88108562989272,
+          "lng": 2.404288229892722
+        },
+        "southwest": {
+          "lat": 48.87838597010727,
+          "lng": 2.401588570107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "22f1b08825b470e9d0ed75ff715f2da10e49e88a",
+    "name": "Relay France",
+    "place_id": "ChIJyc0dO6Nt5kcRr6GbwthczhI",
+    "plus_code": {
+      "compound_code": "VCH3+X5 Paris, France",
+      "global_code": "8FW4VCH3+X5"
+    },
+    "rating": 0,
+    "reference": "ChIJyc0dO6Nt5kcRr6GbwthczhI",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "1 Cour de Rome, 75008 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.876315,
+        "lng": 2.3245391
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87744342989272,
+          "lng": 2.325535079892722
+        },
+        "southwest": {
+          "lat": 48.87474377010728,
+          "lng": 2.322835420107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c2a0d714200a020bb7dbaa713b30fc6719ffaf44",
+    "name": "RELAY",
+    "opening_hours": {},
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/116356594183124903695/photos\"\u003eSteph Wi\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAWklwa-WvcsIIKyxvnSbzGE71V37vp4Jlg71dtdrQdjI6zemuiKlKvYrnykYNA_4OK-ObIi-AfwRIDcy6Hh-ScL5f2tMbhDfhAzQBGUsk0laN2xHAWkjHPWUVxAxHPbe-EhB9E6lxi3oWDe-rptaQU5MbGhSXrHXh5MIk2ZCeL8hwDckZ5bXR1g",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJUdGogEpu5kcRJ6TlQ6paf3I",
+    "plus_code": {
+      "compound_code": "V8GF+GR Paris, France",
+      "global_code": "8FW4V8GF+GR"
+    },
+    "rating": 3.5,
+    "reference": "ChIJUdGogEpu5kcRJ6TlQ6paf3I",
+    "types": [
+      "book_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 64
+  },
+  {
+    "formatted_address": "Rue de Paris, 94340 Joinville-le-Pont, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8208182,
+        "lng": 2.4736331
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.82213517989271,
+          "lng": 2.474754979892722
+        },
+        "southwest": {
+          "lat": 48.81943552010727,
+          "lng": 2.472055320107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "37af3fb0fdf369513d86ac8c9091e1a869e7bdec",
+    "name": "Relay France",
+    "place_id": "ChIJu2OY9iYN5kcR86hfX6IRrUQ",
+    "rating": 0,
+    "reference": "ChIJu2OY9iYN5kcR86hfX6IRrUQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "50 Boulevard Haussmann, 75009 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8735977,
+        "lng": 2.330305
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87490482989273,
+          "lng": 2.331834529892722
+        },
+        "southwest": {
+          "lat": 48.87220517010729,
+          "lng": 2.329134870107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "7dfa9c7525c2cf9b7a71695d68c1e27f2d817932",
+    "name": "Relay France Snc",
+    "place_id": "ChIJuw-EkjZu5kcRFur9sLs4xOo",
+    "plus_code": {
+      "compound_code": "V8FJ+C4 Paris, France",
+      "global_code": "8FW4V8FJ+C4"
+    },
+    "rating": 0,
+    "reference": "ChIJuw-EkjZu5kcRFur9sLs4xOo",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "3 Place Denfert-Rochereau, 75014 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8331209,
+        "lng": 2.3336819
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.83443887989272,
+          "lng": 2.335173929892722
+        },
+        "southwest": {
+          "lat": 48.83173922010727,
+          "lng": 2.332474270107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9abb86d25c01657ea7bc9943fb461ceca094c1d7",
+    "name": "Relais H",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJvz3Ntrlx5kcRVYZlyVVW1oM",
+    "plus_code": {
+      "compound_code": "R8MM+6F Paris, France",
+      "global_code": "8FW4R8MM+6F"
+    },
+    "rating": 4,
+    "reference": "ChIJvz3Ntrlx5kcRVYZlyVVW1oM",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "1 Place Moreau David, 94120 Fontenay-sous-Bois, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8434202,
+        "lng": 2.4644331
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84457412989272,
+          "lng": 2.466000379892723
+        },
+        "southwest": {
+          "lat": 48.84187447010727,
+          "lng": 2.463300720107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "d6be641c7a0dbe47f023fd750f6f58828b625604",
+    "name": "Relay",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/116875569319428658396/photos\"\u003eA Google User\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAg3KtUNAnwdDK9RjnV7EUYBZGkZMMFPs4nqVp7zOuzZvIMEd2iIeewWtKTEXYSWEsO2-3VTAnxUUTX5mt_rJY4y1uq0D9Ai-jpHoJ3OjId1BDF6YI_WLuFEy8l2ZkBAoBEhD7Zoe2NCoyOGjKPfc8qMAlGhQ1XlTJdgiEwLU6Nv23jZ5xUoGKWg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJlZpUJlAN5kcR_IRT82TL3Xg",
+    "plus_code": {
+      "compound_code": "RFV7+9Q Fontenay-sous-Bois, France",
+      "global_code": "8FW4RFV7+9Q"
+    },
+    "rating": 2.8,
+    "reference": "ChIJlZpUJlAN5kcR_IRT82TL3Xg",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 6
+  },
+  {
+    "formatted_address": "13 Cour de Rome, 75008 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8763152,
+        "lng": 2.3245389
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87744342989272,
+          "lng": 2.325534979892722
+        },
+        "southwest": {
+          "lat": 48.87474377010728,
+          "lng": 2.322835320107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "447c6863a333883589c436f4da86328726df1cde",
+    "name": "RELAY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 750,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/115230517687694609012/photos\"\u003eRelay\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAADNaI33QP7wCmnH13JhnAoQwFyUtzg3scXW7zkz0o0FosGZWyOsFNZwLrc-o_oj05eRK0lZ9KP3S8gOwttq_KY5D0WsBIKV-_GMa2cCLyb8Tvf4kF4ByB1gzieF07iWE1EhCCovMUfGJsgUoO8OpV8Q6rGhSwDuadcJQAspif652VNsjSElCwtQ",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJZdwX2Fdv5kcRuw6osw9OtrM",
+    "plus_code": {
+      "compound_code": "V8GF+GR Paris, France",
+      "global_code": "8FW4V8GF+GR"
+    },
+    "rating": 4,
+    "reference": "ChIJZdwX2Fdv5kcRuw6osw9OtrM",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 6
+  },
+  {
+    "formatted_address": "15 Rue Versigny, 75018 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8947486,
+        "lng": 2.3435175
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.89613122989272,
+          "lng": 2.344887079892723
+        },
+        "southwest": {
+          "lat": 48.89343157010728,
+          "lng": 2.342187420107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b1946b6776e3edc864f301cbadc6d46b2b4cf51d",
+    "name": "Relay",
+    "place_id": "ChIJm4O3F19u5kcRfOeQ9nXfKQw",
+    "plus_code": {
+      "compound_code": "V8VV+VC Paris, France",
+      "global_code": "8FW4V8VV+VC"
+    },
+    "rating": 0,
+    "reference": "ChIJm4O3F19u5kcRfOeQ9nXfKQw",
+    "types": ["point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "68 Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8816445,
+        "lng": 2.271613
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88293612989272,
+          "lng": 2.272919479892722
+        },
+        "southwest": {
+          "lat": 48.88023647010728,
+          "lng": 2.270219820107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1730015d32f5b9dc77a030449bdedacf0f5c423f",
+    "name": "Relay France",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJCRNc62Zl5kcRzh7V_Cqj3Z4",
+    "plus_code": {
+      "compound_code": "V7JC+MJ Neuilly-sur-Seine, France",
+      "global_code": "8FW4V7JC+MJ"
+    },
+    "rating": 5,
+    "reference": "ChIJCRNc62Zl5kcRzh7V_Cqj3Z4",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "Place Charles de Gaulle, 75017 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.87440429999999,
+        "lng": 2.2947948
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87569007989272,
+          "lng": 2.296174279892722
+        },
+        "southwest": {
+          "lat": 48.87299042010728,
+          "lng": 2.293474620107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2052db0221e20ed1ef3ea8e54ec2de70e72d1316",
+    "name": "Relais H",
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110422675568837733217/photos\"\u003eAndreas Jünemann\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAqY7Tl8vY0a3P7wUX5zR1uKhtDNX3MQbMyQXHpwUSp5cWJctk5yuQvONUwJxY_a04zIhXEvR10u_vOfq_Q0erJhw8W0XFHgd5G09lRYFKLZwpar0-PCEhYoAxuaw7GfGTEhAvMzlM2bQXb344592qc8AyGhT-2SKoOHdG51knDoVCdhqEJRW47Q",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJF4D5euxv5kcRTA5zOp76d7o",
+    "plus_code": {
+      "compound_code": "V7FV+QW Paris, France",
+      "global_code": "8FW4V7FV+QW"
+    },
+    "rating": 3.7,
+    "reference": "ChIJF4D5euxv5kcRTA5zOp76d7o",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 3
+  },
+  {
+    "formatted_address": "Pont des Invalides, 75007 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8612568,
+        "lng": 2.3133938
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86260957989272,
+          "lng": 2.314684779892723
+        },
+        "southwest": {
+          "lat": 48.85990992010727,
+          "lng": 2.311985120107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "128617dc85b4b8b9d770fe0405ad823aa6074e73",
+    "name": "Relais H (Snc)",
+    "place_id": "ChIJu1WuPNdv5kcRqc8MrXeku0U",
+    "plus_code": {
+      "compound_code": "V867+G9 Paris, France",
+      "global_code": "8FW4V867+G9"
+    },
+    "rating": 0,
+    "reference": "ChIJu1WuPNdv5kcRqc8MrXeku0U",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Avenue Edouard Vaillant, 92100 Boulogne-Billancourt, France",
+    "geometry": {
+      "location": {
+        "lat": 48.835258,
+        "lng": 2.248556
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.83658477989271,
+          "lng": 2.249926929892722
+        },
+        "southwest": {
+          "lat": 48.83388512010727,
+          "lng": 2.247227270107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ffa67855528a37200e8a56a400ff18d68991111e",
+    "name": "RELAY",
+    "opening_hours": {},
+    "place_id": "ChIJkcMoyut65kcRRIUw8IkJ3-U",
+    "plus_code": {
+      "compound_code": "R6PX+4C Boulogne-Billancourt, France",
+      "global_code": "8FW4R6PX+4C"
+    },
+    "rating": 4.5,
+    "reference": "ChIJkcMoyut65kcRRIUw8IkJ3-U",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "28 Rue de Charenton, 75012 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8507621,
+        "lng": 2.3720411
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85209432989272,
+          "lng": 2.373497329892722
+        },
+        "southwest": {
+          "lat": 48.84939467010728,
+          "lng": 2.370797670107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a57a3ff7f8da5cc1dfbea9261f428460953a65bd",
+    "name": "Relay",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJX5KosgZy5kcRetbwLkGH2JU",
+    "plus_code": {
+      "compound_code": "V92C+8R Paris, France",
+      "global_code": "8FW4V92C+8R"
+    },
+    "rating": 0,
+    "reference": "ChIJX5KosgZy5kcRetbwLkGH2JU",
+    "types": ["point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "17 Boulevard de Vaugirard, 75741 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8405652,
+        "lng": 2.3207915
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84203912989272,
+          "lng": 2.322450029892723
+        },
+        "southwest": {
+          "lat": 48.83933947010728,
+          "lng": 2.319750370107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8a479f206c24e79ef127f3d987b545647974c18b",
+    "name": "RELAY",
+    "place_id": "ChIJB4BPszRw5kcR0Q6cdCUJ7Ns",
+    "plus_code": {
+      "compound_code": "R8RC+68 Paris, France",
+      "global_code": "8FW4R8RC+68"
+    },
+    "rating": 0,
+    "reference": "ChIJB4BPszRw5kcR0Q6cdCUJ7Ns",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "46 Rue Henri Huchard, 75018 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8982293,
+        "lng": 2.3322047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.89949997989271,
+          "lng": 2.333559229892721
+        },
+        "southwest": {
+          "lat": 48.89680032010727,
+          "lng": 2.330859570107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+    "id": "b5b1ce7bd996f9bf8fb3c88ce5af40895f9b0ef4",
+    "name": "Relay France",
+    "place_id": "ChIJTwZBK_9u5kcRocle3iYizn8",
+    "plus_code": {
+      "compound_code": "V8XJ+7V Paris, France",
+      "global_code": "8FW4V8XJ+7V"
+    },
+    "rating": 0,
+    "reference": "ChIJTwZBK_9u5kcRocle3iYizn8",
+    "types": ["hospital", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "26 Rue de Charenton, 75012 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8514673,
+        "lng": 2.3718701
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85286417989272,
+          "lng": 2.373308979892722
+        },
+        "southwest": {
+          "lat": 48.85016452010727,
+          "lng": 2.370609320107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c866cb66093c1225045fb1427ba26970a3ecfdf7",
+    "name": "Relais H (Snc)",
+    "place_id": "ChIJz-M6TAFy5kcRAkRO-IUZPu8",
+    "plus_code": {
+      "compound_code": "V92C+HP Paris, France",
+      "global_code": "8FW4V92C+HP"
+    },
+    "rating": 0,
+    "reference": "ChIJz-M6TAFy5kcRAkRO-IUZPu8",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "53 Avenue Jean Jaurès, 93300 Aubervilliers, France",
+    "geometry": {
+      "location": {
+        "lat": 48.9036767,
+        "lng": 2.3917035
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.90498937989272,
+          "lng": 2.393134329892722
+        },
+        "southwest": {
+          "lat": 48.90228972010728,
+          "lng": 2.390434670107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c7a13d5bad060d06e82ed58f5da165f2512dd5eb",
+    "name": "Relay France Snc",
+    "place_id": "ChIJdwc-Akhs5kcRmuNaiA3E5Gk",
+    "plus_code": {
+      "compound_code": "W93R+FM Aubervilliers, France",
+      "global_code": "8FW4W93R+FM"
+    },
+    "rating": 0,
+    "reference": "ChIJdwc-Akhs5kcRmuNaiA3E5Gk",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "28 Avenue du Général de Gaulle, 93170 Bagnolet, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8653078,
+        "lng": 2.4153621
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86640942989272,
+          "lng": 2.416520429892722
+        },
+        "southwest": {
+          "lat": 48.86370977010728,
+          "lng": 2.413820770107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ea6d050ec5eb94ffb319896bf286cbf3d8453cec",
+    "name": "Relay France",
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101448099653595284418/photos\"\u003eA Google User\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRZAAAAuZA2oIlA3QKUqxdgv8oAE3XY92g3RnKYUybA_ahyTFGo8ZQqehgTN1vEyOjPzcvZvkyCTAZUr9kANgf0y0tJ_Zjecbhf_O6RTQBY-TyKjk0YpYilcV4Hv8WRBzUSAvkqEhAZhyVEATnnnHEZfbL8DMZEGhS1OvBHKEu4DdpQp9KUoYIUR5RKzQ",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ17rv53lt5kcRPwewaYI2wBA",
+    "plus_code": {
+      "compound_code": "VC88+44 Bagnolet, France",
+      "global_code": "8FW4VC88+44"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ17rv53lt5kcRPwewaYI2wBA",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 4
+  },
+  {
+    "formatted_address": "54 Rue Saint-Maur, 75011 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.86267489999999,
+        "lng": 2.3798229
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86401362989272,
+          "lng": 2.381103929892722
+        },
+        "southwest": {
+          "lat": 48.86131397010728,
+          "lng": 2.378404270107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "79269fe7d789b98d3a478aa3706beed3d89984ac",
+    "name": "Mondial Relay",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJqaFTjPBt5kcRoAToPNpDOtw",
+    "plus_code": {
+      "compound_code": "V97H+3W Paris, France",
+      "global_code": "8FW4V97H+3W"
+    },
+    "rating": 2,
+    "reference": "ChIJqaFTjPBt5kcRoAToPNpDOtw",
+    "types": ["point_of_interest", "establishment"],
+    "user_ratings_total": 376
+  },
+  {
+    "formatted_address": "108 Boulevard Jourdan, 75014 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8233946,
+        "lng": 2.3261492
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.82462067989272,
+          "lng": 2.327434779892722
+        },
+        "southwest": {
+          "lat": 48.82192102010728,
+          "lng": 2.324735120107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ffa6e0fee20bf433b5817e6e2fae1c39c83ec2c4",
+    "name": "Relais H (Snc)",
+    "place_id": "ChIJGSIBja5x5kcRpN8-MVKPsEE",
+    "plus_code": {
+      "compound_code": "R8FG+9F Paris, France",
+      "global_code": "8FW4R8FG+9F"
+    },
+    "rating": 0,
+    "reference": "ChIJGSIBja5x5kcRpN8-MVKPsEE",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "17 Boulevard de Vaugirard, 75741 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.839273,
+        "lng": 2.31842
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84025352989271,
+          "lng": 2.3206412
+        },
+        "southwest": {
+          "lat": 48.83755387010727,
+          "lng": 2.3176796
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "d6e9ad765d4d93ff1759eb1f1254c0428b8a4cfa",
+    "name": "Trib's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/117228720380457733999/photos\"\u003eFabrice Girard\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAPPulTqwHjwJQ5yU3FKrMjdciuQhAKZchL76uoXn4sFV00djj58u6FjYRSbeEkBv-fhDLlBhwiweHWsNgbmRD42ewHhu88mQAE_M31xnT-Qw-d2Z7ZNwhcoZSmGGXhn1tEhAfoLX9xJXr2wuRdjaGNQUyGhR2mK-cYZLR0N_3-V4aGbdbopiBRA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ5Wkq_TRw5kcRiXhOGmX4dnU",
+    "plus_code": {
+      "compound_code": "R8Q9+P9 Paris, France",
+      "global_code": "8FW4R8Q9+P9"
+    },
+    "rating": 3.3,
+    "reference": "ChIJ5Wkq_TRw5kcRiXhOGmX4dnU",
+    "types": [
+      "convenience_store",
+      "cafe",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 6
+  },
+  {
+    "formatted_address": "9 Avenue Charles de Gaulle, 92100 Boulogne-Billancourt, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8492462,
+        "lng": 2.2359436
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85057612989272,
+          "lng": 2.237411679892722
+        },
+        "southwest": {
+          "lat": 48.84787647010727,
+          "lng": 2.234712020107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "baaaa037bfc653dddea1eb1e39adf2dc9f11a960",
+    "name": "Relais H",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJa8VJtNB65kcRcYXC9np4iIY",
+    "plus_code": {
+      "compound_code": "R6XP+M9 Boulogne-Billancourt, France",
+      "global_code": "8FW4R6XP+M9"
+    },
+    "rating": 2.5,
+    "reference": "ChIJa8VJtNB65kcRcYXC9np4iIY",
+    "types": ["restaurant", "point_of_interest", "food", "establishment"],
+    "user_ratings_total": 4
+  },
+  {
+    "formatted_address": "1 Avenue de Friedland, 75017 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8745486,
+        "lng": 2.3048003
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87596457989272,
+          "lng": 2.306128179892722
+        },
+        "southwest": {
+          "lat": 48.87326492010727,
+          "lng": 2.303428520107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "39aa73e2ac1c9e89168561e863fe462eedecd650",
+    "name": "Relais H (Snc)",
+    "place_id": "ChIJhbiGHsFv5kcR0vwRR5h2G_g",
+    "plus_code": {
+      "compound_code": "V8F3+RW Paris, France",
+      "global_code": "8FW4V8F3+RW"
+    },
+    "rating": 0,
+    "reference": "ChIJhbiGHsFv5kcR0vwRR5h2G_g",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "11 Boulevard de Vaugirard, 75015 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8405652,
+        "lng": 2.3207915
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84191502989272,
+          "lng": 2.322141329892723
+        },
+        "southwest": {
+          "lat": 48.83921537010728,
+          "lng": 2.319441670107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ae1777a355bf1e300ccd5ddda055034e7a835e0c",
+    "name": "RELAY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/102491217419606714748/photos\"\u003eFrançois Meril\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAd61OCkmMA3oHefuEcOfnNViJ5hamkfkRs7ldUl2IXwRDZXyWQS71Slc7n4PSCD6K85dmrzaqKyQWHu6eRQmYYVpz5zrB3lcVwiK-ew3wVGXwfMipuu04zXk5Wn9cHsZiEhD9EN7w2NL45dI-PfAeJUmfGhQIS2ZSwLWHpMtw4Ey8QldA2YoP0w",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJF1rvFy1x5kcRUxVATBEnM70",
+    "plus_code": {
+      "compound_code": "R8RC+68 Paris, France",
+      "global_code": "8FW4R8RC+68"
+    },
+    "rating": 4,
+    "reference": "ChIJF1rvFy1x5kcRUxVATBEnM70",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "THE UNIVERSE OF MOBILE, 1 Rue des Prouvaires, 75001 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8613271,
+        "lng": 2.3440294
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86267692989272,
+          "lng": 2.345379329892722
+        },
+        "southwest": {
+          "lat": 48.85997727010728,
+          "lng": 2.342679670107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c4756495bea40c4bf9bebf7a5846c593cc395acb",
+    "name": "Mondial Relay",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJs2BxHSJu5kcRwxja47Mx2dA",
+    "plus_code": {
+      "compound_code": "V86V+GJ Paris, France",
+      "global_code": "8FW4V86V+GJ"
+    },
+    "rating": 1.7,
+    "reference": "ChIJs2BxHSJu5kcRwxja47Mx2dA",
+    "types": ["point_of_interest", "establishment"],
+    "user_ratings_total": 26
+  }
+]

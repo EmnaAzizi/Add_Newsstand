@@ -1,0 +1,3163 @@
+[
+  {
+    "formatted_address": "Place Saint-Paul, 105 Rue Saint-Antoine, 75004 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.855106,
+        "lng": 2.3613963
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85647427989272,
+          "lng": 2.362757779892722
+        },
+        "southwest": {
+          "lat": 48.85377462010727,
+          "lng": 2.360058120107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "532c4031ca2747cae9b04dbb687f58eb3fe24e28",
+    "name": "Kiosque Lulu dans ma rue - Saint Paul",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 359,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110484123219585295849/photos\"\u003eKiosque Lulu dans ma rue\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA0g_CQR8knB-5J0Lsey-Ey5GtkUDQF8paJ42Wl9EVI7w0XhRRJOicE7w8tXK104mrdAG2Hq6cb5WIYHZZ9px4JhmXk4YAv3PhtKrt8z-TjK4XvzU3kjH6dsxmtjyzicHJEhA6BDDIumUUxvLOyH0bzw88GhQu4-cA79CSzfDPaFwuvT_37Rq-ew",
+        "width": 534
+      }
+    ],
+    "place_id": "ChIJ2Z3L4f1x5kcRJH-zXRFGvLo",
+    "plus_code": {
+      "compound_code": "V946+2H Paris, France",
+      "global_code": "8FW4V946+2H"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ2Z3L4f1x5kcRJH-zXRFGvLo",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 66
+  },
+  {
+    "formatted_address": "6 Place Gambetta, 75020 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.865114,
+        "lng": 2.399089
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86634522989273,
+          "lng": 2.400415479892722
+        },
+        "southwest": {
+          "lat": 48.86364557010728,
+          "lng": 2.397715820107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b44cf1b1ead048ff88b6c8ae5b3961134af0338f",
+    "name": "Kiosque Lulu dans ma rue - Gambetta",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 481,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110719859270137837436/photos\"\u003eMetz Lucas\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAg50oPzKxag2dVtVFjHTpnAoZOMk8R6KlSIFieheKwx6W0VUFjaWiyUWQ31M0Hrcr1cVvI-QTg0ThZSRaORQvqbPlSFt9EucvO6g70Wr9JUorsSIi5Q8f3FwiI2zjrQHgEhAln3_EpgI3FaOAhYaIFMAzGhRpAnc7Rgc_G-9mQZr8C4F6tg-llA",
+        "width": 357
+      }
+    ],
+    "place_id": "ChIJ9XdA1Y9t5kcRUb4oM40E64c",
+    "plus_code": {
+      "compound_code": "V98X+2J Paris, France",
+      "global_code": "8FW4V98X+2J"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ9XdA1Y9t5kcRUb4oM40E64c",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 46
+  },
+  {
+    "formatted_address": "Place du Commerce, 75015 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8448662,
+        "lng": 2.2937722
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84623812989272,
+          "lng": 2.295140379892723
+        },
+        "southwest": {
+          "lat": 48.84353847010728,
+          "lng": 2.292440720107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1ec755ec6144cf46248278552610673304bbdde7",
+    "name": "Kiosque Lulu dans ma rue - Commerce",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110719859270137837436/photos\"\u003eMetz Lucas\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAMcOqBDslNaPcVAAHu4k8GaoSi2tpPkNfZrL4vYoCxxg3yXcrFmGJ4NDOiMHhClUMkCMj9xQPxWc21sx2YzCdrjzCvqVBg3yhYAPHTchJHK7ofT_0s1IsJ2BLUzZ5bNevEhChmUTvGMkqiyrVlqM8-wj7GhRx7jeqhJHzS4jEtWQ7yJRnItwkZw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJeRYJJxdw5kcRKqtq7-qr8Zg",
+    "plus_code": {
+      "compound_code": "R7VV+WG Paris, France",
+      "global_code": "8FW4R7VV+WG"
+    },
+    "rating": 4.5,
+    "reference": "ChIJeRYJJxdw5kcRKqtq7-qr8Zg",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 60
+  },
+  {
+    "formatted_address": "2 Avenue de Villiers, 75017 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8814794,
+        "lng": 2.316337
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88279192989273,
+          "lng": 2.317664929892723
+        },
+        "southwest": {
+          "lat": 48.88009227010728,
+          "lng": 2.314965270107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7a3df616cc510383773e1c889c6d02be86289a63",
+    "name": "Kiosque Lulu dans ma rue - Villiers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 733,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110719859270137837436/photos\"\u003eMetz Lucas\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAzmXPIbhLbvm22eD5ZFCYeGAPaG16cThPUDgpL99KoSrjA-_8quZCM5GBB6zw9lu0O5FIK3TwF-6WFkeIojWeQilR8CrXbqs7S28r6WAWMbmgJO3YwC8uMMrLkAeq0HS5EhB9Ln-5_3OAE-Oib3pudzZFGhT1FoK6wOL_8slLcH5XUbq186tAng",
+        "width": 1100
+      }
+    ],
+    "place_id": "ChIJqfMw0LZv5kcRzOTGIibpI7Y",
+    "plus_code": {
+      "compound_code": "V8J8+HG Paris, France",
+      "global_code": "8FW4V8J8+HG"
+    },
+    "rating": 4.4,
+    "reference": "ChIJqfMw0LZv5kcRzOTGIibpI7Y",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 26
+  },
+  {
+    "formatted_address": "Place Charles Bernard, 75018 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8934903,
+        "lng": 2.3428704
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.89486172989272,
+          "lng": 2.344185379892722
+        },
+        "southwest": {
+          "lat": 48.89216207010728,
+          "lng": 2.341485720107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "01fd516231df8889cab3dedd5870136d84a472b9",
+    "name": "Kiosque Lulu dans ma rue - rue du Poteau",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1068,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/112717598477820465083/photos\"\u003eA Google User\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAQVkusHTUXQcd0wSDskf1K4YlDXhwspU-7C-OySav1gsk2pSpP9ajFNZWRNfuicKgURQy2L0dC4C6Q0XPgwBh_kQCm0u77Q54gBw1ejfTKaaxjo7R5abVwV-HHrZe0STaEhAsqLm_JgOYlDJIluO952XNGhSRV2TC5ImNQUt6vQBZaps55HLBgw",
+        "width": 1068
+      }
+    ],
+    "place_id": "ChIJF_oU215u5kcRr6w2X4sz284",
+    "plus_code": {
+      "compound_code": "V8VV+94 Paris, France",
+      "global_code": "8FW4V8VV+94"
+    },
+    "rating": 4.7,
+    "reference": "ChIJF_oU215u5kcRr6w2X4sz284",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 57
+  },
+  {
+    "formatted_address": "26 Avenue de France, 59600 Maubeuge, France",
+    "geometry": {
+      "location": {
+        "lat": 50.2749934,
+        "lng": 3.9725895
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.27632347989272,
+          "lng": 3.974029529892722
+        },
+        "southwest": {
+          "lat": 50.27362382010728,
+          "lng": 3.971329870107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6d11fab1aa179d1efd1b77b0643ca12696cff743",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/102822202792652224193/photos\"\u003eA Google User\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAXQzYXxe_y8vzDkbiTsrmdu2gm_AzSpydN75oQA41JdquEAhf7H6V54ngR6QZo_OsNqRaG9A5YcNypimWgW-g60qRFlF2oYGwCvm4-CMQSVPjp1U9irS0Q7h0zXB9_YUtEhBHl0KFVeEvr1_eSF-qnxZ3GhRM51GNEKoE1hxCDQSHkG13NciBMg",
+        "width": 2336
+      }
+    ],
+    "place_id": "ChIJqTandCxowkcRpNp9zpIxEow",
+    "plus_code": {
+      "compound_code": "7XFF+X2 Maubeuge, France",
+      "global_code": "9F257XFF+X2"
+    },
+    "rating": 3.9,
+    "reference": "ChIJqTandCxowkcRpNp9zpIxEow",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 30
+  },
+  {
+    "formatted_address": "93 Rue du Dr Paccard, 74400 Chamonix-Mont-Blanc, France",
+    "geometry": {
+      "location": {
+        "lat": 45.9221733,
+        "lng": 6.868769800000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.92359242989272,
+          "lng": 6.870015379892722
+        },
+        "southwest": {
+          "lat": 45.92089277010727,
+          "lng": 6.867315720107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "32512ff51958eecd5e076f769baef3afb3fc65a4",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114772943578614292160/photos\"\u003eRémy Leroux\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA_E-Qw9nwg8GfKLFN_mycIjfiO_Q-z2RQ8lzARp-CIenq6DP5GibQSX6WZwWdIHn7CoYb3X1cnVtKm6c_InH-3mABZPw-9t127iwx05mhrCOsm0u3-TI2UgXzWNmS2O4cEhD_EG9Dzo1bJvGu7ZVXlZgjGhRm3p961IlPs9S1daGH-f8m6_A1Kw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ_8BkpXZOiUcR9RBtNdaJvvU",
+    "plus_code": {
+      "compound_code": "WVC9+VG Chamonix-Mont-Blanc, France",
+      "global_code": "8FQ8WVC9+VG"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ_8BkpXZOiUcR9RBtNdaJvvU",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 128
+  },
+  {
+    "formatted_address": "9 Rue de France, 88300 Neufchâteau, France",
+    "geometry": {
+      "location": {
+        "lat": 48.3564239,
+        "lng": 5.692658600000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.35777152989272,
+          "lng": 5.693954029892722
+        },
+        "southwest": {
+          "lat": 48.35507187010728,
+          "lng": 5.691254370107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "bf198ba0d172031d9645a7b39c0bed824bf21e11",
+    "name": "Maison de la Presse Neufchateau",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJ5xbwRkCz7EcRz3M2Mt2uTuA",
+    "plus_code": {
+      "compound_code": "9M4V+H3 Neufchâteau, France",
+      "global_code": "8FW79M4V+H3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ5xbwRkCz7EcRz3M2Mt2uTuA",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 6
+  },
+  {
+    "formatted_address": "67 Rue Saint-Honoré, 75001 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8610891,
+        "lng": 2.3444718
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86245332989273,
+          "lng": 2.345825929892723
+        },
+        "southwest": {
+          "lat": 48.85975367010729,
+          "lng": 2.343126270107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0d497f1f61492588211649e4d5e1c70c6eb4f991",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/117037050494200965022/photos\"\u003eMarine PERALTA\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA6wmAQc4tfsib4x6qKq3AYQpNZkZ0D2-dqHNorHbaA9JePXqhq8AzZteP4P_IE9XNPyycFdGDi-dA7_j2cTdG3bKWX0jWsN_4YzzWD8VcScxLY7eLKlSgpzIGgwU1nfvHEhBAUEaYNnsnGtwmU9j6Y5JrGhQGiNAoksSk27bybZykKr2oLGXKSg",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJObgj-SFu5kcRtzgfS_DOXo0",
+    "plus_code": {
+      "compound_code": "V86V+CQ Paris, France",
+      "global_code": "8FW4V86V+CQ"
+    },
+    "rating": 3.8,
+    "reference": "ChIJObgj-SFu5kcRtzgfS_DOXo0",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 15
+  },
+  {
+    "formatted_address": "19, GALERIE DES JACOBINS, Rue de la République, 80000 Amiens, France",
+    "geometry": {
+      "location": {
+        "lat": 49.892442,
+        "lng": 2.29741
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.89381382989271,
+          "lng": 2.298642729892721
+        },
+        "southwest": {
+          "lat": 49.89111417010727,
+          "lng": 2.295943070107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "603169d80daaebb4b4c28523e432438aa70c9fc3",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/100084127175003271393/photos\"\u003eEric Cossin\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRZAAAACTQL7JCa3fJyKlLqESYBjMWYsU-_PR9zVeEAKo6ncrwc4RivxNBI91oJ-MRBP2J4I6atyN30LDJKltzHGUnP1iiCkkFg3nBphMNhj0Tq5YWM_71vOO2kd6F41M6UfHvDEhALxhM9-Zt6MDGCa9lrDLfbGhQFS3fxLMrmpDQoIkJE713SaUObwQ",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ6ySavECE50cR9Xb6YlvPZh4",
+    "plus_code": {
+      "compound_code": "V7RW+XX Amiens, France",
+      "global_code": "8FX4V7RW+XX"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ6ySavECE50cR9Xb6YlvPZh4",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 27
+  },
+  {
+    "formatted_address": "1 Rue Gambetta, 17200 Royan, France",
+    "geometry": {
+      "location": {
+        "lat": 45.6240276,
+        "lng": -1.02954
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.62530677989272,
+          "lng": -1.028121220107278
+        },
+        "southwest": {
+          "lat": 45.62260712010728,
+          "lng": -1.030820879892722
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "66869f5121997235db0c6060376436d56df01999",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3968,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114148034388687590477/photos\"\u003eEric Hurbourque\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAkoqZdarwLv0Ww6cQJ_124bgHke8_2mgehJsKXUkX_XIogxlymPa_nWw_9Rj7yWzFas1_F9srgzzeOk5tGRUKK8F_1Uw2IguHL22Z82TUjAqdqe4FjU58aiCl6d9Lc7DTEhCmqBVVn2cuWRs9roe6F8tkGhTLThldl5xjwm7fkTjg0K89grvI5A",
+        "width": 2976
+      }
+    ],
+    "place_id": "ChIJiZsjt0R2AUgRzp1YkU72RbM",
+    "plus_code": {
+      "compound_code": "JXFC+J5 Royan, France",
+      "global_code": "8CQWJXFC+J5"
+    },
+    "rating": 3.9,
+    "reference": "ChIJiZsjt0R2AUgRzp1YkU72RbM",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 143
+  },
+  {
+    "formatted_address": "52 Avenue du Point du Jour, 69005 Lyon, France",
+    "geometry": {
+      "location": {
+        "lat": 45.7566181,
+        "lng": 4.7987753
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.75790557989272,
+          "lng": 4.800135579892721
+        },
+        "southwest": {
+          "lat": 45.75520592010727,
+          "lng": 4.797435920107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ff8fca8b104397742ee029cd716cc336673d8a7d",
+    "name": "Maison de la Presse à Lyon",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110555485353709673586/photos\"\u003echristiane DUBRAY\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRZAAAAoli0G0buaZTw2YfLyxXOg5jiKkSGxcjXF2jw-FONPXtpVDx0DDgN0CiIjTGMdrg7yRejER2Li63e1tpYCstkMULOBAE7WvhJaB6tAK3Kis6_Qb2sT2QsDHb9HO9txioxEhAkOK7OVabeuMSDVnJR96oQGhRlqiG9fyUY8QfQIdnIZIDoCJKtFA",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJkaawZJrr9EcRNLtjgyog0f0",
+    "plus_code": {
+      "compound_code": "QQ4X+JG Lyon, France",
+      "global_code": "8FQ6QQ4X+JG"
+    },
+    "rating": 3.7,
+    "reference": "ChIJkaawZJrr9EcRNLtjgyog0f0",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 38
+  },
+  {
+    "formatted_address": "69 Rue de Gruyères, 42370 Renaison, France",
+    "geometry": {
+      "location": {
+        "lat": 46.0512933,
+        "lng": 3.9247612
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.05266707989271,
+          "lng": 3.926083629892723
+        },
+        "southwest": {
+          "lat": 46.04996742010727,
+          "lng": 3.923383970107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a994165a5a33ba14cee75b760488c7ddf23cdc5c",
+    "name": "Maison de la Presse BALLANSAT",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1702,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114290662465673920828/photos\"\u003eBallansat Renaison\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAer6pdRTTEsO2sqW9UIPRFyPUCbcVPnHKgO4EPe5YLU40u9JubUhMzHQ4R0JbWYK4LtSxDW-1jAbgpcUBz7n3__XuNjbJhx6redSNYqjLgqw-NVLyYaiFKmtv33-l_TI1EhCsKP_exXvw9Pd9V6aFUrcMGhQRdDu9vsNp5RMalg8lELovBY_s6w",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJjdyoVTcC9EcR6XXTw9eULLc",
+    "plus_code": {
+      "compound_code": "3W2F+GW Renaison, France",
+      "global_code": "8FR53W2F+GW"
+    },
+    "rating": 4.7,
+    "reference": "ChIJjdyoVTcC9EcR6XXTw9eULLc",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 124
+  },
+  {
+    "formatted_address": "1 Boulevard de la Manlière, 63500 Issoire, France",
+    "geometry": {
+      "location": {
+        "lat": 45.542478,
+        "lng": 3.247414
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.54383077989272,
+          "lng": 3.248768829892722
+        },
+        "southwest": {
+          "lat": 45.54113112010728,
+          "lng": 3.246069170107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "7a3505c5d427d7b0468b0ee63d03bcf5aea4cd87",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJxe5FGQlW9kcRl65tQUDpRk4",
+    "plus_code": {
+      "compound_code": "G6RW+XX Issoire, France",
+      "global_code": "8FQ5G6RW+XX"
+    },
+    "rating": 3.7,
+    "reference": "ChIJxe5FGQlW9kcRl65tQUDpRk4",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 31
+  },
+  {
+    "formatted_address": "27 Grand Rue, 67500 Haguenau, France",
+    "geometry": {
+      "location": {
+        "lat": 48.812583,
+        "lng": 7.786489
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.81389287989273,
+          "lng": 7.787889729892722
+        },
+        "southwest": {
+          "lat": 48.81119322010728,
+          "lng": 7.785190070107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b063711e51ef4b9e363d1217f5350274bfbe68df",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2344,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/109161531283224784955/photos\"\u003eMaison de la Presse\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA4nXbLGxBsZiVmfCnQVoR3oiuHQ3pjXa1Kxl58QuXi301ppUvjrnk30D5FxzFVrVJmcNhXd80-w8l58Dq7iga5TZ7wQpSczYrl5XNtN4NAYkbksFmkvOMVr2q_DUzGKFTEhD5-xSBULrmjTIZC7WM87jZGhQG9J0mfAwLrV11XF0YUcO800ktqg",
+        "width": 4368
+      }
+    ],
+    "place_id": "ChIJqSbtFNrqlkcRfc9nmGvmIvg",
+    "plus_code": {
+      "compound_code": "RQ7P+2H Haguenau, France",
+      "global_code": "8FW9RQ7P+2H"
+    },
+    "rating": 4.2,
+    "reference": "ChIJqSbtFNrqlkcRfc9nmGvmIvg",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 373
+  },
+  {
+    "formatted_address": "102 Grande Rue, 76200 Dieppe, France",
+    "geometry": {
+      "location": {
+        "lat": 49.9263209,
+        "lng": 1.076885
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.92765307989272,
+          "lng": 1.078263979892722
+        },
+        "southwest": {
+          "lat": 49.92495342010728,
+          "lng": 1.075564320107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "28930de919393e91657d692f9056783f3e8a0476",
+    "name": "Maison de la Presse de Dieppe",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4656,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101488994485436581015/photos\"\u003ePaul Segura\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA9M5Gbl6x3v2ZCPn4DG_Q0VPuPem9iZQzIeniuZ3yw1plOosAy1vLL-upOo2DVGMPpXB3bE337uJONcMk4V6u0C0DMslfVcl4BUsqbZVB4vAzo9To2GooUGgv5OgCBZU7EhDBHFjtn1tpqtgYtWlorEstGhQX-GlEuxseYC5HwQByVwquyITcdQ",
+        "width": 2620
+      }
+    ],
+    "place_id": "ChIJRewbVAei4EcR60KDBTiAncY",
+    "plus_code": {
+      "compound_code": "W3GG+GQ Dieppe, France",
+      "global_code": "8FX3W3GG+GQ"
+    },
+    "rating": 3.8,
+    "reference": "ChIJRewbVAei4EcR60KDBTiAncY",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 11
+  },
+  {
+    "formatted_address": "232 Avenue du Maréchal de Lattre de Tassigny, 44500 La Baule-Escoublac, France",
+    "geometry": {
+      "location": {
+        "lat": 47.2867128,
+        "lng": -2.3921787
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 47.28807072989272,
+          "lng": -2.390832570107277
+        },
+        "southwest": {
+          "lat": 47.28537107010728,
+          "lng": -2.393532229892722
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9e6ed67469d1cac6afc97778efbf5f95cf20575f",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2016,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/111431090709337464363/photos\"\u003ePierre R.\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAak-6Z9GlJ2p07exU0A42A-pQhmfN4l7h838_PhelqTFtQyw5B_zNXk6z5UWCODTJFmTdYRdLitXAgZ8DPYMWeYWjf8OjmP-Jl8FeBTdGe1ryAxfW0-_ZaVrqeGSlvCi6EhBgz_tsxdO2K8193gF8K5YNGhRSV5GPUOCfLbODvopJECFZL8U1AQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJsZ53Lr5cBUgR2UGm99d9iBM",
+    "plus_code": {
+      "compound_code": "7JP5+M4 La Baule-Escoublac, France",
+      "global_code": "8CVV7JP5+M4"
+    },
+    "rating": 4.4,
+    "reference": "ChIJsZ53Lr5cBUgR2UGm99d9iBM",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 7
+  },
+  {
+    "formatted_address": "28 Rue nationale, 67160 Wissembourg, France",
+    "geometry": {
+      "location": {
+        "lat": 49.0364648,
+        "lng": 7.9472057
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.03790312989272,
+          "lng": 7.948560979892721
+        },
+        "southwest": {
+          "lat": 49.03520347010728,
+          "lng": 7.945861320107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "5697beb01908fe21b46bfe21d05a81f07afe00b1",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2021,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/112705846653073125856/photos\"\u003eMaison de la Presse\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAub9MXu_Qq6m4zzz6Tw8VubRPatNcJrbgYfQspmzdXELRlUsft2aBQ8tiNWTq3dwkBWIQcgavTgclQxEHTBDNPnGJ22GeTVBDL2pgLznMOmP6ZaseazH-t4x7wswRYJBjEhC0r2uL5pTgWJSB-dFojw0tGhRrR3yKuZrIyuntPDRx-juHy6jaWw",
+        "width": 3753
+      }
+    ],
+    "place_id": "ChIJ93_oD5r2lkcRYoBhVnWkJpA",
+    "plus_code": {
+      "compound_code": "2WPW+HV Wissembourg, France",
+      "global_code": "8FX92WPW+HV"
+    },
+    "rating": 4,
+    "reference": "ChIJ93_oD5r2lkcRYoBhVnWkJpA",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 42
+  },
+  {
+    "formatted_address": "3 Rue Laubaner, 40000 Mont-de-Marsan, France",
+    "geometry": {
+      "location": {
+        "lat": 43.892859,
+        "lng": -0.5015457
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.89421582989272,
+          "lng": -0.5001476201072778
+        },
+        "southwest": {
+          "lat": 43.89151617010727,
+          "lng": -0.5028472798927223
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "fbc40ea4549321a691de00f48f12820d8fd56d5d",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110254467496664714811/photos\"\u003eCédric Treffandier\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA3x4XB_A-rHmHGOHBGbxnhZmqwoFt7kRK3ZbMcl8hbK3jQmkxH6sIzHxR-s8huK47T8QP_KmEm7jl8UED8F7IWzRxD7CmjskYfASEgB7Y-ZS3PT9T8mNphmH8nj3fhILUEhBSAqoV3yIL_U0zExP9rWaMGhSeZtuemHiHxuV3xFaHvVEWebp49A",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJq9K-mhHRVQ0R28DeJv7v01I",
+    "plus_code": {
+      "compound_code": "VFVX+49 Mont-de-Marsan, France",
+      "global_code": "8CMXVFVX+49"
+    },
+    "rating": 4.7,
+    "reference": "ChIJq9K-mhHRVQ0R28DeJv7v01I",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 25
+  },
+  {
+    "formatted_address": "61 Rue Houdan, 92330 Sceaux, France",
+    "geometry": {
+      "location": {
+        "lat": 48.77837299999999,
+        "lng": 2.291886
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.77971967989271,
+          "lng": 2.293230129892722
+        },
+        "southwest": {
+          "lat": 48.77702002010727,
+          "lng": 2.290530470107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "49e83a9b2587751898b69b7741d97d813e34bdf9",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/111962467970253319588/photos\"\u003eFrederic Mulot\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAsBTp7FE5HxgU8IUnQ-r5I5TcAGkQoKpTmVY235jRJl_Fd5tDbztQpR0R2UOCfpDM2iCP0igP97ZOWkH2TXkEQc92wq0TirWsFmVEc-SzgYCjbaAVdPtsPXuN2GKpbgQCEhBwa_v7Kt-SrVoq8EFUAu-eGhQIdEr4WhWYvg5UC9D0D1O8LQGH7g",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ4yQyE7Vw5kcRSFZPdTul_L4",
+    "plus_code": {
+      "compound_code": "Q7HR+8Q Sceaux, France",
+      "global_code": "8FW4Q7HR+8Q"
+    },
+    "rating": 2.6,
+    "reference": "ChIJ4yQyE7Vw5kcRSFZPdTul_L4",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 24
+  },
+  {
+    "formatted_address": "36 Rue de la République, 57240 Knutange, France",
+    "geometry": {
+      "location": {
+        "lat": 49.3389271,
+        "lng": 6.043311999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.34024007989272,
+          "lng": 6.044619729892721
+        },
+        "southwest": {
+          "lat": 49.33754042010727,
+          "lng": 6.041920070107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "cd733e2ab49e76c65d2bf3e96b2e2d5119e27635",
+    "name": "Maison de la presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJaaPe2lwulUcRcSladCK-c-Q",
+    "plus_code": {
+      "compound_code": "82QV+H8 Knutange, France",
+      "global_code": "8FX882QV+H8"
+    },
+    "rating": 4.4,
+    "reference": "ChIJaaPe2lwulUcRcSladCK-c-Q",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 23
+  },
+  {
+    "formatted_address": "12 Rue de Maurepas, 92500 Rueil-Malmaison, France",
+    "geometry": {
+      "location": {
+        "lat": 48.878411,
+        "lng": 2.18172
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87978657989272,
+          "lng": 2.183123229892722
+        },
+        "southwest": {
+          "lat": 48.87708692010727,
+          "lng": 2.180423570107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f6f18cd500f8c55e121c3e0609a893cebbd9f232",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1769,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/118172205690612589705/photos\"\u003eA Google User\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAwE7JE0H0M3CYoBumbBG25_qofVRtbS-WwfiFbTy79wZ-nOFipIXiVyQDou4CaTn5SCNi6LpnsWFUyX_UypFzSXkdPymMkCiWZFBi7a3WdTgnvUT_NaON1SLZ9fDkWK5zEhARSZKZ5EzFbiVLzTnkvsVUGhT4JTk5Osy1mzk33RtHZj5pOMQw7g",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJn67Kll1j5kcRJfBh2yWh5XY",
+    "plus_code": {
+      "compound_code": "V5HJ+9M Rueil-Malmaison, France",
+      "global_code": "8FW4V5HJ+9M"
+    },
+    "rating": 3.3,
+    "reference": "ChIJn67Kll1j5kcRJfBh2yWh5XY",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 27
+  },
+  {
+    "formatted_address": "41 Avenue Georges Pompidou, 92300 Levallois-Perret, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8992218,
+        "lng": 2.2825465
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.90052782989272,
+          "lng": 2.283931479892722
+        },
+        "southwest": {
+          "lat": 48.89782817010727,
+          "lng": 2.281231820107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "5e11af35e0d6097261761b8b8adc67fe9de1d3f6",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ76XAvH9v5kcR_8jkJ38IiWw",
+    "plus_code": {
+      "compound_code": "V7XM+M2 Levallois-Perret, France",
+      "global_code": "8FW4V7XM+M2"
+    },
+    "rating": 3.6,
+    "reference": "ChIJ76XAvH9v5kcR_8jkJ38IiWw",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 13
+  },
+  {
+    "formatted_address": "19 Avenue du Maréchal Gallieni, 33700 Mérignac, France",
+    "geometry": {
+      "location": {
+        "lat": 44.8372363,
+        "lng": -0.6171890999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.83857682989272,
+          "lng": -0.6157931701072779
+        },
+        "southwest": {
+          "lat": 44.83587717010727,
+          "lng": -0.6184928298927223
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e5f82c3480cef2514d7c21858e148ba3178325c9",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/109601456359080543930/photos\"\u003eDavid Roux\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAmeJke-TamBfblJqe0h7-geoY7egdlv2FG5SnfFIGSl6iT948v6yzZmEucOX37HtJW265apSW35Mf_zXs2e2wZSK9xhxf9IVQlM31nHDfe6N_sR-BXTqDaEuZJbS62QrtEhB-Tq2zRrrKmq-srLreZ3UWGhTzQDCNkbL12XsiaX9dB78_CW62Cg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJLazGwhbYVA0R6BagPClv3uI",
+    "plus_code": {
+      "compound_code": "R9PM+V4 Mérignac, France",
+      "global_code": "8CPXR9PM+V4"
+    },
+    "rating": 4,
+    "reference": "ChIJLazGwhbYVA0R6BagPClv3uI",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 14
+  },
+  {
+    "formatted_address": "8-2 Rue de Jemmapes, 57100 Thionville, France",
+    "geometry": {
+      "location": {
+        "lat": 49.3586032,
+        "lng": 6.1669383
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.35996872989272,
+          "lng": 6.168265029892722
+        },
+        "southwest": {
+          "lat": 49.35726907010728,
+          "lng": 6.165565370107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "300fa7d28e4e9e3f9cc1a32d1eb453ecf58dffbb",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/104779494182309996283/photos\"\u003eA Google User\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA1Znh4Vj9xHypoqyzkE_C1KSopeJzJIDxq676Qmag92HdFlWskxprXXSf_pB1mDxHZvGl_ECninel7JkIBQIuHWH3aWrNJ7v4j1gXXpx3jDbPJuB3vYTYyW7eyhYsR5UZEhDHr255Lk81QJcyh1f5ZsTgGhSqTb6WIRAHNiXVliSHwuIWp30ZVw",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ657e_ykllUcRrWq5ls3J8-Q",
+    "plus_code": {
+      "compound_code": "9558+CQ Thionville, France",
+      "global_code": "8FX89558+CQ"
+    },
+    "rating": 3.3,
+    "reference": "ChIJ657e_ykllUcRrWq5ls3J8-Q",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 38
+  },
+  {
+    "formatted_address": "26 Rue Albert Londres, 38130 Échirolles, France",
+    "geometry": {
+      "location": {
+        "lat": 45.14709999999999,
+        "lng": 5.723425
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.14847782989273,
+          "lng": 5.724782779892722
+        },
+        "southwest": {
+          "lat": 45.14577817010728,
+          "lng": 5.722083120107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1fe6c8f099ee88fb073f378b5a087c41b3acdd79",
+    "name": "Maison de la Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/102503770694210805649/photos\"\u003eA Google User\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAXjzfKNTzkf8A5xgL2Hw37PSQe4wAJlIn_ZzvOS8vrsNBkpDeIySR8r7W3_QBajiMXt9YpNbtLiVCBnZRB2_N0-ViC4qeRZRGIIqfjyCOrTQA3DPxoqWQcrDv3A8dZB47EhCp8sbx5wAJZGMr1GrsN1UkGhRvcTy01DMhx1VTNpHysrGJwrc2PQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJzad1CUiLikcRUjDndv70odk",
+    "plus_code": {
+      "compound_code": "4PWF+R9 Échirolles, France",
+      "global_code": "8FQ74PWF+R9"
+    },
+    "rating": 3.2,
+    "reference": "ChIJzad1CUiLikcRUjDndv70odk",
+    "types": ["book_store", "store", "point_of_interest", "establishment"],
+    "user_ratings_total": 48
+  },
+  {
+    "formatted_address": "17 Rue de Calais, 62500 Saint-Omer, France",
+    "geometry": {
+      "location": {
+        "lat": 50.751283,
+        "lng": 2.2521805
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.75261547989272,
+          "lng": 2.253464129892722
+        },
+        "southwest": {
+          "lat": 50.74991582010728,
+          "lng": 2.250764470107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "226b222f5b90230174c7afc2a0d60d5056d3aff5",
+    "name": "Maison de la Presse Librairie France Loisirs",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 642,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/100732349290939691476/photos\"\u003eLibrairie\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAbXcM6ZJsZPJSuYTe90F02keaN3zZCejyknQ7Ps2uLGUbhFF_Djx3FWN4KL11dPm0IrZ42DApEk2iiDnS_uGtfvYLPLlP6w--nafY32CVXTLUEqfjSX0_JXYFQDBkL-s0EhAUB32S4Ttc0JdF-YdiB4aQGhTqeoP8G5bWiQLjvMzfB7YuX2wgqQ",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJj6ZKh6X43EcRupSf4rXnJbE",
+    "plus_code": {
+      "compound_code": "Q722+GV Saint-Omer, France",
+      "global_code": "9F24Q722+GV"
+    },
+    "rating": 3,
+    "reference": "ChIJj6ZKh6X43EcRupSf4rXnJbE",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 12
+  },
+  {
+    "formatted_address": "22 Avenue de France, 74000 Annecy, France",
+    "geometry": {
+      "location": {
+        "lat": 45.908995,
+        "lng": 6.139513
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.91029057989272,
+          "lng": 6.140744779892723
+        },
+        "southwest": {
+          "lat": 45.90759092010727,
+          "lng": 6.13804512010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "06657a795974117504f7d6e1e1d1b55ba0608f13",
+    "name": "Tabac Presse Le France Annecy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 385,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101491642008175494985/photos\"\u003eTabac Presse Le France\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAkXgtNQdnmZr7_TggEJFweCtlwt35FdWAlKoSOgU6wMRzThaMGhK46ux6Mq4dy1FoEvqhYdumLcjQQSXdGTEog1m24GgQx7ZoJ24S0AjCFRq84df089I9HsgA3jXJEn4REhD3Rq_UTPVOwmI1WJS6NRJ8GhSl6PGHggwX_uP3xmkH0GNHzWFW7Q",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJx80TFeuPi0cRMk36eVQUJ-A",
+    "plus_code": {
+      "compound_code": "W45Q+HR Annecy, France",
+      "global_code": "8FQ8W45Q+HR"
+    },
+    "rating": 4,
+    "reference": "ChIJx80TFeuPi0cRMk36eVQUJ-A",
+    "types": [
+      "cafe",
+      "book_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 53
+  },
+  {
+    "formatted_address": "48 Rue Anatole France, 01100 Oyonnax, France",
+    "geometry": {
+      "location": {
+        "lat": 46.2609747,
+        "lng": 5.6588161
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.26230172989272,
+          "lng": 5.660223329892721
+        },
+        "southwest": {
+          "lat": 46.25960207010728,
+          "lng": 5.657523670107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8cb67e7f10e2073cef628e370fe641a9ec3fba9b",
+    "name": "André Jean-Philippe",
+    "photos": [
+      {
+        "height": 3968,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/109282067543592881444/photos\"\u003eCeledonia Zamorano\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAOFKHeR_Uni_00KBBkzz8PtlV2PEtGKqLWG3Kiz-jbxPzZhLUbzukd5W2hOkKHlmGjfsGU9pxeFVTAVnq3aQA-8rdzj50-nCwKvKQWsqFMPHjro6FxxsxO6x2PdZCdG-ZEhCy0D0V3GWJTj8f8dm7aLljGhRBC7IlES_fkXDtvlcmJFiu5hbktQ",
+        "width": 2976
+      }
+    ],
+    "place_id": "ChIJFRktYn-9jEcRdblMaDpUWcg",
+    "plus_code": {
+      "compound_code": "7M65+9G Oyonnax, France",
+      "global_code": "8FR77M65+9G"
+    },
+    "rating": 5,
+    "reference": "ChIJFRktYn-9jEcRdblMaDpUWcg",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 5
+  },
+  {
+    "formatted_address": "42 Avenue de France, 41000 Blois, France",
+    "geometry": {
+      "location": {
+        "lat": 47.5963705,
+        "lng": 1.3162649
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 47.59777682989272,
+          "lng": 1.317456279892722
+        },
+        "southwest": {
+          "lat": 47.59507717010727,
+          "lng": 1.314756620107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "20f9624391397229ec9f7ebf1dbcf51665a1bfba",
+    "name": "Thiercelin Fabienne",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJGcjeJ_pX40cRJMWinf37dLg",
+    "plus_code": {
+      "compound_code": "H8W8+GG Blois, France",
+      "global_code": "8FV3H8W8+GG"
+    },
+    "rating": 5,
+    "reference": "ChIJGcjeJ_pX40cRJMWinf37dLg",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "2 Espl. de France, 42000 Saint-Étienne, France",
+    "geometry": {
+      "location": {
+        "lat": 45.443501,
+        "lng": 4.399252
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.44474157989272,
+          "lng": 4.400673779892722
+        },
+        "southwest": {
+          "lat": 45.44204192010728,
+          "lng": 4.397974120107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "7117136f6dccf918c5680174da7c6e4d3439d028",
+    "name": "RELAY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2909,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/108984721556146349377/photos\"\u003eÉric Manceau\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAEQ8STn0n2VUQ1IzyU3MzaiQjiknTab__-zq9CmY2mTqOyZs6NtQd1W5UuwGOkYzalBYo31G99tI_h-o18BtlUPig581tv8WsTaY1Gn2jn2ClsaeadNA0wkW4nCdnvCQGEhDxgAK-2-cAp3U-FTw0R5_4GhQcvHluHV47-D-w3OZJwu-tlFAGPQ",
+        "width": 5934
+      }
+    ],
+    "place_id": "ChIJW1gsjf6r9UcRIYiURbOHE3I",
+    "plus_code": {
+      "compound_code": "C9VX+CP Saint-Étienne, France",
+      "global_code": "8FQ6C9VX+CP"
+    },
+    "rating": 3.8,
+    "reference": "ChIJW1gsjf6r9UcRIYiURbOHE3I",
+    "types": [
+      "book_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 6
+  },
+  {
+    "formatted_address": "2 Rue Ambroise Paré, 75010 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8822652,
+        "lng": 2.352834
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88353667989273,
+          "lng": 2.354184329892721
+        },
+        "southwest": {
+          "lat": 48.88083702010729,
+          "lng": 2.351484670107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "acf1aace436fc8a8bd86da242c3ff636dfe88c84",
+    "name": "Relay France",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/106147316764498333608/photos\"\u003eThomas Kuo\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA07SpXNZaAl4emONLp5S6_eURGtmVlfK0-zDDE0XsJ1BQ41GvBLZO2VLTqC1sZJpCDHViUUFCErFvR4j0mIDjRuLomqTWhqJcb4MVSDJHbGt_UO-NxgFL4uiOxZGVZNwDEhC4NwHsYCjfyy5i1WIOPREGGhRj16z38vAi_7ncwVyU3YN8sRlAvQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJeeJhmm5u5kcR26K6NQ0Cf2Q",
+    "plus_code": {
+      "compound_code": "V9J3+W4 Paris, France",
+      "global_code": "8FW4V9J3+W4"
+    },
+    "rating": 0,
+    "reference": "ChIJeeJhmm5u5kcR26K6NQ0Cf2Q",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "111 Rue Réaumur, 75002 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8679835,
+        "lng": 2.3427069
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86951127989273,
+          "lng": 2.344149829892722
+        },
+        "southwest": {
+          "lat": 48.86681162010728,
+          "lng": 2.341450170107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8d18753a5db04a9cc66c9f87248533d7d1847a26",
+    "name": "Relay France Snc",
+    "place_id": "ChIJIdXeET1u5kcRGIQR8hZCq0o",
+    "plus_code": {
+      "compound_code": "V89V+53 Paris, France",
+      "global_code": "8FW4V89V+53"
+    },
+    "rating": 0,
+    "reference": "ChIJIdXeET1u5kcRGIQR8hZCq0o",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "8 Rue Pierre Mendès France, 26240 Saint-Vallier, France",
+    "geometry": {
+      "location": {
+        "lat": 45.1769627,
+        "lng": 4.815849099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.17840732989272,
+          "lng": 4.817192279892721
+        },
+        "southwest": {
+          "lat": 45.17570767010728,
+          "lng": 4.814492620107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c0737ff4d10e4cc82e4d62395e49c072c7bfff95",
+    "name": "Levillain Françoise",
+    "place_id": "ChIJ9_hVfvVA9UcRMiEFDcFbVvo",
+    "plus_code": {
+      "compound_code": "5RG8+Q8 Saint-Vallier, France",
+      "global_code": "8FQ65RG8+Q8"
+    },
+    "rating": 4,
+    "reference": "ChIJ9_hVfvVA9UcRMiEFDcFbVvo",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 3
+  },
+  {
+    "formatted_address": "La FR, 59 Rue Vincent Auriol, 85000 La Roche-sur-Yon, France",
+    "geometry": {
+      "location": {
+        "lat": 46.6569789,
+        "lng": -1.4455691
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.65837162989273,
+          "lng": -1.444239120107278
+        },
+        "southwest": {
+          "lat": 46.65567197010728,
+          "lng": -1.446938779892722
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1a970a8b35ab2e7a12581e7ee53769406ac48095",
+    "name": "Société Ouest France",
+    "place_id": "ChIJJ0sAh1QlBEgRthAlRYQCwv8",
+    "plus_code": {
+      "compound_code": "MH43+QQ La Roche-sur-Yon, France",
+      "global_code": "8CRWMH43+QQ"
+    },
+    "rating": 3.5,
+    "reference": "ChIJJ0sAh1QlBEgRthAlRYQCwv8",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "Rue de Douai, 59165 Auberchicourt, France",
+    "geometry": {
+      "location": {
+        "lat": 50.3339829,
+        "lng": 3.226456
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.33544302989272,
+          "lng": 3.227136499999999
+        },
+        "southwest": {
+          "lat": 50.33274337010728,
+          "lng": 3.2244145
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b74ace04cdda35d58b63e91b2e62a4940c09b40c",
+    "name": "France Presse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJz8CimRDHwkcRZgBwluQTcio",
+    "rating": 1.5,
+    "reference": "ChIJz8CimRDHwkcRZgBwluQTcio",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "22 Cours du Chapeau-Rouge, 33000 Bordeaux, France",
+    "geometry": {
+      "location": {
+        "lat": 44.8421263,
+        "lng": -0.5720407
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.84354262989272,
+          "lng": -0.5707009201072778
+        },
+        "southwest": {
+          "lat": 44.84084297010728,
+          "lng": -0.5734005798927222
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "3d22c18887d3ff036381eb56bcaa4ff20ad70506",
+    "name": "20 Minutes France",
+    "place_id": "ChIJbep9itAnVQ0R3GbMpGhFNqE",
+    "plus_code": {
+      "compound_code": "RCRH+V5 Bordeaux, France",
+      "global_code": "8CPXRCRH+V5"
+    },
+    "rating": 4.5,
+    "reference": "ChIJbep9itAnVQ0R3GbMpGhFNqE",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "Avenue du Général de Gaulle, 95140 Garges-lès-Gonesse, France",
+    "geometry": {
+      "location": {
+        "lat": 48.9721816,
+        "lng": 2.4009116
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.97355682989271,
+          "lng": 2.402325429892722
+        },
+        "southwest": {
+          "lat": 48.97085717010727,
+          "lng": 2.399625770107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "189d327cdc92f4b4826ac14803aff47179f82a8d",
+    "name": "Relay France Snc",
+    "place_id": "ChIJS15Wx7Vr5kcR79OTeTk1K2A",
+    "plus_code": {
+      "compound_code": "XCC2+V9 Garges-lès-Gonesse, France",
+      "global_code": "8FW4XCC2+V9"
+    },
+    "rating": 0,
+    "reference": "ChIJS15Wx7Vr5kcR79OTeTk1K2A",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "43382 Place de la Défense, 92800 Puteaux, France",
+    "geometry": {
+      "location": {
+        "lat": 48.890721,
+        "lng": 2.240587
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.89206397989273,
+          "lng": 2.241955579892722
+        },
+        "southwest": {
+          "lat": 48.88936432010728,
+          "lng": 2.239255920107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1e8022be95721cd838d4ed4cbb5e14d1d29535bb",
+    "name": "Relay France",
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/100311400326214478917/photos\"\u003eJimmy VDC\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAUnhV57m4wXXTlf2ApjRHy0occmoJqGx_dGqkxOGCNnv0DQDs2o4RX2atK08USe013PWlKuTz867oNw6w_o9euK9kI5CRyWO7Vf6TkNFnrOLtqrqzmH3ycktdMThGQg3XEhDLAr4BFB28gPSNE2VkEmrHGhRWgVvnFyeS8DLQxmIbJI5q1Xeghg",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ3RP0gQRl5kcR4KlT-KwsfGo",
+    "rating": 4,
+    "reference": "ChIJ3RP0gQRl5kcR4KlT-KwsfGo",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "50 Boulevard Haussmann, 75009 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8735977,
+        "lng": 2.330305
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87490482989273,
+          "lng": 2.331834529892722
+        },
+        "southwest": {
+          "lat": 48.87220517010729,
+          "lng": 2.329134870107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "7dfa9c7525c2cf9b7a71695d68c1e27f2d817932",
+    "name": "Relay France Snc",
+    "place_id": "ChIJuw-EkjZu5kcRFur9sLs4xOo",
+    "plus_code": {
+      "compound_code": "V8FJ+C4 Paris, France",
+      "global_code": "8FW4V8FJ+C4"
+    },
+    "rating": 0,
+    "reference": "ChIJuw-EkjZu5kcRFur9sLs4xOo",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "38 Avenue du 4 Septembre, 03630 Desertines, France",
+    "geometry": {
+      "location": {
+        "lat": 46.3556374,
+        "lng": 2.6154222
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 46.35700532989272,
+          "lng": 2.616716679892722
+        },
+        "southwest": {
+          "lat": 46.35430567010728,
+          "lng": 2.614017020107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ac05cb9c2a00eb38f7a4dcf3569dc022613066d4",
+    "name": "Kalucki Marie-France",
+    "place_id": "ChIJA4s1I7en8EcR3hP9p4KlWII",
+    "plus_code": {
+      "compound_code": "9J48+75 Desertines, France",
+      "global_code": "8FR49J48+75"
+    },
+    "rating": 0,
+    "reference": "ChIJA4s1I7en8EcR3hP9p4KlWII",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Rue de la Station, 92600 Asnières-sur-Seine, France",
+    "geometry": {
+      "location": {
+        "lat": 48.9061067,
+        "lng": 2.2837688
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.90751577989272,
+          "lng": 2.285116129892723
+        },
+        "southwest": {
+          "lat": 48.90481612010728,
+          "lng": 2.282416470107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "cb165e66f3c86e0aaa07ba8b95198d2e5e478412",
+    "name": "Relay France",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJBfVdwnxv5kcRatp1dgibEEQ",
+    "plus_code": {
+      "compound_code": "W74M+CG Asnières-sur-Seine, France",
+      "global_code": "8FW4W74M+CG"
+    },
+    "rating": 2.7,
+    "reference": "ChIJBfVdwnxv5kcRatp1dgibEEQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 6
+  },
+  {
+    "formatted_address": "Place de la Gare, 94470 Boissy-Saint-Léger, France",
+    "geometry": {
+      "location": {
+        "lat": 48.7527858,
+        "lng": 2.5053826
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.75413502989272,
+          "lng": 2.506800379892722
+        },
+        "southwest": {
+          "lat": 48.75143537010727,
+          "lng": 2.504100720107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "cc61a564f2431ffe07b64cb9c0253a58db49b180",
+    "name": "Relay France",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5504,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/103245072211095489349/photos\"\u003eDumitru Grecu\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAFfL7ZrNu4YTPNyr6edVCfhmGAwtgfLpxUr-XA7uxsw-I-p8ugzbUTN5_fnGzlTSItY0R_NlxTWgMQSV2Dh8YgZm8UmruIIhp4GqbG3ap4ttedRfCKIPHggxyb82MV2cAEhCbdPU6ZMcDojwVy3Vs22gTGhRkV36b--IXp1SuYpQziBMouBFkZQ",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJac1B5pcL5kcRmbme1eYp4yc",
+    "plus_code": {
+      "compound_code": "QG34+45 Boissy-Saint-Léger, France",
+      "global_code": "8FW4QG34+45"
+    },
+    "rating": 0,
+    "reference": "ChIJac1B5pcL5kcRmbme1eYp4yc",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "METRO TROCADERO, 75016 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8635821,
+        "lng": 2.2875434
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86491907989272,
+          "lng": 2.288931729892723
+        },
+        "southwest": {
+          "lat": 48.86221942010727,
+          "lng": 2.286232070107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c5d15876fb29247cb7550f913217b7c839b7b42c",
+    "name": "Relay France Snc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114315763380453729003/photos\"\u003eJean Vincent\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA3peabLCBUjYo-Jpy43CKVMMmSVkLN-my4PQ1Av-G9TFzPyS0qz-vo6bIwdVEsM0gbJYNfQZwo8AKJ8ycMaZTVSqorlKn7qsJ15mvORiRyRG_zm67P11qHV7dszQWytTDEhBR2c08VDwJROY0JZxuNPWDGhRCan6t-D_hGIK5s_zOZLZmqMJxMQ",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJ2WLdFPtv5kcRjnxJ3EJGyww",
+    "plus_code": {
+      "compound_code": "V77Q+C2 Paris, France",
+      "global_code": "8FW4V77Q+C2"
+    },
+    "rating": 0,
+    "reference": "ChIJ2WLdFPtv5kcRjnxJ3EJGyww",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Place Banette et Planchon, 91260 Juvisy-sur-Orge, France",
+    "geometry": {
+      "location": {
+        "lat": 48.689096,
+        "lng": 2.3827987
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.69044892989272,
+          "lng": 2.384080579892722
+        },
+        "southwest": {
+          "lat": 48.68774927010728,
+          "lng": 2.381380920107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9001bf02d4ef5569c0e6c2c5164f75765be30f5e",
+    "name": "Relay France",
+    "place_id": "ChIJS0gBcWTf5UcRJCMf43W_QUI",
+    "plus_code": {
+      "compound_code": "M9QM+J4 Juvisy-sur-Orge, France",
+      "global_code": "8FW4M9QM+J4"
+    },
+    "rating": 3,
+    "reference": "ChIJS0gBcWTf5UcRJCMf43W_QUI",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "47 Boulevard de l'Hôpital, 75013 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8401867,
+        "lng": 2.3631946
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84157597989272,
+          "lng": 2.364525129892722
+        },
+        "southwest": {
+          "lat": 48.83887632010727,
+          "lng": 2.361825470107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0753e6c68c38bc6eaa71fa0de1cdd7f548378fa9",
+    "name": "Relais H Snc",
+    "place_id": "ChIJA04dYfRx5kcRu_3xERzmf8Y",
+    "plus_code": {
+      "compound_code": "R9R7+37 Paris, France",
+      "global_code": "8FW4R9R7+37"
+    },
+    "rating": 1,
+    "reference": "ChIJA04dYfRx5kcRu_3xERzmf8Y",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "Avenue de la Gare, 51000 Châlons-en-Champagne, France",
+    "geometry": {
+      "location": {
+        "lat": 48.9548536,
+        "lng": 4.3489364
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.95618712989272,
+          "lng": 4.350203529892722
+        },
+        "southwest": {
+          "lat": 48.95348747010727,
+          "lng": 4.347503870107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "671e63e4fbaf9c8edd391f17522ffc041aecaa48",
+    "name": "Relay France",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJbYiifHng60cRR_uDqxcfKgg",
+    "plus_code": {
+      "compound_code": "X83X+WH Châlons-en-Champagne, France",
+      "global_code": "8FW6X83X+WH"
+    },
+    "rating": 2,
+    "reference": "ChIJbYiifHng60cRR_uDqxcfKgg",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 4
+  },
+  {
+    "formatted_address": "Place Gare, 95300 Pontoise, France",
+    "geometry": {
+      "location": {
+        "lat": 49.0473346,
+        "lng": 2.0950461
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.04868737989273,
+          "lng": 2.096383429892722
+        },
+        "southwest": {
+          "lat": 49.04598772010728,
+          "lng": 2.093683770107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "5ba111508797841df6e6b009e8de99d30825aba5",
+    "name": "Relay France Snc",
+    "place_id": "ChIJk5GhZ2z15kcR_wC_ApsvTtg",
+    "plus_code": {
+      "compound_code": "23WW+W2 Pontoise, France",
+      "global_code": "8FX423WW+W2"
+    },
+    "rating": 3,
+    "reference": "ChIJk5GhZ2z15kcR_wC_ApsvTtg",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "48 Bd Sérurier, 75019 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.87993830000001,
+        "lng": 2.4029848
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88108562989272,
+          "lng": 2.404288229892722
+        },
+        "southwest": {
+          "lat": 48.87838597010727,
+          "lng": 2.401588570107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "22f1b08825b470e9d0ed75ff715f2da10e49e88a",
+    "name": "Relay France",
+    "place_id": "ChIJyc0dO6Nt5kcRr6GbwthczhI",
+    "plus_code": {
+      "compound_code": "VCH3+X5 Paris, France",
+      "global_code": "8FW4VCH3+X5"
+    },
+    "rating": 0,
+    "reference": "ChIJyc0dO6Nt5kcRr6GbwthczhI",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "68 Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8816445,
+        "lng": 2.271613
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88293612989272,
+          "lng": 2.272919479892722
+        },
+        "southwest": {
+          "lat": 48.88023647010728,
+          "lng": 2.270219820107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1730015d32f5b9dc77a030449bdedacf0f5c423f",
+    "name": "Relay France",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJCRNc62Zl5kcRzh7V_Cqj3Z4",
+    "plus_code": {
+      "compound_code": "V7JC+MJ Neuilly-sur-Seine, France",
+      "global_code": "8FW4V7JC+MJ"
+    },
+    "rating": 5,
+    "reference": "ChIJCRNc62Zl5kcRzh7V_Cqj3Z4",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "19 Rue Lamartine, 45400 Fleury-les-Aubrais, France",
+    "geometry": {
+      "location": {
+        "lat": 47.92505999999999,
+        "lng": 1.90749
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 47.92629252989271,
+          "lng": 1.908819379892722
+        },
+        "southwest": {
+          "lat": 47.92359287010727,
+          "lng": 1.906119720107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "80929a5ec27f91add4578285e3192e1df4811dfe",
+    "name": "Relay France",
+    "place_id": "ChIJ7yyqbSL75EcRq2hIpZTZRRQ",
+    "rating": 0,
+    "reference": "ChIJ7yyqbSL75EcRq2hIpZTZRRQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "45 Rue Cognacq-Jay, 51100 Reims, France",
+    "geometry": {
+      "location": {
+        "lat": 49.2313868,
+        "lng": 4.0196319
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.23275932989272,
+          "lng": 4.020736879892723
+        },
+        "southwest": {
+          "lat": 49.23005967010727,
+          "lng": 4.018037220107279
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "07e4ecaac7ee56d8a6050469c528b9f61440dccb",
+    "name": "Relay France Snc",
+    "place_id": "ChIJz6EvuIt06UcRqO9GrZmzGI4",
+    "plus_code": {
+      "compound_code": "62J9+HV Reims, France",
+      "global_code": "8FX662J9+HV"
+    },
+    "rating": 1,
+    "reference": "ChIJz6EvuIt06UcRqO9GrZmzGI4",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "25 Rue Edmond Daubric, 33470 Gujan-Mestras, France",
+    "geometry": {
+      "location": {
+        "lat": 44.640929,
+        "lng": -1.0673451
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.64223407989272,
+          "lng": -1.066001670107278
+        },
+        "southwest": {
+          "lat": 44.63953442010727,
+          "lng": -1.068701329892722
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ad2e61816862ad653376123b34553637112acad2",
+    "name": "Relay France Snc",
+    "place_id": "ChIJC5yWO92ZVA0RwHd570a8nOs",
+    "plus_code": {
+      "compound_code": "JWRM+93 Gujan-Mestras, France",
+      "global_code": "8CPWJWRM+93"
+    },
+    "rating": 5,
+    "reference": "ChIJC5yWO92ZVA0RwHd570a8nOs",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "1 Place Jean Jaurès, 92190 Meudon, France",
+    "geometry": {
+      "location": {
+        "lat": 48.80803849999999,
+        "lng": 2.2410779
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.80942127989272,
+          "lng": 2.242472779892722
+        },
+        "southwest": {
+          "lat": 48.80672162010728,
+          "lng": 2.239773120107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "06ffc4aef28434735a1cb53b73d84cf4a0cf6840",
+    "name": "Relay France",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJWwlRS0V65kcRoEG0NeCU3UA",
+    "plus_code": {
+      "compound_code": "R65R+6C Meudon, France",
+      "global_code": "8FW4R65R+6C"
+    },
+    "rating": 3,
+    "reference": "ChIJWwlRS0V65kcRoEG0NeCU3UA",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "3 Boulevard Dr Verlhac, 19100 Brive-la-Gaillarde, France",
+    "geometry": {
+      "location": {
+        "lat": 45.1679715,
+        "lng": 1.5335141
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.16927692989272,
+          "lng": 1.534874229892722
+        },
+        "southwest": {
+          "lat": 45.16657727010728,
+          "lng": 1.532174570107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2f8a1cccd8599d1d973aa6b06378890d9d60d510",
+    "name": "Relay France",
+    "place_id": "ChIJ5S0MjdCX-EcR-hb72zgumCw",
+    "plus_code": {
+      "compound_code": "5G9M+5C Brive-la-Gaillarde, France",
+      "global_code": "8FQ35G9M+5C"
+    },
+    "rating": 0,
+    "reference": "ChIJ5S0MjdCX-EcR-hb72zgumCw",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Rue Georges Clemenceau, 78700 Conflans-Sainte-Honorine, France",
+    "geometry": {
+      "location": {
+        "lat": 48.9888359,
+        "lng": 2.0751232
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.99019542989272,
+          "lng": 2.076529829892722
+        },
+        "southwest": {
+          "lat": 48.98749577010728,
+          "lng": 2.073830170107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8983d9ee39b1cf2138f922c21a7e5396ef754667",
+    "name": "Relay France Snc",
+    "place_id": "ChIJcZ3slPCK5kcRonQMtjlNxtE",
+    "plus_code": {
+      "compound_code": "X3QG+G2 Conflans-Sainte-Honorine, France",
+      "global_code": "8FW4X3QG+G2"
+    },
+    "rating": 4,
+    "reference": "ChIJcZ3slPCK5kcRonQMtjlNxtE",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "Place des Droits de l'Homme, 02000 Laon, France",
+    "geometry": {
+      "location": {
+        "lat": 49.57013629999999,
+        "lng": 3.624105199999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.57148797989272,
+          "lng": 3.625387579892722
+        },
+        "southwest": {
+          "lat": 49.56878832010727,
+          "lng": 3.622687920107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "5f4621da7e622883605205e91e0f39d6caabf1ec",
+    "name": "Relay France",
+    "place_id": "ChIJCRGB0kZL6EcRbh0mPm0kZ4A",
+    "plus_code": {
+      "compound_code": "HJCF+3J Laon, France",
+      "global_code": "8FX5HJCF+3J"
+    },
+    "rating": 0,
+    "reference": "ChIJCRGB0kZL6EcRbh0mPm0kZ4A",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "21 Boulevard de Verdun, 89000 Auxerre, France",
+    "geometry": {
+      "location": {
+        "lat": 47.8074186,
+        "lng": 3.556776
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 47.80877432989273,
+          "lng": 3.558343929892723
+        },
+        "southwest": {
+          "lat": 47.80607467010728,
+          "lng": 3.555644270107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "33d6797c82c15074919a78911228e825ba33ff19",
+    "name": "Relay France",
+    "place_id": "ChIJy1hKPSBP7kcRY7VzY5713GM",
+    "plus_code": {
+      "compound_code": "RH44+XP Auxerre, France",
+      "global_code": "8FV5RH44+XP"
+    },
+    "rating": 0,
+    "reference": "ChIJy1hKPSBP7kcRY7VzY5713GM",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "1 Place Henri Barbusse, 91100 Corbeil-Essonnes, France",
+    "geometry": {
+      "location": {
+        "lat": 48.613785,
+        "lng": 2.474178
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.61512487989272,
+          "lng": 2.475515729892722
+        },
+        "southwest": {
+          "lat": 48.61242522010727,
+          "lng": 2.472816070107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ce53305efcecc27188e5f41b7798299d372f6ab2",
+    "name": "Relay France",
+    "place_id": "ChIJyY1Ab9Pg5UcRolqRjv1bwbc",
+    "plus_code": {
+      "compound_code": "JF7F+GM Corbeil-Essonnes, France",
+      "global_code": "8FW4JF7F+GM"
+    },
+    "rating": 5,
+    "reference": "ChIJyY1Ab9Pg5UcRolqRjv1bwbc",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "3 Rue Leroux, 94100 Saint-Maur-des-Fossés, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8060949,
+        "lng": 2.4719763
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.80749932989272,
+          "lng": 2.473371679892722
+        },
+        "southwest": {
+          "lat": 48.80479967010728,
+          "lng": 2.470672020107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "fe2b1627f446d6de0c5f326cba77b8aadbe48fe9",
+    "name": "Relay France",
+    "place_id": "ChIJkcPHU9wM5kcRjshLYvWOJok",
+    "plus_code": {
+      "compound_code": "RF4C+CQ Saint-Maur-des-Fossés, France",
+      "global_code": "8FW4RF4C+CQ"
+    },
+    "rating": 1,
+    "reference": "ChIJkcPHU9wM5kcRjshLYvWOJok",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "Av. Magellan, 33600 Pessac, France",
+    "geometry": {
+      "location": {
+        "lat": 44.78443600000001,
+        "lng": -0.6636258
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.78578852989273,
+          "lng": -0.6622128201072778
+        },
+        "southwest": {
+          "lat": 44.78308887010729,
+          "lng": -0.6649124798927223
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "571fe63e1d16d8d07b11776d2e1d85d93898f928",
+    "name": "Relay France Snc",
+    "place_id": "ChIJiwNa3EXZVA0Rz-QIHHGhX6I",
+    "plus_code": {
+      "compound_code": "Q8MP+QG Pessac, France",
+      "global_code": "8CPXQ8MP+QG"
+    },
+    "rating": 0,
+    "reference": "ChIJiwNa3EXZVA0Rz-QIHHGhX6I",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "6 Rue du Morvan, 54500 Vandœuvre-lès-Nancy, France",
+    "geometry": {
+      "location": {
+        "lat": 48.64893250000001,
+        "lng": 6.151280499999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.65024722989273,
+          "lng": 6.152602929892722
+        },
+        "southwest": {
+          "lat": 48.64754757010728,
+          "lng": 6.149903270107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a64b335af75c4b05a069f31eb73c8a933ba5e522",
+    "name": "Relay France Snc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJexL7wQ6ilEcR1Q5WZrAl32k",
+    "plus_code": {
+      "compound_code": "J5X2+HG Vandœuvre-lès-Nancy, France",
+      "global_code": "8FW8J5X2+HG"
+    },
+    "rating": 0,
+    "reference": "ChIJexL7wQ6ilEcR1Q5WZrAl32k",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "26 Rue du Général Marcel, 45500 Gien, France",
+    "geometry": {
+      "location": {
+        "lat": 47.6875247,
+        "lng": 2.6266483
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 47.68886312989272,
+          "lng": 2.628020829892722
+        },
+        "southwest": {
+          "lat": 47.68616347010727,
+          "lng": 2.625321170107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c13e17e74d85d8725077534454b9b7189ae086fa",
+    "name": "Magazine Centre France",
+    "place_id": "ChIJ4-t6rYVe5UcRvS_aHt_6mfQ",
+    "plus_code": {
+      "compound_code": "MJQG+2M Gien, France",
+      "global_code": "8FV4MJQG+2M"
+    },
+    "rating": 5,
+    "reference": "ChIJ4-t6rYVe5UcRvS_aHt_6mfQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "Place de la Gare, 60500 Chantilly, France",
+    "geometry": {
+      "location": {
+        "lat": 49.1871376,
+        "lng": 2.4597205
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.18888012989272,
+          "lng": 2.461172079892723
+        },
+        "southwest": {
+          "lat": 49.18618047010728,
+          "lng": 2.458472420107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9c2eb99fb1b8488ebbc5712ae376a6cb286a8a19",
+    "name": "Relay France Snc",
+    "place_id": "ChIJj1g9vW1I5kcRKzyk7g_nW68",
+    "plus_code": {
+      "compound_code": "5FP5+VV Chantilly, France",
+      "global_code": "8FX45FP5+VV"
+    },
+    "rating": 0,
+    "reference": "ChIJj1g9vW1I5kcRKzyk7g_nW68",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Les Hauts d'Antibes, 06600 Antibes Juan les Pins, France",
+    "geometry": {
+      "location": {
+        "lat": 43.5939892,
+        "lng": 7.067240699999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.59529472989272,
+          "lng": 7.068601279892722
+        },
+        "southwest": {
+          "lat": 43.59259507010728,
+          "lng": 7.065901620107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "4083f8212513ca831b1d7e34690e8245c33ed3ec",
+    "name": "Relay France Snc",
+    "place_id": "ChIJB4LEdOsqzBIRSwxjUq7tRps",
+    "plus_code": {
+      "compound_code": "H3V8+HV Antibes, France",
+      "global_code": "8FM9H3V8+HV"
+    },
+    "rating": 0,
+    "reference": "ChIJB4LEdOsqzBIRSwxjUq7tRps",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Place de la Gare de Champigny, 94210 Varenne Saint Hilaire (La, France",
+    "geometry": {
+      "location": {
+        "lat": 48.80727539999999,
+        "lng": 2.5103619
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.80858457989272,
+          "lng": 2.511682529892723
+        },
+        "southwest": {
+          "lat": 48.80588492010727,
+          "lng": 2.508982870107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2982ab7920b288358238b932a2c34317e7028b5a",
+    "name": "Relay France",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/100507060110534240024/photos\"\u003eWAY SMARTER\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAdIM7ntGKvhhCydOhfxfbXhlvaGEQDLz1rw0An5N1LuE58vSwGUTboZVbq4w9a1aWUSfcJumkmiiSRjGp3OWK_rjG4-nXdqEZLipDXK0chgHE8MyzvJEWIyVhNtkz_iJLEhBugvgYYRgOHavsbWtIRLEGGhSHuconOs2gpGW8dvjDyRNCKhI2mA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJBfZxC04M5kcRgBOv5EjhnJU",
+    "plus_code": {
+      "compound_code": "RG46+W4 Saint-Maur-des-Fossés, France",
+      "global_code": "8FW4RG46+W4"
+    },
+    "rating": 4,
+    "reference": "ChIJBfZxC04M5kcRgBOv5EjhnJU",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 5
+  },
+  {
+    "formatted_address": "Avenue de l'Hôpital, 12000 Rodez, France",
+    "geometry": {
+      "location": {
+        "lat": 44.3597186,
+        "lng": 2.5554297
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.36109432989272,
+          "lng": 2.556769429892722
+        },
+        "southwest": {
+          "lat": 44.35839467010728,
+          "lng": 2.554069770107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "bed9c0c51a9729ef5125e7004db8b240aecd1a51",
+    "name": "Relay France",
+    "place_id": "ChIJB0N9xu19shIRkIWhcqsRWJQ",
+    "rating": 0,
+    "reference": "ChIJB0N9xu19shIRkIWhcqsRWJQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "25 Avenue Maréchal Joffre, 65000 Tarbes, France",
+    "geometry": {
+      "location": {
+        "lat": 43.2398549,
+        "lng": 0.0694472
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.24106487989272,
+          "lng": 0.07080607989272222
+        },
+        "southwest": {
+          "lat": 43.23836522010728,
+          "lng": 0.06810642010727778
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "573364ca0315d3c6c8aa27083bcedd6758af6c66",
+    "name": "Relay France",
+    "place_id": "ChIJ07vE3tTVqRIR__v-mh--iJM",
+    "plus_code": {
+      "compound_code": "63Q9+WQ Tarbes, France",
+      "global_code": "8FM263Q9+WQ"
+    },
+    "rating": 0,
+    "reference": "ChIJ07vE3tTVqRIR__v-mh--iJM",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Place de la Gare, 57200 Sarreguemines, France",
+    "geometry": {
+      "location": {
+        "lat": 49.1071793,
+        "lng": 7.069294699999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.10848712989272,
+          "lng": 7.070554279892722
+        },
+        "southwest": {
+          "lat": 49.10578747010728,
+          "lng": 7.067854620107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9551b1e1159a671d8edd5ebbe82821e313225561",
+    "name": "Relay France Snc",
+    "place_id": "ChIJvfQI3p01lEcRzPoBX5Twf5E",
+    "plus_code": {
+      "compound_code": "4349+VP Sarreguemines, France",
+      "global_code": "8FX94349+VP"
+    },
+    "rating": 0,
+    "reference": "ChIJvfQI3p01lEcRzPoBX5Twf5E",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Rue des Arcades, 93160 Noisy-le-Grand, France",
+    "geometry": {
+      "location": {
+        "lat": 48.83976879999999,
+        "lng": 2.5437869
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84111932989272,
+          "lng": 2.545205029892723
+        },
+        "southwest": {
+          "lat": 48.83841967010728,
+          "lng": 2.542505370107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a664e03ae2e611163521c25154e760e6350171ee",
+    "name": "Relay France",
+    "place_id": "ChIJu3bNM-IN5kcRIOTWqH7zTY4",
+    "plus_code": {
+      "compound_code": "RGQV+WG Noisy-le-Grand, France",
+      "global_code": "8FW4RGQV+WG"
+    },
+    "rating": 0,
+    "reference": "ChIJu3bNM-IN5kcRIOTWqH7zTY4",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Hôpital de Girac, 16470 Saint-Michel, France",
+    "geometry": {
+      "location": {
+        "lat": 45.651714,
+        "lng": 0.1500749
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.65306382989272,
+          "lng": 0.1514247298927222
+        },
+        "southwest": {
+          "lat": 45.65036417010728,
+          "lng": 0.1487250701072778
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ac9408d3f231a1af903b8fb98ff25f4f0d74ea17",
+    "name": "Relay France",
+    "place_id": "ChIJMzBsxQYt_kcRaYRIcQ_f24o",
+    "rating": 3,
+    "reference": "ChIJMzBsxQYt_kcRaYRIcQ_f24o",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "Avenue du 8 Mai 1945, 94600 Choisy-le-Roi, France",
+    "geometry": {
+      "location": {
+        "lat": 48.7664474,
+        "lng": 2.4104452
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.76780347989271,
+          "lng": 2.411864079892723
+        },
+        "southwest": {
+          "lat": 48.76510382010727,
+          "lng": 2.409164420107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "05b9a430084dfa20b52bb7b85caa45cea2e4cc36",
+    "name": "Relay France",
+    "place_id": "ChIJy2fp0YV05kcR_AYwHUVcaYc",
+    "plus_code": {
+      "compound_code": "QC86+H5 Choisy-le-Roi, France",
+      "global_code": "8FW4QC86+H5"
+    },
+    "rating": 4,
+    "reference": "ChIJy2fp0YV05kcR_AYwHUVcaYc",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "Aéroport de Strasbourg, 67960 Entzheim, France",
+    "geometry": {
+      "location": {
+        "lat": 48.531522,
+        "lng": 7.634613999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.53288027989272,
+          "lng": 7.635949079892722
+        },
+        "southwest": {
+          "lat": 48.53018062010728,
+          "lng": 7.633249420107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e4b4440b78a4ac5af8a686d798c69bd68a87aed3",
+    "name": "Relay France",
+    "place_id": "ChIJWW0XrTC0lkcRszFTZ7zpgnU",
+    "plus_code": {
+      "compound_code": "GJJM+JR Entzheim, France",
+      "global_code": "8FW9GJJM+JR"
+    },
+    "rating": 0,
+    "reference": "ChIJWW0XrTC0lkcRszFTZ7zpgnU",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Rue Joseph Piette, 91230 Montgeron, France",
+    "geometry": {
+      "location": {
+        "lat": 48.7076893,
+        "lng": 2.4623857
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.70907837989272,
+          "lng": 2.463768779892722
+        },
+        "southwest": {
+          "lat": 48.70637872010728,
+          "lng": 2.461069120107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c20ebcb2ee8079adf728d5a853ed145d733bb41e",
+    "name": "Relay France Snc",
+    "place_id": "ChIJ6ZfPIbwK5kcRDoB82_XLG24",
+    "plus_code": {
+      "compound_code": "PF56+3X Montgeron, France",
+      "global_code": "8FW4PF56+3X"
+    },
+    "rating": 0,
+    "reference": "ChIJ6ZfPIbwK5kcRDoB82_XLG24",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "4B Avenue de la Marne, 65000 Tarbes, France",
+    "geometry": {
+      "location": {
+        "lat": 43.2318268,
+        "lng": 0.0851533
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.23309697989274,
+          "lng": 0.08654237989272222
+        },
+        "southwest": {
+          "lat": 43.23039732010729,
+          "lng": 0.08384272010727778
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0b9d49697cce321e71c3b2396b979f119ef2c1cf",
+    "name": "Relay France",
+    "place_id": "ChIJ0SWUv5LTqRIRI_UhQeeMuWo",
+    "plus_code": {
+      "compound_code": "63JP+P3 Tarbes, France",
+      "global_code": "8FM263JP+P3"
+    },
+    "rating": 0,
+    "reference": "ChIJ0SWUv5LTqRIRI_UhQeeMuWo",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Terminal 1 public area, Aéroport de BeauvaisTillé, Route de l'Aéroport, 60000 Tillé, France",
+    "geometry": {
+      "location": {
+        "lat": 49.4593056,
+        "lng": 2.1110246
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.46073052989272,
+          "lng": 2.112411779892722
+        },
+        "southwest": {
+          "lat": 49.45803087010727,
+          "lng": 2.109712120107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b1f761c4d96a1a9f5144fd330ebfca675df59915",
+    "name": "Relay Découvrir la France",
+    "photos": [
+      {
+        "height": 2929,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/111373811023994481563/photos\"\u003eVicente Martínez\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAACiuhUrb-z5BXOFmglAIxXZ80H4rTz5OLN6yWmtDIUKjqDZlgDrVMOtiLebpOCxjW-Zq4UsTgy-rcMR7DRjHxW_ZHh0FyQ6pxVfAYIBHwu1lGG4u_VqFxTBTy6KZ6nRjvEhDCWaCfAqlCA4RmCf_L18NgGhQf6twnEXdU1BNMQiYDjOub-37Dcw",
+        "width": 3906
+      }
+    ],
+    "place_id": "ChIJG55Ttg8H50cRXQHJxfn9fGk",
+    "plus_code": {
+      "compound_code": "F456+PC Tillé, France",
+      "global_code": "8FX4F456+PC"
+    },
+    "rating": 4,
+    "reference": "ChIJG55Ttg8H50cRXQHJxfn9fGk",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "Autoroute du Soleil, 89290 Venoy, France",
+    "geometry": {
+      "location": {
+        "lat": 47.7927274,
+        "lng": 3.666606
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 47.79403262989273,
+          "lng": 3.667881029892722
+        },
+        "southwest": {
+          "lat": 47.79133297010728,
+          "lng": 3.665181370107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6ca352a21ed5239c20c0ae7c41930cb8cdc44128",
+    "name": "Relais H Snc",
+    "place_id": "ChIJpetgbBhE7kcRhhfRAr_EZGQ",
+    "plus_code": {
+      "compound_code": "QMV8+3J Venoy, France",
+      "global_code": "8FV5QMV8+3J"
+    },
+    "rating": 0,
+    "reference": "ChIJpetgbBhE7kcRhhfRAr_EZGQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "5 Rue Chantecoq, 92800 Puteaux, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8828621,
+        "lng": 2.2381761
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88428312989272,
+          "lng": 2.239585279892722
+        },
+        "southwest": {
+          "lat": 48.88158347010727,
+          "lng": 2.236885620107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1162f357084a27f1881cc09ee6c1bbaae24e0e80",
+    "name": "IDG Communications France",
+    "place_id": "ChIJ4-H8lx5l5kcR2fzCt5LSW2M",
+    "plus_code": {
+      "compound_code": "V6MQ+47 Puteaux, France",
+      "global_code": "8FW4V6MQ+47"
+    },
+    "rating": 0,
+    "reference": "ChIJ4-H8lx5l5kcR2fzCt5LSW2M",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Autoroute Aire Assevillers, 80200 Assevillers, France",
+    "geometry": {
+      "location": {
+        "lat": 49.897154,
+        "lng": 2.833832
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.89851727989272,
+          "lng": 2.835193779892722
+        },
+        "southwest": {
+          "lat": 49.89581762010728,
+          "lng": 2.832494120107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "becffc710f6da0d6f9247cb99728604d30dad729",
+    "name": "Relay France",
+    "place_id": "ChIJjaCOLAH850cRtOukD6EH-GA",
+    "plus_code": {
+      "compound_code": "VRWM+VG Assevillers, France",
+      "global_code": "8FX4VRWM+VG"
+    },
+    "rating": 0,
+    "reference": "ChIJjaCOLAH850cRtOukD6EH-GA",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "64 Avenue du Dr Santy, 26000 Valence, France",
+    "geometry": {
+      "location": {
+        "lat": 44.9154196,
+        "lng": 4.90802
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.91676977989272,
+          "lng": 4.909433329892722
+        },
+        "southwest": {
+          "lat": 44.91407012010727,
+          "lng": 4.906733670107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "bd2b4f8fcbb27db2bca7a161007d610db710be2f",
+    "name": "Relay France",
+    "place_id": "ChIJBdZGj5JX9UcRJMqVK3IrVlw",
+    "plus_code": {
+      "compound_code": "WW85+56 Valence, France",
+      "global_code": "8FP6WW85+56"
+    },
+    "rating": 5,
+    "reference": "ChIJBdZGj5JX9UcRJMqVK3IrVlw",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "25 Avenue du Maréchal Joffre, 12000 Rodez, France",
+    "geometry": {
+      "location": {
+        "lat": 44.3618022,
+        "lng": 2.5833172
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.36316522989273,
+          "lng": 2.584668929892722
+        },
+        "southwest": {
+          "lat": 44.36046557010729,
+          "lng": 2.581969270107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "774787a33379580b6a2f6dfa935a8d414dcdac8e",
+    "name": "Relay France Snc",
+    "place_id": "ChIJbaARZnh9shIRcQlcn13bVFU",
+    "plus_code": {
+      "compound_code": "9H6M+P8 Rodez, France",
+      "global_code": "8FP49H6M+P8"
+    },
+    "rating": 0,
+    "reference": "ChIJbaARZnh9shIRcQlcn13bVFU",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Avenue du Maréchal Joffre, 11000 Carcassonne, France",
+    "geometry": {
+      "location": {
+        "lat": 43.2168121,
+        "lng": 2.3517992
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.21816267989272,
+          "lng": 2.353202779892722
+        },
+        "southwest": {
+          "lat": 43.21546302010728,
+          "lng": 2.350503120107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "4bd3e605875bb0f0097491c929d079b90a9029e8",
+    "name": "Relay France Snc",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJvX8qoDosrhIRI01e8LWNg08",
+    "plus_code": {
+      "compound_code": "6982+PP Carcassonne, France",
+      "global_code": "8FM46982+PP"
+    },
+    "rating": 0,
+    "reference": "ChIJvX8qoDosrhIRI01e8LWNg08",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "5 Place Saint-Michel, 75005 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8533192,
+        "lng": 2.3443056
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85465922989272,
+          "lng": 2.345649229892722
+        },
+        "southwest": {
+          "lat": 48.85195957010728,
+          "lng": 2.342949570107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "7868229aae54cc2dbb6c1fb84ed2a76a5f6c3a95",
+    "name": "Kiosque à Journaux",
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/103044752395863467282/photos\"\u003eОлександр Сорохтін\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA_OjnMiQ0J3gxvzfYCd-yWWUhZ1DpCL3eH-CwqJz7_k-yKuR3MJiELpoh32w0XxcGIOAcX9yWb7vak6aSd2Yb3-Iytnal_YQvP6xREyRazME7E1wjeBdEL2VVNLVC_E1sEhCMgg7sJP0rs9SPdhFhfBIrGhQrNDyTuyztUCSp5gIh4q3cRJV2ww",
+        "width": 3648
+      }
+    ],
+    "place_id": "ChIJR6EMKt5x5kcRpsTGRwxU_Uo",
+    "plus_code": {
+      "compound_code": "V83V+8P Paris, France",
+      "global_code": "8FW4V83V+8P"
+    },
+    "rating": 5,
+    "reference": "ChIJR6EMKt5x5kcRpsTGRwxU_Uo",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "2 Avenue de la Gare, 05000 Gap, France",
+    "geometry": {
+      "location": {
+        "lat": 44.5636068,
+        "lng": 6.0861882
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 44.56490122989272,
+          "lng": 6.087392929892721
+        },
+        "southwest": {
+          "lat": 44.56220157010727,
+          "lng": 6.084693270107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "29b3a8bbed8b6c276a6b1dfb91036e2cad943873",
+    "name": "Relay France SNCF",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2368,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/117583165164851466175/photos\"\u003eWiSeven GAMING\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAvHzd_tUUPZDO_0na58UaegTlcZ31KIKPRFVwdv6y8AcbH86MQsDHXqRcnKVgqyKARqMbIz3_O44SO_a-W3y7hF-8B3kLbvgWJmYbWcYZmg36d2NUQg4qLTSKv8tR6yiPEhB2FHoJJE5RF6fr0EbcaW1AGhTPjCqS7rG3k_U3Fmny9hXklO0w7A",
+        "width": 4208
+      }
+    ],
+    "place_id": "ChIJ8WNJc2lAyxIRia_XtVutV0U",
+    "plus_code": {
+      "compound_code": "H37P+CF Gap, France",
+      "global_code": "8FP8H37P+CF"
+    },
+    "rating": 5,
+    "reference": "ChIJ8WNJc2lAyxIRia_XtVutV0U",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "Rue de Paris, 94340 Joinville-le-Pont, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8208182,
+        "lng": 2.4736331
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.82213517989271,
+          "lng": 2.474754979892722
+        },
+        "southwest": {
+          "lat": 48.81943552010727,
+          "lng": 2.472055320107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "37af3fb0fdf369513d86ac8c9091e1a869e7bdec",
+    "name": "Relay France",
+    "place_id": "ChIJu2OY9iYN5kcR86hfX6IRrUQ",
+    "rating": 0,
+    "reference": "ChIJu2OY9iYN5kcR86hfX6IRrUQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Rue de la Gare, 29600 Morlaix, France",
+    "geometry": {
+      "location": {
+        "lat": 48.5326819,
+        "lng": -3.7873891
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.53406592989273,
+          "lng": -3.786004870107278
+        },
+        "southwest": {
+          "lat": 48.53136627010728,
+          "lng": -3.788704529892722
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a6654896fce5a65347d06204e5e8a9fbbbfeb8a0",
+    "name": "Relay France",
+    "place_id": "ChIJXYFEeCthEUgRkj4UJGGv9kE",
+    "plus_code": {
+      "compound_code": "G6M7+32 Plourin-lès-Morlaix, France",
+      "global_code": "8CWRG6M7+32"
+    },
+    "rating": 0,
+    "reference": "ChIJXYFEeCthEUgRkj4UJGGv9kE",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Place du Général de Gaulle, 93600 Aulnay-sous-Bois, France",
+    "geometry": {
+      "location": {
+        "lat": 48.9318276,
+        "lng": 2.4942276
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.93313117989273,
+          "lng": 2.495576529892722
+        },
+        "southwest": {
+          "lat": 48.93043152010728,
+          "lng": 2.492876870107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a1c99337ca07eb5718ccd844913578f025b1743f",
+    "name": "Relay France",
+    "photos": [
+      {
+        "height": 2486,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110463710119211828341/photos\"\u003eSNCF Gares &amp; Connexions\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAdlO_lCe2eCoyG1P-GySsVSC-F4behco6ZJRt-oIS1ExkWsM7NjTla79_1H8htmFBMmqsFLcsNcfw2pZ15A9Qr5m6RSJNbt-jlE7RCmc2zEwwO0r7TAzUs7dgdo2LR8C7EhARDcvU7nsOk9LtBCyNc6mJGhSWtVXEEvcCmhsDcMmWvtt8OCF_RQ",
+        "width": 2925
+      }
+    ],
+    "place_id": "ChIJ38ygVmIT5kcRexlP9LBoLTc",
+    "plus_code": {
+      "compound_code": "WFJV+PM Aulnay-sous-Bois, France",
+      "global_code": "8FW4WFJV+PM"
+    },
+    "rating": 5,
+    "reference": "ChIJ38ygVmIT5kcRexlP9LBoLTc",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  }
+]

@@ -1,0 +1,2007 @@
+[
+  {
+    "adresse": "3 PLACE DES DEUX ECUS",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE DU PALAIS ROYAL / ST HONORE",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Boulevard DES CAPUCINES/RUE L.LEGRAND",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "13 Boulevard MONTMARTRE",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "13 Boulevard ST DENIS",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "11 Boulevard DES ITALIENS",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "11 PLACE DE LA REPUBLIQUE",
+    "arrdt": 75003,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "68 RUE DE RIVOLI",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "65 Boulevard ST MICHEL",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "170 Boulevard ST GERMAIN",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "26 RUE VAVIN",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "12 PLACE ST SULPICE",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "4 PLACE DU 18 JUIN 1940",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "26 RUE DE SEVRES",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "ESPLANADE DES INVALIDES",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "16 RUE ROYALE",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "69 Avenue FRANKLIN ROOSEVELT",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "21 RUE DE LIEGE",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "101 Avenue DES CHAMPS ELYSEES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "32 Boulevard HAUSSMANN",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 Boulevard HAUSSMANN",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 Boulevard POISSONNIERE",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "65 RUE LAFAYETTE",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "4 PLACE GUSTAE TOUDOUZE",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE DU HAvRE / COTE FNAC",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "12 Boulevard DES CAPUCINES",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "79 Boulevard DE STRASBOURG",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "113 Boulevard DE CHARONNE",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 RUE DE MONTREUIL",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "167 Boulevard VOLTAIRE",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "132 Boulevard VOLTAIRE",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "10 PLACE DE LA BASTILLE",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "98 RUE SAINT MAUR",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "19 RUE DE MALTE",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "88 Boulevard DIDEROT",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "116 RUE DU FBG ST ANTOINE",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 PLACE EDOUARD RENARD",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "100 COURS DE VINCENNES",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "6 PLACE DE LA NATION",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "23 boulevard Diderot",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque parisien de loto"
+  },
+  {
+    "adresse": "71 Avenue LEDRU ROLLIN",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "140 RUE DE LYON",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "22 PLACE DES VINS DE FRANCE",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "139 Avenue DAUMESNIL",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "149 Boulevard VINCENT AURIOL",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "156 Avenue D'ITALIE",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "82 Avenue D'ITALIE",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "8 Avenue DU GAL LECLERC",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "11 Boulevard EDGAR QUINET",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 Avenue DU COLONEL ROL - TANGUY",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Avenue EMILE ZOLA",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "62 RUE DE LA POMPE",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "23 Boulevard DELESSERT",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "61 Avenue DE LA GRANDE ARMEE",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "87 Avenue DE LA GRANDE ARMEE",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "78 Bis Avenue HENRI MARTIN",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "73 Avenue DE CLICHY",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "132 Boulevard MALESHERBES",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Avenue DE VILLIERS",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "206 RUE DE COURCELLES",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "8 Avenue DE VILLIERS",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "49 Avenue DE WAGRAM",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "0 BD PEREIRE / ANGLE CARDINET",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "4 PLACE DE LA PORTE CHAMPERRET",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "95 RUE DE LA CHAPELLE",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 PLACE JULES JOFFRIN",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "132 Boulevard DE CLICHY",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 RUE DE BELLEVILLE",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "37 RUE D'AvRON",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "14 RUE DE TURBIGO",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "39 RUE CROIX DES PETITS CHAMPS",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "42 RUE SAINT DENIS",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "8 RUE DE L'AMIRAL DE COLIGNY",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 QUAI DU LOUVRE",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "17 Boulevard DES CAPUCINES",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "11 Boulevard DES CAPUCINES",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "19 RUE DE MONSIGNY/MET.4 SEPTEMBRE",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "38 RUE RAMBUTEAU",
+    "arrdt": 75003,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "5 PLACE DE LA BASTILLE",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "56 RUE RAMBUTEAU",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Boulevard BEAUMARCHAIS",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE E. MICHELET / RUE ST MARTIN",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "21 RUE ST ANTOINE",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "25 Boulevard ST MICHEL",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "4 Boulevard DE L'HOPITAL",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 PLACE MONGE",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "47 Boulevard ST MICHEL",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "23 Boulevard ST MICHEL",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "63 Boulevard ST MICHEL",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "6 PLACE ST MICHEL",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "22 Boulevard ST MICHEL",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "71 Boulevard DU MONTPARNASSE",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "20 RUE DE SEVRES",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "16-18 RUE DE SEVRES",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 QUAI BRANLY / PONT DE L'ALMA",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "7 Avenue MATIGNON",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "52 Avenue DES CHAMPS ELYSEES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "Place de la Madeleine",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque parisien de théâtre"
+  },
+  {
+    "adresse": "106 Bis RUE ST LAZARE",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "113 Boulevard HAUSSMANN",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "138 Avenue DES CHAMPS ELYSEES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "47 Boulevard MALESHERBES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "29 Avenue MARIGNY",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "33 Avenue DES CHAMPS ELYSEES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE GEORGES GUILLAUMIN",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE CHASSAIGNE GOYON",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "5 PLACE DE L'ALMA",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 RUE LAFAYETTE",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "75 RUE ST LAZARE",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "14 RUE DE CHATEAUDUN",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "10 Boulevard DES CAPUCINES",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "46 Boulevard HAUSSMANN",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "127 Boulevard MAGENTA",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "9 Boulevard DE DENAIN",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "128 Boulevard VOLTAIRE",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "90 Avenue LEDRU ROLLIN",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "106 Boulevard DE PICPUS : 12 AvENUE DU TRONE",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "257 Avenue DAUMESNIL",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Boulevard DE REUILLY",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "46 Avenue DU Gal MICHEL BIZOT",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "23 Ter Boulevard DIDEROT",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "87 Avenue LEDRU ROLLIN",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "246 Avenue DAUMESNIL",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "30 Avenue D'ITALIE",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "113 Boulevard DE L'HOPITAL",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Avenue DE CHOISY",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "80 Avenue DU MAINE",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "79 Avenue DU MAINE",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "16 RUE J.GUESDES/PLACE C.BRANCUSI",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 PLACE DU 25 AOÛT 1944",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "3 QUAI ANDRE CITROEN",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "318 RUE DE VAUGIRARD / CONVENTION",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "334-336 RUE DE VAUGIRARD",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "111 Boulevard DE GRENELLE",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "109 RUE LECOURBE",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "48 Avenue DE LA MOTTE PICQUET",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 Avenue MOZART",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "219 Avenue DE VERSAILLES",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "156 Avenue DE VERSAILLES",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 PLACE VICTOR HUGO",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "51 RUE D'AUTEUIL",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "56 Avenue G. MANDEL / METRO POMPE",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "24 Avenue MAC MAHON",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "16 Avenue MAC MAHON",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 RUE DE CHAZELLES",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "200 Boulevard MALESHERBES",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "36 Avenue DE LA GRANDE ARMEE",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE AIME MAILLARD",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "3 PLACE DE LEVIS",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "44 Boulevard ROCHECHOUART",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE DE LA CHAPELLE",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "46 Boulevard BARBES",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "255 RUE MARCADET",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "107 Avenue DE FLANDRE",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "30 Avenue CORENTIN CARIOU",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "7 Avenue DE FLANDRE",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "79 RUE DE LA MOUZAÏA",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "4 Avenue JEAN JAURES",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "179 Avenue GAMBETTA / MET.ST FARGEAU",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 PLACE DU PALAIS ROYAL",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "8 PLACE DU PALAIS ROYAL / RIVOLI",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "21 Avenue DE L'OPERA",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "29 Boulevard DES CAPUCINES",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "5 Boulevard POISSONNIERE",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Boulevard DU TEMPLE",
+    "arrdt": 75003,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "42 RUE REAUMUR",
+    "arrdt": 75003,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "5 RUE LOBAU",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 RUE DU FOUR",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "258 Boulevard ST GERMAIN",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "27 Boulevard DE LA MADELEINE",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "87 BD MALESHERBES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "46 Avenue DES CHAMPS ELYSEES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "104 RUE DE RIVOLI",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 PLACE STE OPPORTUNE",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "47 RUE ST ANTOINE",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "7 Avenue DES GOBELINS",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "86 Boulevard DU PORT ROYAL",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "7 Boulevard ST MICHEL",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "58 Boulevard ST GERMAIN",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "95 Boulevard ST GERMAIN",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "186 Boulevard ST GERMAIN",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE PIERRE DUX",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "21 RUE ROYALE",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "27 Avenue HOCHE",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Avenue MONTAIGNE",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "3 RUE DE MONCEAU",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "110 RUE ST LAZARE",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "36 RUE TRONCHET",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "62 Boulevard HAUSSMANN",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 PLACE ESTIENNE D'ORVES TRIN./S LAZ.",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 Avenue TRUDAINE",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "70 Boulevard ROCHECHOUART",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 Boulevard MONTMARTRE",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "26 Boulevard DE CLICHY",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE DE LA REPUBLIQUE/R.BOULANGER",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Boulevard DE DENAIN",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Avenue DE LA REPUBLIQUE",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "139 Boulevard DE MENILMONTANT",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "17 PLACE DE LA NATION",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "124 Rue du FAUBOURG DU TEMPLE",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "20 RUE DE LYON",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "213 Boulevard VINCENT AURIOL",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 Avenue RENE COTY",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "71 Avenue DU GAL LECLERC",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "106 Boulevard JOURDAN",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "75 QUAI BRANLY",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE DU COMMERCE",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Boulevard LEFEBVRE",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "square Adolphe Cherioux",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "48 Avenue MOZART",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "64 Avenue DE VERSAILLES",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "7 Avenue D'IENA",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "4 PLACE DU TROCADERO",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "127 Avenue VICTOR HUGO",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "21 Avenue DU GENERAL SARRAIL",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "57-61 RUE DE PASSY",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "80 Avenue DE LA GRANDE ARMEE",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "89 Avenue DE WAGRAM",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE DU GENERAL KOËNIG",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "77 Boulevard ORNANO",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "16 Boulevard DE CLICHY",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 Boulevard ORNANO",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE DES ABBESSES",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "40 Avenue SECRETAN",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "32 Avenue LAUMIERE",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "265 RUE DE BELLEVILLE / TELEGRAPHE",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Avenue DE LA PORTE DE MONTREUIL",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "6 Boulevard DE CHARONNE",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 PLACE MARTIN NADAUD",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE COLETTE",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "27 RUE VIVIENNE / PLACE DE LA BOURSE",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "29 Boulevard POISSONNIERE",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "95 Boulevard DE SEBASTOPOL",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "103 Boulevard DE SEBASTOPOL",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "17 Boulevard ST DENIS",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "15 PLACE DE LA REPUBLIQUE",
+    "arrdt": 75003,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "46 RUE DES FRANCS BOURGEOIS",
+    "arrdt": 75003,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 RUE DE BRETAGNE",
+    "arrdt": 75003,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 PLACE LOUIS LEPINE",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "46 Boulevard HENRI IV",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Boulevard DU PALAIS",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "12 Boulevard HENRI IV",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "22 RUE DE TURENNE",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "102 BOULEVARD PORT ROYAL",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "101 Boulevard ST MICHEL",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "15 Boulevard ST MICHEL",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "98 RUE MONGE",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "5 PLACE ST MICHEL",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Boulevard DU MONTPARNASSE",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "127 RUE DE RENNES",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "160 Boulevard ST GERMAIN",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "41 Avenue DE LA MOTTE PICQUET",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 Boulevard RASPAIL",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "43 Boulevard DES BATIGNOLLES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "99 Avenue DES CHAMPS ELYSEES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "5 PLACE ST AUGUSTIN",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "31 RUE TRONCHET",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "16 Boulevard DE LA MADELEINE",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "112 Boulevard HAUSSMANN",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "4 Boulevard MALESHERBES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "5 PLACE DE DUBLIN",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 PLACE DES TERNES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "13 Boulevard HAUSSMANN",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "30 Boulevard DES ITALIENS",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "36 bis boulevard Haussmann",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque parisien de loto"
+  },
+  {
+    "adresse": "41 Boulevard HAUSSMANN",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "57 Boulevard DE CLICHY",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "76 Boulevard DE STRASBOURG",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "179 BD ST MARTIN",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "8 Boulevard ST DENIS",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE JACQUES BONSERGENT",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "METRO BARBES ROCHECHOUART",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "8 Boulevard BONNE NOUVELLE",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "85 Bis BD MAGENTA",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "26 Boulevard BONNE NOUVELLE",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "109 Boulevard VOLTAIRE",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "88 Bis Avenue PARMENTIER",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "76 Avenue DE LA REPUBLIQUE",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 PLACE DE LA NATION",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "56 RUE DU FBG DU TEMPLE",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "26 Place de la Nation",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque parisien de loto"
+  },
+  {
+    "adresse": "PLACE DU BATAILLON DU PACIFIQUE",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "Avenue DE LA PORTE D'ITALIE",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Boulevard VINCENT AURIOL",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "231 RUE RAYMOND LOSSERAND",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "44 Avenue DU GAL LECLERC",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "201 Boulevard BRUNE",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "55 Avenue JEAN MOULIN",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "72 RUE R.LOSSERAND / MET.PERNETY",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2-4 PLACE RAOUL DAUTRY",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "101 QUAI BRANLY",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "22 Boulevard PASTEUR",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "132 Boulevard DE GRENELLE",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "11 PLACE CHARLES MICHELS",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 Bis RUE LOUIS ARMAND - AQUABOULVD",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "82 RUE LECOURBE",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "Boulevard DU Gal MARTIAL VALIN",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "Place Raoul Dautry",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque parisien de théâtre"
+  },
+  {
+    "adresse": "37 Avenue MARCEAU",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "118 Avenue VICTOR HUGO",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "37 RUE MOLITOR",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "64 Avenue DES TERNES",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "72 Avenue DE VILLIERS",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "125 Avenue DE CLICHY",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "60 Boulevard DE COURCELLES",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "102 Avenue DE ST OUEN",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "76 Avenue MARX DORMOY",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "16 Avenue DE CLICHY",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "5 Avenue CORENTIN CARIOU",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "208 Avenue JEAN JAURES",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "30 Boulevard DE MENILMONTANT",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "46 Boulevard DE CHARONNE",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "10 PLACE GAMBETTA",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "150 Boulevard DE MENILMONTANT",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "261 Avenue GAMBETTA",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "132 RUE RAMBUTEAU",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "5 RUE ST DENIS",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 Boulevard DU PALAIS",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE DU CHATELET",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Boulevard DE LA MADELEINE",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "284 RUE ST HONORE",
+    "arrdt": 75001,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "21 Boulevard MONTMARTRE",
+    "arrdt": 75002,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "201 RUE DU TEMPLE",
+    "arrdt": 75003,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "9 Boulevard ST DENIS",
+    "arrdt": 75003,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "12 RUE DE RIVOLI",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "4 Boulevard DE SEBASTOPOL",
+    "arrdt": 75004,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "82 Boulevard ST GERMAIN",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE JUSSIEU",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "47 Ter Boulevard ST GERMAIN",
+    "arrdt": 75005,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "105 Boulevard DU MONTPARNASSE",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "145 Boulevard ST GERMAIN",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "132 Boulevard ST GERMAIN",
+    "arrdt": 75006,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "237 Boulevard ST GERMAIN",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "35 Boulevard DES INVALIDES",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "44 Avenue DE LA MOTTE PICQUET",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "79 RUE DE LILLE / MUSEE D'ORSAY",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "6 Avenue DU DOCTEUR BROUARDEL",
+    "arrdt": 75007,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "73 AVENUE DES CHAMPS ELYSEES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE CH. DE GAULLE / Avenue FRIEDLAND",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE CLEMENCEAU",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "15 Avenue DES CHAMPS ELYSEES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "114 Avenue DES CHAMPS ELYSEES",
+    "arrdt": 75008,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "10 PLACE DE BUDAPEST",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "122 Boulevard ROCHECHOUART",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 BD MONTMARTRE",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "30 Boulevard DES CAPUCINES",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE DE CLICHY / METRO CENTRAL",
+    "arrdt": 75009,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "10 PLACE DE LA REPUBLIQUE",
+    "arrdt": 75010,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "71 Boulevard VOLTAIRE / MET.ST AMBROISE",
+    "arrdt": 75011,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "70 RUE DE REUILLY",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "30 PLACE DE LA NATION",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "53 Boulevard DE REUILLY",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "116 Boulevard DIDEROT",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "8 PLACE FELIX EBOUE",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "11 Avenue DE NOGENT / VINCENNES",
+    "arrdt": 75012,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "15 BD MASSENA",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "147 Boulevard AUGUSTE BLANQUI",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "45 RUE DE TOLBIAC",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "125 Avenue D'ITALIE",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "17 PLACE DE L'ABBE G. HENOCQUE",
+    "arrdt": 75013,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "90 Avenue DU GAL LECLERC",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "75 Avenue DU GAL LECLERC",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1-3 RUE DU DEPART",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "202 Boulevard RASPAIL",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "24 Boulevard JOURDAN",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "230 Avenue DU MAINE",
+    "arrdt": 75014,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "66 Avenue DE LA MOTTE PICQUET",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "5 PLACE CAMBRONNE",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "106 RUE DE LA CONVENTION",
+    "arrdt": 75015,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "2 Avenue D'EYLAU",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "70 Avenue KLEBER",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "50 Avenue BUGEAUD",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "22 RUE DUBAN",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "78 Avenue MOZART",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "19 RUE DE PASSY",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "77 RUE D'AUTEUIL",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "230 Avenue DE VERSAILLES",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "128 BD MURAT",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "3 PLACE VICTOR HUGO",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 Bis PLACE DE L'ALMA",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "150 Avenue VICTOR HUGO",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "6 Avenue KLEBER",
+    "arrdt": 75016,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "1 RUE DE LA JONQUIERE",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE CH. DE GAULLE / Avenue DE WAGRAM",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "15 PLACE DU GENERAL CATROUX",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "7 PLACE DE CLICHY",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "PLACE STUART MERILL",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "Place des Ternes",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque parisien de théâtre"
+  },
+  {
+    "adresse": "144 Avenue DE CLICHY",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "98 Avenue NIEL",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "10 Avenue DES TERNES",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "METRO PEREIRE / PLACE DU MAL JUIN",
+    "arrdt": 75017,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "55 RUE LAMARCK",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "4 RUE DE LA CHAPELLE",
+    "arrdt": 75018,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "119 Avenue DE FLANDRE",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "6 PLACE DU COLONEL FABIEN",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "223 BD MAC DONALD",
+    "arrdt": 75019,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "3 PLACE GAMBETTA",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "403 RUE DES PYRENEES",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "60 Boulevard DE BELLEVILLE",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  },
+  {
+    "adresse": "10 RUE DU JOURDAIN",
+    "arrdt": 75020,
+    "type_de_kiosque": "Kiosque de presse"
+  }
+]

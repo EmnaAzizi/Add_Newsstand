@@ -1,0 +1,2025 @@
+[
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "170 Boulevard Saint-Germain, 75006 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8541104",
+        "lng": "2.3329202"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8526683",
+          "lng": "2.3315180"
+        },
+        "northeast": {
+          "lat": "48.8553680",
+          "lng": "2.3342176"
+        }
+      }
+    },
+    "rating": "2.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJWebJgddx5kcR37XwA7C5O8Q",
+    "id": "eaf1b9a796c848c50c18ee696c994be32db61732",
+    "user_ratings_total": "2",
+    "place_id": "ChIJWebJgddx5kcR37XwA7C5O8Q",
+    "plus_code": {
+      "global_code": "8FW4V83M+J5",
+      "compound_code": "V83M+J5 Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "29 Boulevard des Capucines, 75002 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8702762",
+        "lng": "2.3304467"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8689486",
+          "lng": "2.3290874"
+        },
+        "northeast": {
+          "lat": "48.8716482",
+          "lng": "2.3317871"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJeR_EFTFu5kcRIoMa9AHFUcw",
+    "id": "582326856057b1f134ff4868c93f424c31b8ad9d",
+    "photo": {
+      "photo_reference": "CmRaAAAA72bOSj4BLYp0EDJfEGEjpkLTHBAVE6k9uWEZ4-hPlqNXzTIbhmnFYmKCRVxBoV8Gmkt2HJ11ekYxFX5MnFGCbtQn3BgUyyPfdRYdP7PEXY9ctYPd4uc80PBbofNibMOgEhBSBj-2-Ly1sIlzqdpkD6U4GhTG2bFJl8naRnrt65aNi4vazANhcQ",
+      "width": "4608",
+      "height": "3456",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/116283236226304301678/photos\">Bassel Tawil</a>"
+    },
+    "user_ratings_total": "0",
+    "place_id": "ChIJeR_EFTFu5kcRIoMa9AHFUcw",
+    "plus_code": {
+      "global_code": "8FW4V8CJ+45",
+      "compound_code": "V8CJ+45 Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "26 Boulevard de Bonne Nouvelle, 75010 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8705430",
+        "lng": "2.3503427"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8690429",
+          "lng": "2.3489123"
+        },
+        "northeast": {
+          "lat": "48.8717426",
+          "lng": "2.3516120"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJhUbmuxZu5kcRe_j8gQaZ79o",
+    "id": "074378f14b71d82332e791fe115f39804201ac33",
+    "user_ratings_total": "0",
+    "place_id": "ChIJhUbmuxZu5kcRe_j8gQaZ79o",
+    "plus_code": {
+      "global_code": "8FW4V9C2+64",
+      "compound_code": "V9C2+64 Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "203 Rue du Temple, 75003 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8667256",
+        "lng": "2.3618115"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8653525",
+          "lng": "2.3604880"
+        },
+        "northeast": {
+          "lat": "48.8680521",
+          "lng": "2.3631876"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJxb7StAhu5kcRNoxDk4DDW80",
+    "id": "a9848a5705da8c45f67c09a0223d19f7242e925b",
+    "user_ratings_total": "0",
+    "place_id": "ChIJxb7StAhu5kcRNoxDk4DDW80",
+    "plus_code": {
+      "global_code": "8FW4V986+MP",
+      "compound_code": "V986+MP Paris, France"
+    }
+  },
+  {
+    "name": "Newsstand",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "17 Place de la Nation, 75011 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8488226",
+        "lng": "2.3976297"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8474482",
+          "lng": "2.3961671"
+        },
+        "northeast": {
+          "lat": "48.8501478",
+          "lng": "2.3988667"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJf5KC53By5kcRkIo6-YjsVHI",
+    "id": "e936b69612f0442e5b118f4c8d01cb549d4b989e",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "photo": {
+      "photo_reference": "CmRaAAAAG-yd7jkMoX6NrlCR13k4Esl3o-6ROTiMYRzbILCU0j_VVVW4isEC0ZCEO7C9BQx72tg4Nida9px1keiEgYi1ja0s4Z6KjxvRizqiAtUaTPTwusksjYCXr3qLwyfl_p0WEhBKtm8_M0zQd6CJN8NhVzX9GhQCKRwTrMyUHoQLvGK1IZ1o3EDvUQ",
+      "width": "1522",
+      "height": "1522",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/111211814723110924057/photos\">Kiosque à journaux</a>"
+    },
+    "user_ratings_total": "0",
+    "place_id": "ChIJf5KC53By5kcRkIo6-YjsVHI",
+    "plus_code": {
+      "global_code": "8FW4R9XX+G3",
+      "compound_code": "R9XX+G3 Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "Paris-13E-Arrondissement, 40 Avenue d'Italie, 75013 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8284974",
+        "lng": "2.3563933"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8271578",
+          "lng": "2.3551221"
+        },
+        "northeast": {
+          "lat": "48.8298575",
+          "lng": "2.3578217"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ8dTi_o5x5kcRBtVJvCmU8l8",
+    "id": "29ca6f8d043ded68da7f9ac24c48f75335b02b44",
+    "user_ratings_total": "0",
+    "place_id": "ChIJ8dTi_o5x5kcRBtVJvCmU8l8",
+    "plus_code": {
+      "global_code": "8FW4R9H4+9H",
+      "compound_code": "R9H4+9H Paris, France"
+    }
+  },
+  {
+    "name": "Newsstand",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "5 Place Saint-Michel, 75005 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8533192",
+        "lng": "2.3443056"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8519596",
+          "lng": "2.3429496"
+        },
+        "northeast": {
+          "lat": "48.8546592",
+          "lng": "2.3456492"
+        }
+      }
+    },
+    "rating": "5.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJR6EMKt5x5kcRpsTGRwxU_Uo",
+    "id": "7868229aae54cc2dbb6c1fb84ed2a76a5f6c3a95",
+    "photo": {
+      "photo_reference": "CmRaAAAAiyzZGsemcxVzTJCTWQjQMEQTnJHrgfo4e7ESu6O_3CKQ-92vn0pg43a6xlvxXTa2Qq0m9678qJ0R9_XQKaVUhWRnbig24kATgq4EHGqGSbev2k8Zsu6ufoWGJBWtl7j_EhCxcPLARZ2tcCXuFlZOKID2GhQXKX226ZQcC8dQmiTdRkR59h821A",
+      "width": "3648",
+      "height": "2736",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/103044752395863467282/photos\">Олександр Сорохтін</a>"
+    },
+    "user_ratings_total": "2",
+    "place_id": "ChIJR6EMKt5x5kcRpsTGRwxU_Uo",
+    "plus_code": {
+      "global_code": "8FW4V83V+8P",
+      "compound_code": "V83V+8P Paris, France"
+    }
+  },
+  {
+    "name": "kiosques presse",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "101 Av. des Champs-Élysées, 75008 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8714771",
+        "lng": "2.3003789"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8703563",
+          "lng": "2.2991815"
+        },
+        "northeast": {
+          "lat": "48.8730559",
+          "lng": "2.3018811"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ23qb5Olv5kcRhTgP82uqIDY",
+    "id": "f570c61e0bc7549b098bc24e8b823a37ff61d4de",
+    "photo": {
+      "photo_reference": "CmRaAAAAjA2R4OMqOVOdgb4_RhamjaLaVxa1ShFdm5m6sc3LcDMz_HSgGx7d2j2ifs1eCVSw3phNV2_omm60klvKb6yaSD6Izp9UcYHiVTfF1r7BDMcT2ZPou-PA_3wE3BGf7nZoEhBwxBbPeMtlSLnAsNHzycmEGhQnBL6yKXJSHvtqltpI6P_SEihscw",
+      "width": "1080",
+      "height": "1920",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/104846864805533516797/photos\">주문형</a>"
+    },
+    "user_ratings_total": "0",
+    "place_id": "ChIJ23qb5Olv5kcRhTgP82uqIDY",
+    "plus_code": {
+      "global_code": "8FW4V8C2+H5",
+      "compound_code": "V8C2+H5 Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "7 Place de l'Alma, 75008 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8650671",
+        "lng": "2.3018580"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8636668",
+          "lng": "2.3003435"
+        },
+        "northeast": {
+          "lat": "48.8663664",
+          "lng": "2.3030431"
+        }
+      }
+    },
+    "rating": "5.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJNwg0Cd1v5kcR_RgzfUxrFGs",
+    "id": "a3d9586a1a55a2bbff1ce249aaa951b7ccb41803",
+    "opening_hours": "",
+    "photo": {
+      "photo_reference": "CmRaAAAAjqg2gIlvpqH67oa5KI1dLVvkInBl96aMiRjmW35wlOjUeuuYD3zaxSrYjFJf38YOlGTH3nrZnY3qSxdh4scXmCfJH1WFSuZa_cYEcAI6IU9GdIUtLfgIpIXTUWGSBFqnEhC1sJX5vYeOA0a3Gg2qRZ4NGhQwUl34J-twuGvFcvBRoJKDr-Lcnw",
+      "width": "1047",
+      "height": "1242",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/105717605305942438806/photos\">Gil Martins</a>"
+    },
+    "user_ratings_total": "1",
+    "place_id": "ChIJNwg0Cd1v5kcR_RgzfUxrFGs",
+    "plus_code": {
+      "global_code": "8FW4V882+2P",
+      "compound_code": "V882+2P Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "44 Avenue du Général Leclerc, 75014 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8309560",
+        "lng": "2.3291468"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8295466",
+          "lng": "2.3279541"
+        },
+        "northeast": {
+          "lat": "48.8322462",
+          "lng": "2.3306538"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ37MwybBx5kcRDNQkGPs51sM",
+    "id": "ca22912232f9e32a49cc12d01960e6b8990c7258",
+    "user_ratings_total": "0",
+    "place_id": "ChIJ37MwybBx5kcRDNQkGPs51sM",
+    "plus_code": {
+      "global_code": "8FW4R8JH+9M",
+      "compound_code": "R8JH+9M Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "4 Boulevard de l'Hôpital, 75005 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8430526",
+        "lng": "2.3636949"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8416564",
+          "lng": "2.3624953"
+        },
+        "northeast": {
+          "lat": "48.8443561",
+          "lng": "2.3651950"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJn791TvZx5kcRPlqGHgLIFck",
+    "id": "36d654305d9e334db0b5c678ffbabd3f04a953a7",
+    "user_ratings_total": "0",
+    "place_id": "ChIJn791TvZx5kcRPlqGHgLIFck",
+    "plus_code": {
+      "global_code": "8FW4R9V7+6F",
+      "compound_code": "R9V7+6F Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "84 Rue Cambronne, 75015 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8425603",
+        "lng": "2.3026689"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8412144",
+          "lng": "2.3013311"
+        },
+        "northeast": {
+          "lat": "48.8439140",
+          "lng": "2.3040307"
+        }
+      }
+    },
+    "rating": "5.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJwcEaGDxw5kcRpte7mdtDjZQ",
+    "id": "6ea1e3803edc44caefe4e74136374d28c6567e97",
+    "user_ratings_total": "1",
+    "place_id": "ChIJwcEaGDxw5kcRpte7mdtDjZQ",
+    "plus_code": {
+      "global_code": "8FW4R8V3+23",
+      "compound_code": "R8V3+23 Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque Chopin Nicolas",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "1 Rue de La Jonquière, 75017 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8930515",
+        "lng": "2.3272147"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8917308",
+          "lng": "2.3258741"
+        },
+        "northeast": {
+          "lat": "48.8944305",
+          "lng": "2.3285738"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJyWB0VlRu5kcRvM3QWZ_rYps",
+    "id": "4372603b7ca89ad704e9f1ca2e4980fefdaed15a",
+    "opening_hours": {
+      "open_now": "true"
+    },
+    "user_ratings_total": "0",
+    "place_id": "ChIJyWB0VlRu5kcRvM3QWZ_rYps",
+    "plus_code": {
+      "global_code": "8FW4V8VG+6V",
+      "compound_code": "V8VG+6V Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "Paris-11E-Arrondissement, 1 Rue de Montreuil, 75011 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8503574",
+        "lng": "2.3840557"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8490569",
+          "lng": "2.3827047"
+        },
+        "northeast": {
+          "lat": "48.8517566",
+          "lng": "2.3854043"
+        }
+      }
+    },
+    "rating": "5.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJO2oECAxy5kcRwXOoI0L4BAA",
+    "id": "4a1c631276c239bea1e37ad74583889afcbf6ddb",
+    "user_ratings_total": "1",
+    "place_id": "ChIJO2oECAxy5kcRwXOoI0L4BAA",
+    "plus_code": {
+      "global_code": "8FW4V92M+4J",
+      "compound_code": "V92M+4J Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "27-29 Rue Vivienne, 75002 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8690789",
+        "lng": "2.3402810"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8677360",
+          "lng": "2.3389008"
+        },
+        "northeast": {
+          "lat": "48.8704356",
+          "lng": "2.3416005"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJH4wufDxu5kcRyu6SnfCG0g8",
+    "id": "a023716fbdff4fd008371d5affcc39a9ae27cf15",
+    "user_ratings_total": "0",
+    "place_id": "ChIJH4wufDxu5kcRyu6SnfCG0g8",
+    "plus_code": {
+      "global_code": "8FW4V89R+J4",
+      "compound_code": "V89R+J4 Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "88 Boulevard Diderot, 75012 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8468050",
+        "lng": "2.3839483"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8455656",
+          "lng": "2.3825727"
+        },
+        "northeast": {
+          "lat": "48.8482653",
+          "lng": "2.3852724"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJt7YRxA1y5kcRnqjbqUtst24",
+    "id": "ddbd3afdc15dc5d7137ed57cc41ba61f23ed7b6b",
+    "user_ratings_total": "0",
+    "place_id": "ChIJt7YRxA1y5kcRnqjbqUtst24",
+    "plus_code": {
+      "global_code": "8FW4R9WM+PH",
+      "compound_code": "R9WM+PH Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "21 Avenue de l'Opéra, 75001 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8664000",
+        "lng": "2.3338600"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8650713",
+          "lng": "2.3326278"
+        },
+        "northeast": {
+          "lat": "48.8677710",
+          "lng": "2.3353274"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJL3JIADBu5kcRm5IRBqhzhNM",
+    "id": "86bf8621c6509f00e1267215ad79c81c68c322d5",
+    "user_ratings_total": "0",
+    "place_id": "ChIJL3JIADBu5kcRm5IRBqhzhNM",
+    "plus_code": {
+      "global_code": "8FW4V88M+HG",
+      "compound_code": "V88M+HG Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "43 Avenue de la Motte-Picquet, 75007 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8544161",
+        "lng": "2.3063678"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8531710",
+          "lng": "2.3048597"
+        },
+        "northeast": {
+          "lat": "48.8558706",
+          "lng": "2.3075594"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ2xK6ICdw5kcRVgcd-J33kEk",
+    "id": "f1a4c9825758758bbe1086f985cf4c1800f6d3a8",
+    "user_ratings_total": "0",
+    "place_id": "ChIJ2xK6ICdw5kcRVgcd-J33kEk",
+    "plus_code": {
+      "global_code": "8FW4V834+QG",
+      "compound_code": "V834+QG Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "1 Quai Branly, 75007 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8621315",
+        "lng": "2.3010890"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8608373",
+          "lng": "2.2997338"
+        },
+        "northeast": {
+          "lat": "48.8635369",
+          "lng": "2.3024334"
+        }
+      }
+    },
+    "rating": "0.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ59i25t1v5kcRsNfgZyMKi-g",
+    "id": "8a684f14a2a4eef38da86e51bba1d27031b48931",
+    "photo": {
+      "photo_reference": "CmRaAAAAuoo0E66AIdvt0w3qp1oqMOLpfRgE3sE-2X7bFkqgcpy46p_lE0VWl6KstgwBUBs1S-pprBfRu8EaZReAccHGc6U8ijMw568q0z0R3atRRxQTmfDdffAi6a3HmB23TzP3EhCHOc_90XnEM6DuF0uId1kIGhTdWnwaUvoq3Ou_BwaXfe5Ch5Ce1Q",
+      "width": "4032",
+      "height": "3024",
+      "html_attribution": "<a href=\"https://maps.google.com/maps/contrib/111982875641388081993/photos\">le beaudour vincent</a>"
+    },
+    "user_ratings_total": "0",
+    "place_id": "ChIJ59i25t1v5kcRsNfgZyMKi-g",
+    "plus_code": {
+      "global_code": "8FW4V862+VC",
+      "compound_code": "V862+VC Paris, France"
+    }
+  },
+  {
+    "name": "Kiosque à Journaux",
+    "type": ["store", "point_of_interest", "establishment"],
+    "formatted_address": "2 Avenue Mozart, 75016 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": "48.8579927",
+        "lng": "2.2737415"
+      },
+      "viewport": {
+        "southwest": {
+          "lat": "48.8565701",
+          "lng": "2.2724960"
+        },
+        "northeast": {
+          "lat": "48.8592698",
+          "lng": "2.2751957"
+        }
+      }
+    },
+    "rating": "5.0",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "reference": "ChIJ5TA10VRl5kcRlcgLB9oWQd0",
+    "id": "f4ae7ddd1f17686a9b659dd682ff0fd69170cc1c",
+    "user_ratings_total": "1",
+    "place_id": "ChIJ5TA10VRl5kcRlcgLB9oWQd0",
+    "plus_code": {
+      "global_code": "8FW4V75F+5F",
+      "compound_code": "V75F+5F Paris, France"
+    }
+  },
+  {
+    "formatted_address": "21 Avenue de l'Opéra, 75001 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.86640000000001,
+        "lng": 2.33386
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86777097989272,
+          "lng": 2.335327429892722
+        },
+        "southwest": {
+          "lat": 48.86507132010728,
+          "lng": 2.332627770107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "86bf8621c6509f00e1267215ad79c81c68c322d5",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJL3JIADBu5kcRm5IRBqhzhNM",
+    "plus_code": {
+      "compound_code": "V88M+HG Paris, France",
+      "global_code": "8FW4V88M+HG"
+    },
+    "rating": 0,
+    "reference": "ChIJL3JIADBu5kcRm5IRBqhzhNM",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "9-11 Place Charles Michels, 75015 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8467646,
+        "lng": 2.2859321
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84808862989273,
+          "lng": 2.287243629892722
+        },
+        "southwest": {
+          "lat": 48.84538897010729,
+          "lng": 2.284543970107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e03e3a64541902c086070dc8aee74c88d0ac9713",
+    "name": "Kiosque à Journaux",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/116283236226304301678/photos\"\u003eBassel Tawil\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAZiU633RLl0dXUoOOIKxmCePe0UxWiG83W5g5mh0CDdYtPIR48dlN876Ty3MCifeCEqArbCUDeTN5JhSZnVDLStcsX8Dkxx9GfZ1Grpl3_gvy-tjEPWFXMGPveAaSekedEhBvTniYNTbzWd79bYFXBOofGhT0g99oBeDaCLxpyMOkzh_jHLkCwA",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJE5WejQ9w5kcRILXH8IBYSJA",
+    "plus_code": {
+      "compound_code": "R7WP+P9 Paris, France",
+      "global_code": "8FW4R7WP+P9"
+    },
+    "rating": 2.5,
+    "reference": "ChIJE5WejQ9w5kcRILXH8IBYSJA",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "2 Place de la Porte de Champerret, 75017 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8858287,
+        "lng": 2.291207
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88714162989272,
+          "lng": 2.292545879892722
+        },
+        "southwest": {
+          "lat": 48.88444197010727,
+          "lng": 2.289846220107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "09c5b8b395ddc81c237e057ce9fe8d02acf7c02a",
+    "name": "Kiosque à Journaux",
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114315763380453729003/photos\"\u003eJean Vincent\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAokN-v9WLC5r5XarHDguxq2mevrtO54xXd7ZDTSfzNdjNn1rMb5KGmsBIdMBxdvAd5qHxAWx46wZAxj3nPakU4u89okpUcahXkXarSvUoCKq7VtxXJtBr09OkNZHVrgNeEhCKDig5IwyHRT5MYe2g1DTeGhTjoaHhfCTvvylF_7KIba28044owA",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJeS_2JJBv5kcRMDovJkmdL1w",
+    "plus_code": {
+      "compound_code": "V7PR+8F Paris, France",
+      "global_code": "8FW4V7PR+8F"
+    },
+    "rating": 4,
+    "reference": "ChIJeS_2JJBv5kcRMDovJkmdL1w",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "1 Boulevard Diderot, 75012 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.84599360000001,
+        "lng": 2.3741271
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84727577989273,
+          "lng": 2.375526629892722
+        },
+        "southwest": {
+          "lat": 48.84457612010728,
+          "lng": 2.372826970107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9101d5eab1b532cfd2639133fb9a3a871d648b0b",
+    "name": "Kiosque à Journaux",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5312,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114315763380453729003/photos\"\u003eJean Vincent\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAEZ6WLub3iv-FYpGIzog63B2ihW_a9Db2D6ALgz8yIqAqZVXFX7Q_hM4v0MCjzhxey-C_VIg7WkariyhpIFj42_AeqDxnxVhutS5cW1xRWmxTl_lICyEjCtXCWErKTHvCEhAUuYG9DsBdswuv8FaWO7tIGhTj5NH4JRozNeM_7oG-WmbD7ffaEA",
+        "width": 2988
+      }
+    ],
+    "place_id": "ChIJSXkl0QRy5kcRUhioTPyr2cg",
+    "plus_code": {
+      "compound_code": "R9WF+9M Paris, France",
+      "global_code": "8FW4R9WF+9M"
+    },
+    "rating": 0,
+    "reference": "ChIJSXkl0QRy5kcRUhioTPyr2cg",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "40 Avenue Secrétan, 75019 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8811768,
+        "lng": 2.372941
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88259982989272,
+          "lng": 2.374365329892722
+        },
+        "southwest": {
+          "lat": 48.87990017010728,
+          "lng": 2.371665670107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "7d0f9f6fbdd429b3964ecf1601647ed49e5bea0f",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJIzQtN9lt5kcRuCP9YoR3Q9o",
+    "plus_code": {
+      "compound_code": "V9JF+F5 Paris, France",
+      "global_code": "8FW4V9JF+F5"
+    },
+    "rating": 3,
+    "reference": "ChIJIzQtN9lt5kcRuCP9YoR3Q9o",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "95 Boulevard de Sébastopol, 75002 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8656269,
+        "lng": 2.3518579
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86693832989272,
+          "lng": 2.353354329892722
+        },
+        "southwest": {
+          "lat": 48.86423867010727,
+          "lng": 2.350654670107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "aa4ebad75bb6d9295ffd81286395786e23e30067",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJQSlyEhpu5kcR2j5QBvIgPOA",
+    "plus_code": {
+      "compound_code": "V982+7P Paris, France",
+      "global_code": "8FW4V982+7P"
+    },
+    "rating": 0,
+    "reference": "ChIJQSlyEhpu5kcR2j5QBvIgPOA",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "2 Rue du Louvre, 75001 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8586849,
+        "lng": 2.342249
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85997512989272,
+          "lng": 2.343648829892722
+        },
+        "southwest": {
+          "lat": 48.85727547010728,
+          "lng": 2.340949170107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "058a7129c16d00232c5aee303ef8d524a4381541",
+    "name": "Kiosque à Journaux",
+    "photos": [
+      {
+        "height": 854,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/109721466495163460099/photos\"\u003eJeep 1924\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA6nNU1_UlRonO6PEdVNaXECn341bxVHmB09iqxa-5KsymVFMPzJrSNHbuU7r3iPTCof8btn5L3FR728bHzcn4Yufd_7u4VuDayEsrIt7_pCFX_Gh6F22ONNl-y5_2A9F8EhACyjqDQD_CJDHMuV-NTO5TGhSwVvv1pyNerYk7fiz1BHaNBcKJ2A",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJaV1vUyBu5kcRCa5LU7Ian3A",
+    "plus_code": {
+      "compound_code": "V85R+FV Paris, France",
+      "global_code": "8FW4V85R+FV"
+    },
+    "rating": 0,
+    "reference": "ChIJaV1vUyBu5kcRCa5LU7Ian3A",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "bis, 88 Avenue Parmentier, 75011 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8649437,
+        "lng": 2.3750336
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86627157989272,
+          "lng": 2.376299529892722
+        },
+        "southwest": {
+          "lat": 48.86357192010728,
+          "lng": 2.373599870107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ac5caf7021b7a6143802c932579834cdea105946",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJNfeISftt5kcR0LqbqMDX_7g",
+    "plus_code": {
+      "compound_code": "V97G+X2 Paris, France",
+      "global_code": "8FW4V97G+X2"
+    },
+    "rating": 0,
+    "reference": "ChIJNfeISftt5kcR0LqbqMDX_7g",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "14 Rue de Turbigo, 75001 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8636303,
+        "lng": 2.3488388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86505577989271,
+          "lng": 2.350235229892723
+        },
+        "southwest": {
+          "lat": 48.86235612010727,
+          "lng": 2.347535570107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6e25b19a5b2a586f91767aa0b465e04adc87f9c1",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJP9jtoBlu5kcReu891DEMTU4",
+    "plus_code": {
+      "compound_code": "V87X+FG Paris, France",
+      "global_code": "8FW4V87X+FG"
+    },
+    "rating": 0,
+    "reference": "ChIJP9jtoBlu5kcReu891DEMTU4",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "1 Avenue de la République, 75011 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8670717,
+        "lng": 2.3662241
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86832797989273,
+          "lng": 2.367528879892722
+        },
+        "southwest": {
+          "lat": 48.86562832010728,
+          "lng": 2.364829220107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2d2bbded311290d082c76bb9020439e8eb358c85",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJ_X5BaAhu5kcRENujL27I0R0",
+    "plus_code": {
+      "compound_code": "V988+RF Paris, France",
+      "global_code": "8FW4V988+RF"
+    },
+    "rating": 0,
+    "reference": "ChIJ_X5BaAhu5kcRENujL27I0R0",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "29 Boulevard Poissonnière, 75009 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8712372,
+        "lng": 2.3432831
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87269637989272,
+          "lng": 2.344672879892722
+        },
+        "southwest": {
+          "lat": 48.86999672010728,
+          "lng": 2.341973220107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e067ae61dca546787847534cf0f616857c782877",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJd6GBeD5u5kcRSeSPICEdceI",
+    "plus_code": {
+      "compound_code": "V8CV+F8 Paris, France",
+      "global_code": "8FW4V8CV+F8"
+    },
+    "rating": 0,
+    "reference": "ChIJd6GBeD5u5kcRSeSPICEdceI",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "37 Rue Molitor, 75016 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8450193,
+        "lng": 2.2614843
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84648717989273,
+          "lng": 2.262840279892723
+        },
+        "southwest": {
+          "lat": 48.84378752010728,
+          "lng": 2.260140620107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2f25b5cd0758b589b4cd6c20d89b0eca772fb690",
+    "name": "Kiosque à Journaux",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJbUnerLt65kcRCqJ-BgLavNI",
+    "plus_code": {
+      "compound_code": "R7W6+2H Paris, France",
+      "global_code": "8FW4R7W6+2H"
+    },
+    "rating": 5,
+    "reference": "ChIJbUnerLt65kcRCqJ-BgLavNI",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "113 Boulevard Haussmann, 75008 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8751804,
+        "lng": 2.3160943
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87655877989272,
+          "lng": 2.317459279892722
+        },
+        "southwest": {
+          "lat": 48.87385912010727,
+          "lng": 2.314759620107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ab339e372575006a6c6440da0fd0a7b9b4657cd1",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJX3Bxu8lv5kcRbKo7ELbAmL4",
+    "plus_code": {
+      "compound_code": "V8G8+3C Paris, France",
+      "global_code": "8FW4V8G8+3C"
+    },
+    "rating": 0,
+    "reference": "ChIJX3Bxu8lv5kcRbKo7ELbAmL4",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "29 Avenue de Marigny, 75008 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.871023,
+        "lng": 2.3160803
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87235367989272,
+          "lng": 2.317490429892723
+        },
+        "southwest": {
+          "lat": 48.86965402010728,
+          "lng": 2.314790770107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "7e9981f379ec59cc0207ddfcb17c64634fe0c824",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJMV4_x85v5kcRuz27n2jimsE",
+    "plus_code": {
+      "compound_code": "V8C8+CC Paris, France",
+      "global_code": "8FW4V8C8+CC"
+    },
+    "rating": 0,
+    "reference": "ChIJMV4_x85v5kcRuz27n2jimsE",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "22 Rue de Turenne, 75004 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.85627059999999,
+        "lng": 2.3644669
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85765642989271,
+          "lng": 2.365685329892723
+        },
+        "southwest": {
+          "lat": 48.85495677010727,
+          "lng": 2.362985670107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "399a2c1e31486c9f68d0dffaacc678755e7c5260",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJaaR0LQBu5kcRcdzKkbg9KGQ",
+    "plus_code": {
+      "compound_code": "V947+GQ Paris, France",
+      "global_code": "8FW4V947+GQ"
+    },
+    "rating": 0,
+    "reference": "ChIJaaR0LQBu5kcRcdzKkbg9KGQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "10 Rue de Rivoli, 75004 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8555267,
+        "lng": 2.3604517
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85681477989272,
+          "lng": 2.361769529892722
+        },
+        "southwest": {
+          "lat": 48.85411512010727,
+          "lng": 2.359069870107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "96ab904b9b7497f8eb714dad9084263c5440eb7c",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJ_c-_8f1x5kcR8yQ3pdkgf8M",
+    "plus_code": {
+      "compound_code": "V946+65 Paris, France",
+      "global_code": "8FW4V946+65"
+    },
+    "rating": 0,
+    "reference": "ChIJ_c-_8f1x5kcR8yQ3pdkgf8M",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "6 Place Tristan Bernard, 75017 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8796669,
+        "lng": 2.2907732
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88095337989272,
+          "lng": 2.292201579892722
+        },
+        "southwest": {
+          "lat": 48.87825372010728,
+          "lng": 2.289501920107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "44684e7e827fa7ea25b719f4ad4c078ab44c6e8b",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJSSmbjpJv5kcRvEP8Te_IC6g",
+    "plus_code": {
+      "compound_code": "V7HR+V8 Paris, France",
+      "global_code": "8FW4V7HR+V8"
+    },
+    "rating": 0,
+    "reference": "ChIJSSmbjpJv5kcRvEP8Te_IC6g",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "1 Place Saint-Augustin, 75008 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8750766,
+        "lng": 2.3192007
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87650107989272,
+          "lng": 2.320671879892723
+        },
+        "southwest": {
+          "lat": 48.87380142010728,
+          "lng": 2.317972220107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e54fb95624c851f65e8e6fc5ef9ba5ff491f949d",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJY9kJSMpv5kcRHxIRzpaOKVM",
+    "plus_code": {
+      "compound_code": "V8G9+2M Paris, France",
+      "global_code": "8FW4V8G9+2M"
+    },
+    "rating": 5,
+    "reference": "ChIJY9kJSMpv5kcRHxIRzpaOKVM",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "41 Rue Croix des Petits Champs, 75001 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8647381,
+        "lng": 2.340302
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86607347989273,
+          "lng": 2.341707279892722
+        },
+        "southwest": {
+          "lat": 48.86337382010728,
+          "lng": 2.339007620107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "bacc9ecf593ada507d32deb3e85563f6cfa275fa",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJacZ0byNu5kcRcS50zMRYIr4",
+    "plus_code": {
+      "compound_code": "V87R+V4 Paris, France",
+      "global_code": "8FW4V87R+V4"
+    },
+    "rating": 0,
+    "reference": "ChIJacZ0byNu5kcRcS50zMRYIr4",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "106 Boulevard Jourdan, 75014 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.82330779999999,
+        "lng": 2.3263269
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.82455482989272,
+          "lng": 2.327623329892722
+        },
+        "southwest": {
+          "lat": 48.82185517010728,
+          "lng": 2.324923670107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ae3737f2179232013b6b9fc11416460f5a9d3a45",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJD2Y27a5x5kcRUVb1u0A5Gh0",
+    "plus_code": {
+      "compound_code": "R8FG+8G Paris, France",
+      "global_code": "8FW4R8FG+8G"
+    },
+    "rating": 0,
+    "reference": "ChIJD2Y27a5x5kcRUVb1u0A5Gh0",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "72 Rue de Reuilly, 75012 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8438209,
+        "lng": 2.390482
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84520722989273,
+          "lng": 2.391902979892722
+        },
+        "southwest": {
+          "lat": 48.84250757010729,
+          "lng": 2.389203320107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b48a2319041471ecf10b46aa48f84f4bc3ae8a38",
+    "name": "Kiosque à Journaux",
+    "opening_hours": {},
+    "place_id": "ChIJ35I3bW1y5kcRrfRgP-Vh38k",
+    "plus_code": {
+      "compound_code": "R9VR+G5 Paris, France",
+      "global_code": "8FW4R9VR+G5"
+    },
+    "rating": 5,
+    "reference": "ChIJ35I3bW1y5kcRrfRgP-Vh38k",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "50 Avenue Bugeaud, 75116 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8712634,
+        "lng": 2.2785865
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87256442989272,
+          "lng": 2.279911229892722
+        },
+        "southwest": {
+          "lat": 48.86986477010728,
+          "lng": 2.277211570107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8a2f8523363173ccc2b937b0fe99060ea96901d6",
+    "name": "Kiosque à Journaux",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJcYhgn1hl5kcR6J5vQ-mYJBc",
+    "plus_code": {
+      "compound_code": "V7CH+GC Paris, France",
+      "global_code": "8FW4V7CH+GC"
+    },
+    "rating": 0,
+    "reference": "ChIJcYhgn1hl5kcR6J5vQ-mYJBc",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "1 Boulevard Pereire, 75017 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8874475,
+        "lng": 2.3140561
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88875967989272,
+          "lng": 2.315384779892722
+        },
+        "southwest": {
+          "lat": 48.88606002010727,
+          "lng": 2.312685120107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "7336601411b54be730279f6b59626644b2f4c3ed",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJZ2DH5K9v5kcRNX5W1Cce5XQ",
+    "plus_code": {
+      "compound_code": "V8P7+XJ Paris, France",
+      "global_code": "8FW4V8P7+XJ"
+    },
+    "rating": 0,
+    "reference": "ChIJZ2DH5K9v5kcRNX5W1Cce5XQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "14 Rue de Châteaudun, 75009 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8762181,
+        "lng": 2.3397336
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87760687989272,
+          "lng": 2.341170629892722
+        },
+        "southwest": {
+          "lat": 48.87490722010728,
+          "lng": 2.338470970107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f02040b5290d4c32220f6ab323ce36497ac68e11",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJyXPgrjhu5kcR2qDdGOkLEDc",
+    "plus_code": {
+      "compound_code": "V8GQ+FV Paris, France",
+      "global_code": "8FW4V8GQ+FV"
+    },
+    "rating": 0,
+    "reference": "ChIJyXPgrjhu5kcR2qDdGOkLEDc",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "7 Avenue Matignon, 75008 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8699692,
+        "lng": 2.3114953
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87136117989272,
+          "lng": 2.312876479892723
+        },
+        "southwest": {
+          "lat": 48.86866152010727,
+          "lng": 2.310176820107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "4fd0eb4e04781911414bb7353fde0169b55e1c33",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJheT7g8Vv5kcRVg28hPK7bqg",
+    "plus_code": {
+      "compound_code": "V896+XH Paris, France",
+      "global_code": "8FW4V896+XH"
+    },
+    "rating": 0,
+    "reference": "ChIJheT7g8Vv5kcRVg28hPK7bqg",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "Rue la Boétie, 75008 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.87278,
+        "lng": 2.3102196
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87407667989272,
+          "lng": 2.311617929892722
+        },
+        "southwest": {
+          "lat": 48.87137702010728,
+          "lng": 2.308918270107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9db1a8309967c6dfc16703512cbf1c6de8ef8bf5",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJM1JabsZv5kcRJIl06Bh5WnI",
+    "plus_code": {
+      "compound_code": "V8F6+43 Paris, France",
+      "global_code": "8FW4V8F6+43"
+    },
+    "rating": 1,
+    "reference": "ChIJM1JabsZv5kcRJIl06Bh5WnI",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "57 Boulevard de Clichy, 75009 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8836778,
+        "lng": 2.3329718
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88496947989272,
+          "lng": 2.334276679892722
+        },
+        "southwest": {
+          "lat": 48.88226982010728,
+          "lng": 2.331577020107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e92f360cc4be5c897bf08dccf9cd8c3891963ff1",
+    "name": "Kiosque à Journaux",
+    "photos": [
+      {
+        "height": 1417,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/113706056834911248325/photos\"\u003efreda freda\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAyGrVInACzxePgszDH0z38KiPwJwWzAo9_8bJE-k2EonRtrH4nyG6WY4sGUQYIZNiPLPhCfEXAX2aFj6Q6Pyhzlr0jeMeYlcaHmLWzaa886FW6TytWQohQoneDGg5Gsg_EhCHzqeJl7kTloC10_oZ5peAGhQyHSVddkCV38PF2nFG9upU3pvsdQ",
+        "width": 2126
+      }
+    ],
+    "place_id": "ChIJld2cBE9u5kcRcUtFoiBbiaM",
+    "plus_code": {
+      "compound_code": "V8MM+F5 Paris, France",
+      "global_code": "8FW4V8MM+F5"
+    },
+    "rating": 5,
+    "reference": "ChIJld2cBE9u5kcRcUtFoiBbiaM",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "98 Rue Monge, 75005 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.84068850000001,
+        "lng": 2.3514041
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84200977989272,
+          "lng": 2.352906729892722
+        },
+        "southwest": {
+          "lat": 48.83931012010728,
+          "lng": 2.350207070107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "91a4c99a92feea4b976a5eaa9355f8422cf50046",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJTUhK0-1x5kcR-voBkTnzDis",
+    "plus_code": {
+      "compound_code": "R9R2+7H Paris, France",
+      "global_code": "8FW4R9R2+7H"
+    },
+    "rating": 0,
+    "reference": "ChIJTUhK0-1x5kcR-voBkTnzDis",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "1 Rue de Belleville, 75019 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.87247079999999,
+        "lng": 2.3777268
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87375197989272,
+          "lng": 2.379115929892722
+        },
+        "southwest": {
+          "lat": 48.87105232010727,
+          "lng": 2.376416270107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9a5cb4c264dfdf16ee1a762be2a400d884aca7d6",
+    "name": "Kiosque A Journaux",
+    "place_id": "ChIJuxaBW-Zt5kcR64prIA64AMQ",
+    "plus_code": {
+      "compound_code": "V9CH+X3 Paris, France",
+      "global_code": "8FW4V9CH+X3"
+    },
+    "rating": 1,
+    "reference": "ChIJuxaBW-Zt5kcR64prIA64AMQ",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "78B Avenue Henri Martin, 75116 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8643885,
+        "lng": 2.2726792
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86569187989272,
+          "lng": 2.274048879892722
+        },
+        "southwest": {
+          "lat": 48.86299222010728,
+          "lng": 2.271349220107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6903f0618f972155fa87eadc962872552859b29f",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJR-8Pz1Zl5kcRW1RclAvBtU8",
+    "plus_code": {
+      "compound_code": "V77F+Q3 Paris, France",
+      "global_code": "8FW4V77F+Q3"
+    },
+    "rating": 0,
+    "reference": "ChIJR-8Pz1Zl5kcRW1RclAvBtU8",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "32 Avenue de Laumière, 75019 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8847811,
+        "lng": 2.379839
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88611952989272,
+          "lng": 2.381156129892722
+        },
+        "southwest": {
+          "lat": 48.88341987010728,
+          "lng": 2.378456470107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "44fa371183fb346956be57e64b19854437765e8f",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJoQsButpt5kcRDL_hYRXgD6A",
+    "plus_code": {
+      "compound_code": "V9MH+WW Paris, France",
+      "global_code": "8FW4V9MH+WW"
+    },
+    "rating": 0,
+    "reference": "ChIJoQsButpt5kcRDL_hYRXgD6A",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "57 Rue de Lévis, 75017 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8837177,
+        "lng": 2.3136665
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.88508427989272,
+          "lng": 2.315049579892722
+        },
+        "southwest": {
+          "lat": 48.88238462010727,
+          "lng": 2.312349920107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f3d18d32147355845ec3b1d19a85537734b7fb7a",
+    "name": "Kiosque à Journaux",
+    "photos": [
+      {
+        "height": 318,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/109512268777336806851/photos\"\u003ePierre Alcaraz\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAB_9XyxhGT4KJLMAmRpp920IjIZEItQ8YfzRfeOkU2TSZgUfJCv5_2qy6lesR984VhdAbjyXxoBd_20VKF5FPvy8Hfo3TSYt0K4N7Fco_vVpGkhK1P3cJ07klMceWiUDQEhAhwqlgaYXJyS2V8QcP5-MbGhTDat1hR6EMvKCwdeJK3xf9ptidZQ",
+        "width": 584
+      }
+    ],
+    "place_id": "ChIJC8pxmrBv5kcRknoT2hraKHA",
+    "plus_code": {
+      "compound_code": "V8M7+FF Paris, France",
+      "global_code": "8FW4V8M7+FF"
+    },
+    "rating": 5,
+    "reference": "ChIJC8pxmrBv5kcRknoT2hraKHA",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "8 Rue de Bretagne, 75003 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8624214,
+        "lng": 2.3637493
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.86372297989272,
+          "lng": 2.365036929892722
+        },
+        "southwest": {
+          "lat": 48.86102332010728,
+          "lng": 2.362337270107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0217e5a64764ca0562cc694979cf1bb446760d5b",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJ66QF3gZu5kcR4qNG6cdb2BY",
+    "plus_code": {
+      "compound_code": "V967+XF Paris, France",
+      "global_code": "8FW4V967+XF"
+    },
+    "rating": 1,
+    "reference": "ChIJ66QF3gZu5kcR4qNG6cdb2BY",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "2 Rue Boinod, 75018 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.891635,
+        "lng": 2.349764
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.89305262989273,
+          "lng": 2.351057529892722
+        },
+        "southwest": {
+          "lat": 48.89035297010729,
+          "lng": 2.348357870107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "13c4d2c51bbac57cb5880a0b0b51f861e6822bf1",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJ7-pp0WBu5kcRqN1sR7dgPJs",
+    "plus_code": {
+      "compound_code": "V8RX+MW Paris, France",
+      "global_code": "8FW4V8RX+MW"
+    },
+    "rating": 5,
+    "reference": "ChIJ7-pp0WBu5kcRqN1sR7dgPJs",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "139 Avenue Daumesnil, 75012 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8428219,
+        "lng": 2.3855969
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.84401292989273,
+          "lng": 2.386791229892722
+        },
+        "southwest": {
+          "lat": 48.84131327010728,
+          "lng": 2.384091570107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "11efbd606072975fcf387e159c04cece3a1caa94",
+    "name": "Kiosque à Journaux",
+    "place_id": "ChIJkzXhNhJy5kcR0rR8UylmcFs",
+    "plus_code": {
+      "compound_code": "R9VP+46 Paris, France",
+      "global_code": "8FW4R9VP+46"
+    },
+    "rating": 0,
+    "reference": "ChIJkzXhNhJy5kcR0rR8UylmcFs",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "2 Rue la Fayette, 75009 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8730644,
+        "lng": 2.3335045
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87444912989271,
+          "lng": 2.334830779892723
+        },
+        "southwest": {
+          "lat": 48.87174947010727,
+          "lng": 2.332131120107278
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ca8fbf84cc0a546cdceb0a7353ee9f661a23a9d2",
+    "name": "Kiosque à Journaux",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/100851944748275317680/photos\"\u003eA Google User\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAxZHXHTWX8kmkJcIjAKESr3N2iLfOc2W7sshYWoolLHM6pKdsGvGVE3z_74W_dv1pD-qfThVOqblhTESJy2Ovgo14-Mw4t7ixJWwIdmJJeO3GA03mroqq0xeq42VZfpngEhD0SLJvjhFcXdfPfVPn2cx-GhQGZ4q8vXIY7ZTOt5x1xsAcxIpkkA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJQ6Toazdu5kcRKqSV-V4JUMk",
+    "plus_code": {
+      "compound_code": "V8FM+6C Paris, France",
+      "global_code": "8FW4V8FM+6C"
+    },
+    "rating": 0,
+    "reference": "ChIJQ6Toazdu5kcRKqSV-V4JUMk",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "128 Boulevard Voltaire, 75011 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8582957,
+        "lng": 2.3788713
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85971687989272,
+          "lng": 2.380322679892722
+        },
+        "southwest": {
+          "lat": 48.85701722010728,
+          "lng": 2.377623020107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e8957a90ff88453b22f17464f5d60d3a7815751f",
+    "name": "Kiosque à Journaux",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/116283236226304301678/photos\"\u003eBassel Tawil\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAJ1JeiZIWTb1rQ9dKakDVRDNWJ0G0Dgu0C-D5cOlTZ_YbaATnhoGpwBMctHgx63-Cvo4I16uwo4-VEJLBYOvke82jbmpkJoh1lhG14jK35Q79rebRfoC_9PWb9A5eH6UYEhBb2bSCpJMVL5UhUZ0AOZ-tGhRIBmYIKRGy1lnINj3xEVG7YfFdPw",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ7_GucPdt5kcRQhcmT7Rdjzo",
+    "plus_code": {
+      "compound_code": "V95H+8G Paris, France",
+      "global_code": "8FW4V95H+8G"
+    },
+    "rating": 4,
+    "reference": "ChIJ7_GucPdt5kcRQhcmT7Rdjzo",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "15 Boulevard Saint-Michel, 75005 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8517889,
+        "lng": 2.3436217
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.85315967989272,
+          "lng": 2.344862579892722
+        },
+        "southwest": {
+          "lat": 48.85046002010728,
+          "lng": 2.342162920107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "036ea3387a946cfc9a23e08722f6ca8bf3f1ed45",
+    "name": "Kiosque à Journaux",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/116283236226304301678/photos\"\u003eBassel Tawil\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAP-S1C2H_4DxUaBvI3Ve0sMEeLxZY9wPj-UzmenvWJRpjNYqryuBst3Is23sI0XfoI8RlRuRwtxU54j3wqBvEr7hsKb0ocRzJbZxwjcc-fiXZHd0MG7PVQ6r1fE1WAjbxEhAaaFA5ESiu9bMpvxH2Wz2qGhQeD0Rzip5EjqZ8ScV2C_lOMFrPdQ",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJCbUxBd5x5kcRxWGod4cQ498",
+    "plus_code": {
+      "compound_code": "V82V+PC Paris, France",
+      "global_code": "8FW4V82V+PC"
+    },
+    "rating": 0,
+    "reference": "ChIJCbUxBd5x5kcRxWGod4cQ498",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "7 Avenue des Gobelins, 75005 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8382116,
+        "lng": 2.3510607
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.83953742989272,
+          "lng": 2.352337979892722
+        },
+        "southwest": {
+          "lat": 48.83683777010728,
+          "lng": 2.349638320107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "d7112297edb6b38aacdfc6eb0cebc7dbe4cfebfa",
+    "name": "Kiosque à Journaux",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110887045826874604733/photos\"\u003ePierre Cohade\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAVh-LSfmsupIsYG7OUA_tS87QaBUnRkvRo0d_s7taovDnqgDnF0eS0P4ep3P2stpOUtaIb0kiWf7SpNGAfg8y-Fs3iQOkPx_06GA4rDKbHcJ61uJ12b7Fj8k2QQNI43GREhAIUIxcYflE2FUsFbqOUieMGhRVnlMqJPWMSPfwMb6Ym6Wmw6grSg",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJK172--xx5kcRKpfye1Dc27M",
+    "plus_code": {
+      "compound_code": "R9Q2+7C Paris, France",
+      "global_code": "8FW4R9Q2+7C"
+    },
+    "rating": 0,
+    "reference": "ChIJK172--xx5kcRKpfye1Dc27M",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 0
+  },
+  {
+    "formatted_address": "1 Boulevard de la Madeleine, 75009 Paris, France",
+    "geometry": {
+      "location": {
+        "lat": 48.8697903,
+        "lng": 2.3277676
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 48.87118807989272,
+          "lng": 2.329099929892722
+        },
+        "southwest": {
+          "lat": 48.86848842010728,
+          "lng": 2.326400270107277
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "15f302802b94eee349493afa396b478684c6cd47",
+    "name": "Kiosque à Journaux",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/116283236226304301678/photos\"\u003eBassel Tawil\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA3QxKAS1nmm7C-aeYf58pEnzLLdb8o3jEjJjb48HGCKEh1TqQkmkAlEoSXfSgFtpISlJHwt7MCz3TfxnBeJKNBiy2509_Q6dYf4wAUkZilJKhFOc_kUgJCZFQVYehCrvhEhDratoyi4NO3rgp_44Vbbi6GhRGjtBWXJf4t1VuRhbIKIHGH-qIIQ",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJJ9OLxTNu5kcRukX_abNr-y0",
+    "plus_code": {
+      "compound_code": "V89H+W4 Paris, France",
+      "global_code": "8FW4V89H+W4"
+    },
+    "rating": 4,
+    "reference": "ChIJJ9OLxTNu5kcRukX_abNr-y0",
+    "types": ["store", "point_of_interest", "establishment"],
+    "user_ratings_total": 1
+  }
+]

@@ -1,0 +1,22 @@
+<table class="table table-light">
+  <thead>
+    <tr>
+      <th scope="col">Magasin</th>
+      <th scope="col">Adresse</th>
+      <th scope="col">Image</th>
+      <th>Modifier</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of locations">
+      <td>{{ item.nom }}</td>
+      <td>{{ item.adresse }}</td>
+      <td>
+        <img src="{{ item.imageUrl }}" width="400" height="300" />
+      </td>
+      <td>
+        <input type="text" class="form-control" id="exampleCheck1" />
+      </td>
+    </tr>
+  </tbody>
+</table>
