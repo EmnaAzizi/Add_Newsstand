@@ -42,7 +42,7 @@ export class AddLocationComponent implements OnInit {
         this.latitude +
         "," +
         this.longitude +
-        "&key=AIzaSyC934Va4L8ucwQXOsqNXJSM09HbUNBezas&signature=Newspayper";
+        "&key=AIzaSyC934Va4L8ucwQXOsqNXJSM09HbUNBezas";
     }
 
     console.log(
@@ -67,7 +67,7 @@ export class AddLocationComponent implements OnInit {
             result[0].Location.DisplayPosition.Latitude +
             "," +
             result[0].Location.DisplayPosition.Longitude +
-            "&key=AIzaSyC934Va4L8ucwQXOsqNXJSM09HbUNBezas&signature=Newspayper",
+            "&key=AIzaSyC934Va4L8ucwQXOsqNXJSM09HbUNBezas",
           url: "",
           itineraire: ""
         });
